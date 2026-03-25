@@ -3161,3 +3161,61 @@
 [16:21:32] =======================================================
 [16:21:32] ✅ DONE! 1/1 plays of "bamchikicha"
 [16:21:32] =======================================================
+[16:37:54] 📐 Detected screen resolution: 1080x2400
+[16:37:54] =======================================================
+[16:37:54] 🎵 Spotify Bot — v8 (Auto-Play Detection)
+[16:37:54] 📐 Screen: 1080x2400
+[16:37:54] 🎤 Song: bamchikicha
+[16:37:54] 🎤 Artist: lifah
+[16:37:54] 🔍 Search query: "bamchikicha lifah"
+[16:37:54] 🎯 Target plays: 1
+[16:37:54] ⏱️ Per play: 35s
+[16:37:54] =======================================================
+[16:37:54] ✅ ADB device detected
+[16:37:54] Starting in 5 seconds...
+[16:37:59] 
+🔄 ROUND 1 | ✅ 0/1
+
+[16:37:59] 📱 Launching Spotify...
+[16:38:03] 🔓 Waking and unlocking phone...
+[16:38:11] ━━━ STEP 1: Reset to Home ━━━
+[16:38:11]    ✅ Spotify already in foreground
+[16:38:11]    👆 Tap: Home tab (97,2328)
+[16:38:18] ━━━ STEP 2: Open Search ━━━
+[16:38:22]    👆 Tap: Search tab (attempt 1) (324,2287)
+[16:38:42]    ✅ Search screen
+[16:38:42] ━━━ STEP 3: Search for "bamchikicha lifah" ━━━
+[16:38:42]    🔍 Ensuring search field is ready for "bamchikicha lifah"
+[16:38:43]    🔍 Focusing search field
+[16:38:43]    Trying known coordinate (345, 120)
+[16:38:43]    👆 Tap: Known search field (345,120)
+[16:38:50]    Found search field via placeholder text at (397,332)
+[16:38:50]    UI detected search field at (397, 332)
+[16:38:50]    👆 Tap: UI-detected search field (397,332)
+[16:38:54]    ✅ Keyboard is visible
+[16:38:54]    🧹 Clearing search field
+[16:39:11]    ⌨️ Typing (char by char): "bamchikicha lifah"
+[16:39:22]    ✅ Verified exact text: "bamchikicha lifah"
+[16:39:22]    ⌨️ Pressing Enter
+[16:39:27]    ✅ Search results
+[16:39:27] ━━━ Playing: "bamchikicha" by "lifah" ━━━
+[16:39:27]    🎯 Looking for: "bamchikicha" by "lifah"
+[16:39:31]    📋 Found 12 valid song candidates
+[16:39:31]    ✅ Found EXACT match: "Bamchikicha" by "Lifah" at (534,422)
+[16:39:31]    👆 Tap: Click: Bamchikicha (534,422)
+[16:39:32]    🎮 Checking if mini-player click is needed...
+[16:39:32]    🎵 Checking if song started playing automatically...
+[16:39:34]    📊 Playback state: Playing=True, Position=1172
+[16:39:34]    ✅ Song is already playing!
+[16:39:34]    ⏭️ Skipping mini-player click - already playing!
+[16:39:34]    🎵 Starting playback stream...
+[16:39:34]    📊 First check - Playing: True, Position: 1172
+[16:39:37]    📊 Second check - Playing: True, Position: 1172
+[16:39:37]    ⚠️ Position did not advance, but playback state is active
+[16:39:37]    ▶️ Playback confirmed! Streaming for 35s...
+[16:39:42] 
+⚠️ Bot interrupted by user
+[16:39:42] 
+[16:39:42] =======================================================
+[16:39:42] ✅ DONE! 0/1 plays of "bamchikicha"
+[16:39:42] =======================================================
