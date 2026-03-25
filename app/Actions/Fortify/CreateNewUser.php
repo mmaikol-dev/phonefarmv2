@@ -24,10 +24,20 @@ class CreateNewUser implements CreatesNewUsers
             'password' => $this->passwordRules(),
         ])->validate();
 
+        $email = strtolower($input['email']);
+        $configuredAdmins = collect(explode(',', (string) env('ADMIN_EMAILS', '')))
+            ->map(fn (string $value) => strtolower(trim($value)))
+            ->filter();
+        $isFirstUser = User::query()->count() === 0;
+        $role = $isFirstUser || $configuredAdmins->contains($email)
+            ? User::ROLE_ADMIN
+            : User::ROLE_USER;
+
         return User::create([
             'name' => $input['name'],
             'email' => $input['email'],
             'password' => $input['password'],
+            'role' => $role,
         ]);
     }
 }

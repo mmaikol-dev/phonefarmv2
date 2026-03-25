@@ -1,0 +1,21 @@
+{
+  "spotify": {
+    "package": "com.spotify.music",
+    "activity": "com.spotify.music/.MainActivity"
+  },
+  "song": {
+    "title": "billie jean",
+    "artist": "Michael Jackson",
+    "streams_target": 1,
+    "stream_seconds": 35
+  },
+  "ui": {
+    "wait_seconds": 10,
+    "poll_seconds": 0.8,
+    "debug_ui": true
+  },
+  "logging": {
+    "file": "spotify_log.txt",
+    "screenshot_on_error": true
+  }
+}

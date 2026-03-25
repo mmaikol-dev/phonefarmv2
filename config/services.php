@@ -36,8 +36,12 @@ return [
     ],
 
     'stf' => [
+        'auth_secret' => env('STF_AUTH_SECRET', 'kute kittykat'),
+        'audio_source' => env('STF_AUDIO_SOURCE', 'output'),
         'base_url' => env('STF_BASE_URL', 'http://localhost:7100'),
         'token' => env('STF_TOKEN', ''),
+        'websocket_port' => env('STF_WEBSOCKET_PORT', 7110),
+        'websocket_url' => env('STF_WEBSOCKET_URL', ''),
     ],
 
 ];

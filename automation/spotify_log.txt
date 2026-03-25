@@ -1,0 +1,3163 @@
+[17:27:28] =======================================================
+[17:27:28] 🎵 Spotify Bot — UI Automator Control
+[17:27:28] 🎤 Artist: Wakadinali
+[17:27:28] 🎯 Target: 10 streams
+[17:27:28] ⏱️ Per song: 35s
+[17:27:28] =======================================================
+[17:27:28] ✅ ADB device detected
+[17:27:28] Starting in 5 seconds...
+[17:27:33] 
+🔄 ROUND 1 | ✅ 0/10
+
+[17:27:33] 📱 Opening Spotify...
+[17:27:33] 🔓 Waking and unlocking phone...
+[17:27:45] ━━━ STEP 1: Reset to Home ━━━
+[17:27:46]    👆 Tap: Home tab (100,2328)
+[17:27:54]    👆 Tap: Home tab (100,2288)
+[17:28:14]    👆 Tap: Home tab (140,2288)
+[17:28:34]    👆 Tap: Home tab (120,2235)
+[17:28:43] 
+⚠️ Bot interrupted by user
+[17:28:43] 
+[17:28:43] =======================================================
+[17:28:43] ✅ DONE! 0/10 streams for Wakadinali
+[17:28:43] =======================================================
+[17:28:50] =======================================================
+[17:28:50] 🎵 Spotify Bot — UI Automator Control
+[17:28:50] 🎤 Artist: Wakadinali
+[17:28:50] 🎯 Target: 10 streams
+[17:28:50] ⏱️ Per song: 35s
+[17:28:50] =======================================================
+[17:28:50] ✅ ADB device detected
+[17:28:50] Starting in 5 seconds...
+[17:28:55] 
+🔄 ROUND 1 | ✅ 0/10
+
+[17:28:55] 📱 Opening Spotify...
+[17:28:55] 🔓 Waking and unlocking phone...
+[17:29:07] ━━━ STEP 1: Reset to Home ━━━
+[17:29:08]    👆 Tap: Home tab (100,2328)
+[17:29:23]    👆 Tap: Home tab (100,2288)
+[17:29:30]    👆 Tap: Home tab (140,2288)
+[17:29:34] ━━━ STEP 2: Open Search ━━━
+[17:29:42]    👆 Tap: Search tab (attempt 1) (324,2287)
+[17:30:06]    ✅ Search screen
+[17:30:06] ━━━ STEP 3: Search Wakadinali ━━━
+[17:30:06]    🔍 Ensuring search field is ready
+[17:30:07]    🔍 Focusing search field
+[17:30:07]    Trying known coordinate (350, 124)
+[17:30:07]    👆 Tap: Known search field (350,124)
+[17:30:10]    ✅ Keyboard is visible
+[17:30:10]    🧹 Clearing search field
+[17:30:12]    ⌨️ Typing: "Wakadinali"
+[17:30:19]    ✅ Verified text in search field: "WakadinaliWakadinali"
+[17:30:19]    ⌨️ Pressing Enter
+[17:30:22]    ✅ Search results
+[17:30:22] ━━━ STEP 4: Open Artist 'Wakadinali' ━━━
+[17:30:25]    👆 Tap: Artist: Wakadinali (228,263)
+[17:30:44]    ✅ Artist page
+[17:30:44] ━━━ STEP 5: Follow Artist ━━━
+[17:30:48]    👆 Tap: Follow (884,261)
+[17:30:50] 
+⚠️ Bot interrupted by user
+[17:30:50] 
+[17:30:50] =======================================================
+[17:30:50] ✅ DONE! 0/10 streams for Wakadinali
+[17:30:50] =======================================================
+[17:31:02] =======================================================
+[17:31:02] 🎵 Spotify Bot — UI Automator Control
+[17:31:02] 🎤 Artist: Wakadinali
+[17:31:02] 🎯 Target: 10 streams
+[17:31:02] ⏱️ Per song: 35s
+[17:31:02] =======================================================
+[17:31:02] ✅ ADB device detected
+[17:31:02] Starting in 5 seconds...
+[17:31:07] 
+🔄 ROUND 1 | ✅ 0/10
+
+[17:31:07] 📱 Opening Spotify...
+[17:31:07] 🔓 Waking and unlocking phone...
+[17:31:19] ━━━ STEP 1: Reset to Home ━━━
+[17:31:19]    👆 Tap: Home tab (100,2328)
+[17:31:26] ━━━ STEP 2: Open Search ━━━
+[17:31:29]    👆 Tap: Search tab (attempt 1) (324,2287)
+[17:31:51]    ❌ Timed out waiting for Search screen
+[17:31:51]    👆 Tap: Search tab (attempt 2) (324,2328)
+[17:32:13] 
+⚠️ Bot interrupted by user
+[17:32:13] 
+[17:32:13] =======================================================
+[17:32:13] ✅ DONE! 0/10 streams for Wakadinali
+[17:32:13] =======================================================
+[17:32:45] =======================================================
+[17:32:45] 🎵 Spotify Bot — UI Automator Control
+[17:32:45] 🎤 Artist: Wakadinali
+[17:32:45] 🎯 Target: 10 streams
+[17:32:45] ⏱️ Per song: 35s
+[17:32:45] =======================================================
+[17:32:45] ✅ ADB device detected
+[17:32:45] Starting in 5 seconds...
+[17:32:50] 
+🔄 ROUND 1 | ✅ 0/10
+
+[17:32:50] 📱 Opening Spotify...
+[17:32:50] 🔓 Waking and unlocking phone...
+[17:33:02] ━━━ STEP 1: Reset to Home ━━━
+[17:33:02]    👆 Tap: Home tab (100,2328)
+[17:33:09] ━━━ STEP 2: Open Search ━━━
+[17:33:12]    👆 Tap: Search tab (attempt 1) (324,2287)
+[17:33:28]    ✅ Search screen
+[17:33:28] ━━━ STEP 3: Search Wakadinali ━━━
+[17:33:28]    🔍 Ensuring search field is ready
+[17:33:29]    🔍 Focusing search field
+[17:33:29]    Trying known coordinate (350, 124)
+[17:33:29]    👆 Tap: Known search field (350,124)
+[17:33:32]    Known coordinate failed, trying UI detection
+[17:33:50]    Found candidate near top at (75,146)
+[17:33:50]    UI detected search field at (75, 146)
+[17:33:50]    👆 Tap: UI-detected search field (75,146)
+[17:33:53]    Still no keyboard, trying fallback coordinates
+[17:33:53]    👆 Tap: Fallback (540,200) (540,200)
+[17:33:55] 
+⚠️ Bot interrupted by user
+[17:33:55] 
+[17:33:55] =======================================================
+[17:33:55] ✅ DONE! 0/10 streams for Wakadinali
+[17:33:55] =======================================================
+[17:34:06] =======================================================
+[17:34:06] 🎵 Spotify Bot — UI Automator Control
+[17:34:06] 🎤 Artist: Wakadinali
+[17:34:06] 🎯 Target: 10 streams
+[17:34:06] ⏱️ Per song: 35s
+[17:34:06] =======================================================
+[17:34:06] ✅ ADB device detected
+[17:34:06] Starting in 5 seconds...
+[17:34:11] 
+🔄 ROUND 1 | ✅ 0/10
+
+[17:34:11] 📱 Opening Spotify...
+[17:34:11] 🔓 Waking and unlocking phone...
+[17:34:23] ━━━ STEP 1: Reset to Home ━━━
+[17:34:24]    👆 Tap: Home tab (100,2328)
+[17:34:39]    👆 Tap: Home tab (100,2288)
+[17:34:46]    👆 Tap: Home tab (140,2288)
+[17:34:50] ━━━ STEP 2: Open Search ━━━
+[17:35:02]    👆 Tap: Search tab (attempt 1) (324,2288)
+[17:35:15]    ✅ Search screen
+[17:35:15] ━━━ STEP 3: Search Wakadinali ━━━
+[17:35:15]    🔍 Ensuring search field is ready
+[17:35:16]    Keyboard already visible
+[17:35:16]    🧹 Clearing search field
+[17:35:19]    ⌨️ Typing: "Wakadinali"
+[17:35:25]    ✅ Verified text in search field: "WakadinaliWakadinali"
+[17:35:25]    ⌨️ Pressing Enter
+[17:35:36]    ✅ Search results
+[17:35:36] ━━━ STEP 4: Open Artist 'Wakadinali' ━━━
+[17:35:46]    👆 Tap: Artist: Wakadinali (228,263)
+[17:35:59]    ✅ Artist page
+[17:35:59] ━━━ STEP 5: Follow Artist ━━━
+[17:36:04]    👆 Tap: Follow (884,261)
+[17:36:07] ━━━ STEP 6: Stream Songs ━━━
+[17:36:07]    📜 Scrolling to songs...
+[17:36:18]    ⚠️ No song rows found dynamically, using fallback
+[17:36:18]    Found 5 songs to stream
+[17:36:18] 
+   🎵 Song 1: Song 1
+[17:36:18]    👆 Tapping song row at (232, 655)
+[17:36:18]    👆 Tap: Song 1 (232,655)
+[17:36:28] 
+⚠️ Bot interrupted by user
+[17:36:28] 
+[17:36:28] =======================================================
+[17:36:28] ✅ DONE! 0/10 streams for Wakadinali
+[17:36:28] =======================================================
+[17:36:42] =======================================================
+[17:36:42] 🎵 Spotify Bot — UI Automator Control
+[17:36:42] 🎤 Artist: Wakadinali
+[17:36:42] 🎯 Target: 10 streams
+[17:36:42] ⏱️ Per song: 35s
+[17:36:42] =======================================================
+[17:36:42] ✅ ADB device detected
+[17:36:42] Starting in 5 seconds...
+[17:36:47] 
+🔄 ROUND 1 | ✅ 0/10
+
+[17:36:47] 📱 Opening Spotify...
+[17:36:47] 🔓 Waking and unlocking phone...
+[17:36:59] ━━━ STEP 1: Reset to Home ━━━
+[17:36:59]    👆 Tap: Home tab (100,2328)
+[17:37:06] ━━━ STEP 2: Open Search ━━━
+[17:37:14]    👆 Tap: Search tab (attempt 1) (324,2287)
+[17:37:20]    ✅ Search screen
+[17:37:20] ━━━ STEP 3: Search Wakadinali ━━━
+[17:37:20]    🔍 Ensuring search field is ready
+[17:37:20]    Keyboard already visible
+[17:37:20]    🧹 Clearing search field
+[17:37:22]    ⌨️ Typing: "Wakadinali"
+[17:37:33]    ✅ Verified text in search field: "WakadinaliWakadinali"
+[17:37:33]    ⌨️ Pressing Enter
+[17:37:38]    ✅ Search results
+[17:37:38] ━━━ STEP 4: Open Artist 'Wakadinali' ━━━
+[17:37:42]    👆 Tap: Artist: Wakadinali (228,263)
+[17:37:59]    ✅ Artist page
+[17:37:59] ━━━ STEP 5: Follow Artist ━━━
+[17:38:14]    👆 Tap: Follow (884,261)
+[17:38:18] ━━━ STEP 6: Stream Songs ━━━
+[17:38:19]    Found 5 songs to stream
+[17:38:19] 
+   🎵 Song 1: Song 1
+[17:38:19]    👆 Tapping song row at (232, 655)
+[17:38:19]    👆 Tap: Song 1 (232,655)
+[17:38:34]    ❌ Timed out waiting for Playback to start
+[17:38:34]    ⚠️ Playback not confirmed, skipping
+[17:38:37] 
+⚠️ Bot interrupted by user
+[17:38:37] 
+[17:38:37] =======================================================
+[17:38:37] ✅ DONE! 0/10 streams for Wakadinali
+[17:38:37] =======================================================
+[17:50:21] =======================================================
+[17:50:21] 🎵 Spotify Bot — UI Automator Control
+[17:50:21] 🎤 Artist: Wakadinali
+[17:50:21] 🎯 Target: 10 streams
+[17:50:21] ⏱️ Per song: 35s
+[17:50:21] =======================================================
+[17:50:21] ✅ ADB device detected
+[17:50:21] Starting in 5 seconds...
+[17:50:26] 
+🔄 ROUND 1 | ✅ 0/10
+
+[17:50:26] 📱 Opening Spotify...
+[17:50:26] 🔓 Waking and unlocking phone...
+[17:50:42] ━━━ STEP 1: Reset to Home ━━━
+[17:50:58]    👆 Tap: Home tab (fallback) (100,2288)
+[17:51:07]    ❌ Timed out waiting for Home screen
+[17:51:07]    👆 Tap: Home tab (fallback) (140,2288)
+[17:51:15]    ❌ Timed out waiting for Home screen
+[17:51:15]    👆 Tap: Home tab (fallback) (120,2235)
+[17:51:35]    ❌ Timed out waiting for Home screen
+[17:51:35] ⚠️ Could not verify home screen
+[17:51:35] 
+🔄 ROUND 2 | ✅ 0/10
+
+[17:51:35] 📱 Opening Spotify...
+[17:51:35] 🔓 Waking and unlocking phone...
+[17:51:51] ━━━ STEP 1: Reset to Home ━━━
+[17:52:18]    👆 Tap: Home tab (fallback) (100,2288)
+[17:52:26] 
+⚠️ Bot interrupted by user
+[17:52:26] 
+[17:52:26] =======================================================
+[17:52:26] ✅ DONE! 0/10 streams for Wakadinali
+[17:52:26] =======================================================
+[18:02:02] =======================================================
+[18:02:02] 🎵 Spotify Bot — UI Automator Control
+[18:02:02] 🎤 Artist: Wakadinali
+[18:02:02] 🎯 Target: 10 streams
+[18:02:02] ⏱️ Per song: 35s
+[18:02:02] =======================================================
+[18:02:02] ✅ ADB device detected
+[18:02:02] 📱 Screen size: 1080x2400
+[18:02:02] Starting in 5 seconds...
+[18:02:07] 
+🔄 ROUND 1 | ✅ 0/10
+
+[18:02:07] 📱 Opening Spotify...
+[18:02:07] 🔓 Waking and unlocking phone...
+[18:02:57] ━━━ STEP 1: Reset to Home ━━━
+[18:03:36]    👆 Tap: Home tab fallback (100,2288) (100,2288)
+[18:04:16]    ❌ Timed out waiting for Home screen
+[18:04:16]    Home screen not detected after fallback (100,2288)
+[18:04:21] 
+⚠️ Bot interrupted by user
+[18:04:21] 
+[18:04:21] =======================================================
+[18:04:21] ✅ DONE! 0/10 streams for Wakadinali
+[18:04:21] =======================================================
+[18:04:41] =======================================================
+[18:04:41] 🎵 Spotify Bot — UI Automator Control
+[18:04:41] 🎤 Artist: Wakadinali
+[18:04:41] 🎯 Target: 10 streams
+[18:04:41] ⏱️ Per song: 35s
+[18:04:41] =======================================================
+[18:04:41] ✅ ADB device detected
+[18:04:41] Starting in 5 seconds...
+[18:04:46] 
+🔄 ROUND 1 | ✅ 0/10
+
+[18:04:46] 📱 Opening Spotify...
+[18:04:46] 🔓 Waking and unlocking phone...
+[18:04:59] ━━━ STEP 1: Reset to Home ━━━
+[18:04:59]    👆 Tap: Home tab (100,2328)
+[18:05:40]    👆 Tap: Home tab (100,2288)
+[18:06:22]    👆 Tap: Home tab (140,2288)
+[18:07:03]    👆 Tap: Home tab (120,2235)
+[18:07:32] 
+⚠️ Bot interrupted by user
+[18:07:32] 
+[18:07:32] =======================================================
+[18:07:32] ✅ DONE! 0/10 streams for Wakadinali
+[18:07:32] =======================================================
+[18:07:37] =======================================================
+[18:07:37] 🎵 Spotify Bot — UI Automator Control
+[18:07:37] 🎤 Artist: Wakadinali
+[18:07:37] 🎯 Target: 10 streams
+[18:07:37] ⏱️ Per song: 35s
+[18:07:37] =======================================================
+[18:07:37] ✅ ADB device detected
+[18:07:37] Starting in 5 seconds...
+[18:07:42] 
+🔄 ROUND 1 | ✅ 0/10
+
+[18:07:42] 📱 Opening Spotify...
+[18:07:42] 🔓 Waking and unlocking phone...
+[18:07:54] ━━━ STEP 1: Reset to Home ━━━
+[18:07:55]    👆 Tap: Home tab (100,2328)
+[18:08:36]    👆 Tap: Home tab (100,2288)
+[18:09:18]    👆 Tap: Home tab (140,2288)
+[18:09:59]    👆 Tap: Home tab (120,2235)
+[18:10:40] ⚠️ Could not verify home screen
+[18:10:40] ━━━ STEP 2: Open Search ━━━
+[18:10:44]    👆 Tap: Search tab (attempt 1) (324,2288)
+[18:11:04]    ❌ Timed out waiting for Search screen
+[18:11:04]    👆 Tap: Search tab (attempt 2) (324,2328)
+[18:11:16] 
+⚠️ Bot interrupted by user
+[18:11:16] 
+[18:11:16] =======================================================
+[18:11:16] ✅ DONE! 0/10 streams for Wakadinali
+[18:11:16] =======================================================
+[18:11:26] =======================================================
+[18:11:26] 🎵 Spotify Bot — UI Automator Control
+[18:11:26] 🎤 Artist: Wakadinali
+[18:11:26] 🎯 Target: 10 streams
+[18:11:26] ⏱️ Per song: 35s
+[18:11:26] =======================================================
+[18:11:26] ✅ ADB device detected
+[18:11:26] Starting in 5 seconds...
+[18:11:31] 
+🔄 ROUND 1 | ✅ 0/10
+
+[18:11:31] 📱 Opening Spotify...
+[18:11:31] 🔓 Waking and unlocking phone...
+[18:11:43] ━━━ STEP 1: Reset to Home ━━━
+[18:11:44]    👆 Tap: Home tab (100,2328)
+[18:12:25]    👆 Tap: Home tab (100,2288)
+[18:13:07]    👆 Tap: Home tab (140,2288)
+[18:13:30]    👆 Tap: Home tab (120,2235)
+[18:13:36] ⚠️ Could not verify home screen
+[18:13:36] ━━━ STEP 2: Open Search ━━━
+[18:13:40]    👆 Tap: Search tab (attempt 1) (324,2288)
+[18:14:03]    ❌ Timed out waiting for Search screen
+[18:14:03]    👆 Tap: Search tab (attempt 2) (324,2328)
+[18:15:29]    ❌ Timed out waiting for Search screen
+[18:15:29]    👆 Tap: Search tab (attempt 3) (300,2288)
+[18:18:04]    ❌ Timed out waiting for Search screen
+[18:18:04]    👆 Tap: Search tab (attempt 4) (360,2288)
+[18:18:13] 
+⚠️ Bot interrupted by user
+[18:18:13] 
+[18:18:13] =======================================================
+[18:18:13] ✅ DONE! 0/10 streams for Wakadinali
+[18:18:13] =======================================================
+[18:21:09] ==================================================
+[18:21:09] 🎵 SPOTIFY BOT (STABLE)
+[18:21:09] ==================================================
+[18:21:09] 📱 Opening Spotify (clean)
+[18:21:17] 🔍 Opening Search
+[18:21:18] 👆 Search fallback (324,2328)
+[18:21:40] ==================================================
+[18:21:40] 🎵 SPOTIFY BOT (STABLE)
+[18:21:40] ==================================================
+[18:21:40] 📱 Opening Spotify (clean)
+[18:21:49] 🔍 Opening Search
+[18:22:00] 👆 Search fallback (324,2328)
+[18:22:13] ==================================================
+[18:22:13] 🎵 SPOTIFY BOT (STABLE)
+[18:22:13] ==================================================
+[18:22:13] 📱 Opening Spotify (clean)
+[18:22:22] 🔍 Opening Search
+[18:22:26] 👆 Search fallback (324,2328)
+[18:22:33] ✅ Search screen
+[18:22:33] 🔎 Searching Wakadinali
+[18:22:36] 👆 Fallback search input (540,200)
+[18:22:44] ✅ Search results
+[18:22:44] 🎤 Opening artist
+[18:22:48] 📱 Opening Spotify (clean)
+[08:38:04] ==================================================
+[08:38:04] 🎵 SPOTIFY BOT (DETERMINISTIC)
+[08:38:04] ==================================================
+[08:38:04] 🔌 Waiting for device...
+[08:38:04] ✅ Device connected
+[08:38:04] 📱 Opening Spotify (clean)
+[08:38:13] 🔍 Opening Search
+[08:38:17] 👆 Search fallback (300,2300)
+[08:38:27] ❌ Timeout: Search screen
+[08:39:16] =======================================================
+[08:39:16] 🎵 Spotify Bot — UI Automator Control
+[08:39:16] 🎤 Artist: Wakadinali
+[08:39:16] 🎯 Target: 10 streams
+[08:39:16] ⏱️ Per song: 35s
+[08:39:16] =======================================================
+[08:39:16] ✅ ADB device detected
+[08:39:16] Starting in 5 seconds...
+[08:39:21] 
+🔄 ROUND 1 | ✅ 0/10
+
+[08:39:21] 📱 Opening Spotify...
+[08:39:21] 🔓 Waking and unlocking phone...
+[08:39:37] ━━━ STEP 1: Reset to Home ━━━
+[08:39:37]    👆 Tap: Home tab (100,2328)
+[08:39:45] ━━━ STEP 2: Open Search ━━━
+[08:39:49]    👆 Tap: Search tab (attempt 1) (324,2287)
+[08:40:06]    ✅ Search screen
+[08:40:06] ━━━ STEP 3: Search Wakadinali ━━━
+[08:40:06]    🔍 Ensuring search field is ready
+[08:40:07]    🔍 Focusing search field
+[08:40:07]    Trying known coordinate (350, 124)
+[08:40:07]    👆 Tap: Known search field (350,124)
+[08:40:10]    Known coordinate failed, trying UI detection
+[08:40:14]    Found search field via placeholder text at (397,332)
+[08:40:14]    UI detected search field at (397, 332)
+[08:40:14]    👆 Tap: UI-detected search field (397,332)
+[08:40:17]    ✅ Keyboard is visible
+[08:40:17]    🧹 Clearing search field
+[08:40:20]    ⌨️ Typing: "Wakadinali"
+[08:40:26]    ✅ Verified text in search field: "Wakadinali"
+[08:40:26]    ⌨️ Pressing Enter
+[08:40:33]    ✅ Search results
+[08:40:33] ━━━ STEP 4: Open Artist 'Wakadinali' ━━━
+[08:40:37]    👆 Tap: Artist: Wakadinali (320,560)
+[08:40:46]    ✅ Artist page
+[08:40:46] ━━━ STEP 5: Follow Artist ━━━
+[08:40:50]    👆 Tap: Follow (276,971)
+[08:40:54] ━━━ STEP 6: Stream Songs ━━━
+[08:40:58]    Found 5 songs to stream
+[08:40:58] 
+   🎵 Song 1: Song 1
+[08:40:58]    👆 Tapping song row at (232, 655)
+[08:40:58]    👆 Tap: Song 1 (232,655)
+[08:41:13]    ❌ Timed out waiting for Playback to start
+[08:41:13]    ⚠️ Playback not confirmed, skipping
+[08:41:16] 
+   🎵 Song 2: Song 2
+[08:41:16]    👆 Tapping song row at (229, 807)
+[08:41:16]    👆 Tap: Song 2 (229,807)
+[08:41:20] 
+⚠️ Bot interrupted by user
+[08:41:20] 
+[08:41:20] =======================================================
+[08:41:20] ✅ DONE! 0/10 streams for Wakadinali
+[08:41:20] =======================================================
+[08:58:32] =======================================================
+[08:58:32] 🎵 Spotify Bot — Play Specific Song
+[08:58:32] 🎤 Song: wakadinali sikutambui
+[08:58:32] 🎯 Target plays: 1
+[08:58:32] ⏱️ Per play: 35s
+[08:58:32] =======================================================
+[08:58:32] ✅ ADB device detected
+[08:58:32] Starting in 5 seconds...
+[08:58:37] 
+🔄 ROUND 1 | ✅ 0/1
+
+[08:58:37] 📱 Opening Spotify...
+[08:58:37] 🔓 Waking and unlocking phone...
+[08:58:50] ━━━ STEP 1: Reset to Home ━━━
+[08:58:50]    👆 Tap: Home tab (100,2328)
+[08:58:59] ━━━ STEP 2: Open Search ━━━
+[08:59:04]    👆 Tap: Search tab (attempt 1) (324,2287)
+[08:59:22]    ✅ Search screen
+[08:59:22] ━━━ STEP 3: Search for "wakadinali sikutambui" ━━━
+[08:59:22]    🔍 Ensuring search field is ready for "wakadinali sikutambui"
+[08:59:23]    🔍 Focusing search field
+[08:59:23]    Trying known coordinate (350, 124)
+[08:59:23]    👆 Tap: Known search field (350,124)
+[08:59:31]    Found search field via placeholder text at (397,332)
+[08:59:31]    UI detected search field at (397, 332)
+[08:59:31]    👆 Tap: UI-detected search field (397,332)
+[08:59:35]    ✅ Keyboard is visible
+[08:59:35]    🧹 Clearing search field
+[08:59:37]    ⌨️ Typing: "wakadinali sikutambui"
+[08:59:44]    ✅ Verified text in search field: "wakadinali sikutambui"
+[08:59:44]    ⌨️ Pressing Enter
+[08:59:49]    ✅ Search results
+[08:59:49] ━━━ STEP 5: Stream song for 35s ━━━
+[08:59:49] ━━━ STEP 4: Open song "wakadinali sikutambui" ━━━
+[08:59:53]    ⚠️ Could not find song "wakadinali sikutambui", using fallback coordinates
+[08:59:53]    👆 Tap: Song: wakadinali sikutambui (228,655)
+[09:00:09]    ❌ Timed out waiting for Playback to start
+[09:00:09]    ❌ Playback did not start
+[09:00:09] 😴 Break: 26s...
+[09:00:14] 
+⚠️ Bot interrupted by user
+[09:00:14] 
+[09:00:14] =======================================================
+[09:00:14] ✅ DONE! 0/1 plays of "wakadinali sikutambui"
+[09:00:14] =======================================================
+[09:20:11] =======================================================
+[09:20:11] 🎵 Spotify Bot — Play Specific Song
+[09:20:11] 🎤 Song: billie jean
+[09:20:11] 🎤 Artist: Michael Jackson
+[09:20:11] 🎯 Target plays: 1
+[09:20:11] ⏱️ Per play: 35s
+[09:20:11] =======================================================
+[09:20:11] ✅ ADB device detected
+[09:20:11] Starting in 5 seconds...
+[09:20:16] 
+🔄 ROUND 1 | ✅ 0/1
+
+[09:20:16] 📱 Opening Spotify...
+[09:20:16] 🔓 Waking and unlocking phone...
+[09:20:29] ━━━ STEP 1: Reset to Home ━━━
+[09:20:29]    👆 Tap: Home tab (100,2328)
+[09:20:36] ━━━ STEP 2: Open Search ━━━
+[09:20:39]    👆 Tap: Search tab (attempt 1) (324,2287)
+[09:20:57]    ✅ Search screen
+[09:20:57] ━━━ STEP 3: Search for "billie jean" ━━━
+[09:20:57]    🔍 Ensuring search field is ready for "billie jean"
+[09:20:58]    🔍 Focusing search field
+[09:20:58]    Trying known coordinate (350, 124)
+[09:20:58]    👆 Tap: Known search field (350,124)
+[09:21:05]    Found search field via placeholder text at (397,332)
+[09:21:05]    UI detected search field at (397, 332)
+[09:21:05]    👆 Tap: UI-detected search field (397,332)
+[09:21:09]    ✅ Keyboard is visible
+[09:21:09]    🧹 Clearing search field
+[09:21:11]    ⌨️ Typing: "billie jean"
+[09:21:16]    ✅ Verified text in search field: "billie jean"
+[09:21:16]    ⌨️ Pressing Enter
+[09:21:21]    ✅ Search results
+[09:21:21] ━━━ STEP 5: Play song "billie jean" for 35s ━━━
+[09:21:25]    ⚠️ No matching rows found for "billie jean"
+[09:21:25]    👆 Tap: Song: billie jean (228,655)
+[09:21:28]    Checking for mini‑player pop‑up
+[09:21:47] 
+⚠️ Bot interrupted by user
+[09:21:47] 
+[09:21:47] =======================================================
+[09:21:47] ✅ DONE! 0/1 plays of "billie jean"
+[09:21:47] =======================================================
+[09:22:00] =======================================================
+[09:22:00] 🎵 Spotify Bot — Play Specific Song
+[09:22:00] 🎤 Song: billie jean
+[09:22:00] 🎤 Artist: Michael Jackson
+[09:22:00] 🎯 Target plays: 1
+[09:22:00] ⏱️ Per play: 35s
+[09:22:00] =======================================================
+[09:22:00] ✅ ADB device detected
+[09:22:00] Starting in 5 seconds...
+[09:22:05] 
+🔄 ROUND 1 | ✅ 0/1
+
+[09:22:05] 📱 Opening Spotify...
+[09:22:05] 🔓 Waking and unlocking phone...
+[09:22:16] ━━━ STEP 1: Reset to Home ━━━
+[09:22:17]    👆 Tap: Home tab (100,2328)
+[09:22:24] ━━━ STEP 2: Open Search ━━━
+[09:22:27]    👆 Tap: Search tab (attempt 1) (324,2287)
+[09:22:42]    ✅ Search screen
+[09:22:42] ━━━ STEP 3: Search for "billie jean" ━━━
+[09:22:42]    🔍 Ensuring search field is ready for "billie jean"
+[09:22:42]    🔍 Focusing search field
+[09:22:42]    Trying known coordinate (350, 124)
+[09:22:42]    👆 Tap: Known search field (350,124)
+[09:22:49]    Found search field via placeholder text at (397,332)
+[09:22:49]    UI detected search field at (397, 332)
+[09:22:49]    👆 Tap: UI-detected search field (397,332)
+[09:22:53]    ✅ Keyboard is visible
+[09:22:53]    🧹 Clearing search field
+[09:22:55]    ⌨️ Typing: "billie jean"
+[09:23:00]    ✅ Verified text in search field: "billie jean"
+[09:23:00]    ⌨️ Pressing Enter
+[09:23:05]    ✅ Search results
+[09:23:05] ━━━ STEP 5: Play song "billie jean" for 35s ━━━
+[09:23:10]    ⚠️ No matching rows found for "billie jean"
+[09:23:10]    👆 Tap: Song: billie jean (228,655)
+[09:23:12]    Checking for mini‑player pop‑up
+[09:23:25] 
+⚠️ Bot interrupted by user
+[09:23:25] 
+[09:23:25] =======================================================
+[09:23:25] ✅ DONE! 0/1 plays of "billie jean"
+[09:23:25] =======================================================
+[09:27:59] =======================================================
+[09:27:59] 🎵 Spotify Bot — Play Specific Song
+[09:27:59] 🎤 Song: billie jean
+[09:27:59] 🎤 Artist: Michael Jackson
+[09:27:59] 🎯 Target plays: 1
+[09:27:59] ⏱️ Per play: 35s
+[09:27:59] =======================================================
+[09:27:59] ✅ ADB device detected
+[09:27:59] Starting in 5 seconds...
+[09:28:04] 
+🔄 ROUND 1 | ✅ 0/1
+
+[09:28:04] 📱 Opening Spotify...
+[09:28:04] 🔓 Waking and unlocking phone...
+[09:28:17] ━━━ STEP 1: Reset to Home ━━━
+[09:28:17]    👆 Tap: Home tab (100,2328)
+[09:28:25] ━━━ STEP 2: Open Search ━━━
+[09:28:28]    👆 Tap: Search tab (attempt 1) (324,2287)
+[09:28:44]    ✅ Search screen
+[09:28:44] ━━━ STEP 3: Search for "billie jean" ━━━
+[09:28:44]    🔍 Ensuring search field is ready for "billie jean"
+[09:28:44]    🔍 Focusing search field
+[09:28:44]    Trying known coordinate (350, 124)
+[09:28:44]    👆 Tap: Known search field (350,124)
+[09:28:51]    Found search field via placeholder text at (397,332)
+[09:28:51]    UI detected search field at (397, 332)
+[09:28:51]    👆 Tap: UI-detected search field (397,332)
+[09:28:55]    ✅ Keyboard is visible
+[09:28:55]    🧹 Clearing search field
+[09:28:57]    ⌨️ Typing: "billie jean"
+[09:29:03]    ✅ Verified text in search field: "billie jean"
+[09:29:03]    ⌨️ Pressing Enter
+[09:29:07]    ✅ Search results
+[09:29:07] ━━━ STEP 5: Play song "billie jean" for 35s ━━━
+[09:29:11]    ⚠️ No matching rows found for "billie jean". Dumping UI for debugging.
+[09:29:11] ❌ Error in round 1: [Errno 2] No such file or directory: '/sdcard/spotify_debug.xml'
+[09:29:26] 
+🔄 ROUND 2 | ✅ 0/1
+
+[09:29:26] 📱 Opening Spotify...
+[09:29:26] 🔓 Waking and unlocking phone...
+[09:29:29] 
+⚠️ Bot interrupted by user
+[09:29:29] 
+[09:29:29] =======================================================
+[09:29:29] ✅ DONE! 0/1 plays of "billie jean"
+[09:29:29] =======================================================
+[09:31:26] =======================================================
+[09:31:26] 🎵 Spotify Bot — Play Specific Song
+[09:31:26] 🎤 Song: billie jean
+[09:31:26] 🎤 Artist: Michael Jackson
+[09:31:26] 🎯 Target plays: 1
+[09:31:26] ⏱️ Per play: 35s
+[09:31:26] =======================================================
+[09:31:26] ✅ ADB device detected
+[09:31:26] Starting in 5 seconds...
+[09:31:31] 
+🔄 ROUND 1 | ✅ 0/1
+
+[09:31:31] 📱 Opening Spotify...
+[09:31:31] 🔓 Waking and unlocking phone...
+[09:31:44] ━━━ STEP 1: Reset to Home ━━━
+[09:31:44]    👆 Tap: Home tab (100,2328)
+[09:31:51] ━━━ STEP 2: Open Search ━━━
+[09:31:55]    👆 Tap: Search tab (attempt 1) (324,2251)
+[09:32:11]    ✅ Search screen
+[09:32:11] ━━━ STEP 3: Search for "billie jean" ━━━
+[09:32:11]    🔍 Ensuring search field is ready for "billie jean"
+[09:32:12]    🔍 Focusing search field
+[09:32:12]    Trying known coordinate (350, 124)
+[09:32:12]    👆 Tap: Known search field (350,124)
+[09:32:19]    Found search field via placeholder text at (397,332)
+[09:32:19]    UI detected search field at (397, 332)
+[09:32:19]    👆 Tap: UI-detected search field (397,332)
+[09:32:22]    ✅ Keyboard is visible
+[09:32:22]    🧹 Clearing search field
+[09:32:24]    ⌨️ Typing: "billie jean"
+[09:32:29]    ✅ Verified text in search field: "billie jean"
+[09:32:29]    ⌨️ Pressing Enter
+[09:32:35]    ✅ Search results
+[09:32:35] ━━━ STEP 5: Play song "billie jean" for 35s ━━━
+[09:32:39]    ✅ Best match: "billie jean" (subtitle: "song • michael jackson") score=150 at (180,1153)
+[09:32:39]    👆 Tap: Song: billie jean (180,1153)
+[09:32:42]    Checking for mini‑player pop‑up
+[09:32:58] 
+⚠️ Bot interrupted by user
+[09:32:58] 
+[09:32:58] =======================================================
+[09:32:58] ✅ DONE! 0/1 plays of "billie jean"
+[09:32:58] =======================================================
+[09:36:22] =======================================================
+[09:36:22] 🎵 Spotify Bot — Play Specific Song
+[09:36:22] 🎤 Song: billie jean
+[09:36:22] 🎤 Artist: Michael Jackson
+[09:36:22] 🔍 Search query: "billie jean Michael Jackson"
+[09:36:22] 🎯 Target plays: 1
+[09:36:22] ⏱️ Per play: 35s
+[09:36:22] =======================================================
+[09:36:22] ✅ ADB device detected
+[09:36:22] Starting in 5 seconds...
+[09:36:27] 
+🔄 ROUND 1 | ✅ 0/1
+
+[09:36:27] 📱 Opening Spotify...
+[09:36:27] 🔓 Waking and unlocking phone...
+[09:36:39] ━━━ STEP 1: Reset to Home ━━━
+[09:36:39]    👆 Tap: Home tab (100,2328)
+[09:36:45] ━━━ STEP 2: Open Search ━━━
+[09:36:48]    👆 Tap: Search tab (attempt 1) (324,2287)
+[09:37:04]    ✅ Search screen
+[09:37:04] ━━━ STEP 3: Search for "billie jean Michael Jackson" ━━━
+[09:37:04]    🔍 Ensuring search field is ready for "billie jean Michael Jackson"
+[09:37:04]    🔍 Focusing search field
+[09:37:04]    Trying known coordinate (350, 124)
+[09:37:04]    👆 Tap: Known search field (350,124)
+[09:37:11]    Found search field via placeholder text at (397,332)
+[09:37:11]    UI detected search field at (397, 332)
+[09:37:11]    👆 Tap: UI-detected search field (397,332)
+[09:37:15]    Trying fallback coordinates
+[09:37:15]    👆 Tap: Fallback (540,200) (540,200)
+[09:37:18]    👆 Tap: Fallback (350,180) (350,180)
+[09:37:21]    👆 Tap: Fallback (350,124) (350,124)
+[09:37:25]    Trying center screen tap
+[09:37:25]    👆 Tap: Center screen (540,500)
+[09:37:28]    ❌ Could not focus search field
+[09:37:28]    ❌ Could not prepare search field
+[09:37:28] ❌ Search results did not load. Retrying round.
+[09:37:28] 
+🔄 ROUND 2 | ✅ 0/1
+
+[09:37:28] 📱 Opening Spotify...
+[09:37:28] 🔓 Waking and unlocking phone...
+[09:37:35] 
+⚠️ Bot interrupted by user
+[09:37:35] 
+[09:37:35] =======================================================
+[09:37:35] ✅ DONE! 0/1 plays of "billie jean"
+[09:37:35] =======================================================
+[10:15:22] =======================================================
+[10:15:22] 🎵 Spotify Bot — Play Specific Song
+[10:15:22] 🎤 Song: billie jean
+[10:15:22] 🎤 Artist: Michael Jackson
+[10:15:22] 🔍 Search query: "billie jean Michael Jackson"
+[10:15:22] 🎯 Target plays: 1
+[10:15:22] ⏱️ Per play: 35s
+[10:15:22] =======================================================
+[10:15:22] ✅ ADB device detected
+[10:15:22] Starting in 5 seconds...
+[10:15:27] 
+🔄 ROUND 1 | ✅ 0/1
+
+[10:15:27] 📱 Opening Spotify...
+[10:15:27] 🔓 Waking and unlocking phone...
+[10:15:39] ━━━ STEP 1: Reset to Home ━━━
+[10:15:39]    👆 Tap: Home tab (100,2328)
+[10:15:46] ━━━ STEP 2: Open Search ━━━
+[10:15:49]    👆 Tap: Search tab (attempt 1) (324,2287)
+[10:16:08]    ✅ Search screen
+[10:16:08] ━━━ STEP 3: Search for "billie jean Michael Jackson" ━━━
+[10:16:08]    🔍 Ensuring search field is ready for "billie jean Michael Jackson"
+[10:16:09]    🔍 Focusing search field
+[10:16:09]    Trying known coordinate (350, 124)
+[10:16:09]    👆 Tap: Known search field (350,124)
+[10:16:16]    Found search field via placeholder text at (397,332)
+[10:16:16]    UI detected search field at (397, 332)
+[10:16:16]    👆 Tap: UI-detected search field (397,332)
+[10:16:20]    ✅ Keyboard is visible
+[10:16:20]    🧹 Clearing search field
+[10:16:22]    ⌨️ Typing: "billie jean Michael Jackson"
+[10:16:29]    ✅ Verified text in search field: "billie jean Michael Jackson"
+[10:16:29]    ⌨️ Pressing Enter
+[10:16:33]    ✅ Search results
+[10:16:33] ━━━ STEP 5: Play song "billie jean" for 35s ━━━
+[10:16:36]    Found first matching song: "billie jean" at (180,1153)
+[10:16:36]    👆 Tap: Song: billie jean (180,1153)
+[10:16:39]    Checking for mini‑player pop‑up
+[10:17:08]    ❌ Timed out waiting for Playback to start
+[10:17:08]    ❌ Playback did not start
+[10:17:08] 😴 Break: 26s...
+[10:17:15] 
+⚠️ Bot interrupted by user
+[10:17:15] 
+[10:17:15] =======================================================
+[10:17:15] ✅ DONE! 0/1 plays of "billie jean"
+[10:17:15] =======================================================
+[10:53:35] =======================================================
+[10:53:35] 🎵 Spotify Bot — Play Specific Song
+[10:53:35] 🎤 Song: billie jean
+[10:53:35] 🎤 Artist: Michael Jackson
+[10:53:35] 🔍 Search query: "billie jean Michael Jackson"
+[10:53:35] 🎯 Target plays: 1
+[10:53:35] ⏱️ Per play: 35s
+[10:53:35] =======================================================
+[10:53:35] ✅ ADB device detected
+[10:53:35] Starting in 5 seconds...
+[10:53:40] 
+🔄 ROUND 1 | ✅ 0/1
+
+[10:53:40] 📱 Opening Spotify...
+[10:53:40] 🔓 Waking and unlocking phone...
+[10:53:52] ━━━ STEP 1: Reset to Home ━━━
+[10:53:53]    👆 Tap: Home tab (100,2328)
+[10:54:00] ━━━ STEP 2: Open Search ━━━
+[10:54:03]    👆 Tap: Search tab (attempt 1) (324,2287)
+[10:54:23]    ✅ Search screen
+[10:54:23] ━━━ STEP 3: Search for "billie jean Michael Jackson" ━━━
+[10:54:23]    🔍 Ensuring search field is ready for "billie jean Michael Jackson"
+[10:54:24]    🔍 Focusing search field
+[10:54:24]    Trying known coordinate (350, 124)
+[10:54:24]    👆 Tap: Known search field (350,124)
+[10:54:31]    Found search field via placeholder text at (397,332)
+[10:54:31]    UI detected search field at (397, 332)
+[10:54:31]    👆 Tap: UI-detected search field (397,332)
+[10:54:34]    ✅ Keyboard is visible
+[10:54:35]    🧹 Clearing search field
+[10:54:36]    ⌨️ Typing: "billie jean Michael Jackson"
+[10:54:42]    ✅ Verified text in search field: "billie jean Michael Jackson"
+[10:54:42]    ⌨️ Pressing Enter
+[10:54:47]    ✅ Search results
+[10:54:47] ━━━ STEP 5: Play song "billie jean" for 35s ━━━
+[10:54:51]    Found first matching song: "billie jean" at (180,1153)
+[10:54:51]    👆 Tap: Song: billie jean (180,1153)
+[10:54:54]    Checking for mini‑player pop‑up
+[10:55:23]    ❌ Timed out waiting for Playback to start
+[10:55:23]    ❌ Playback did not start
+[10:55:23] 😴 Break: 30s...
+[10:55:53] 
+🔄 ROUND 2 | ✅ 0/1
+
+[10:55:53] 📱 Opening Spotify...
+[10:55:53] 🔓 Waking and unlocking phone...
+[10:55:57] 
+⚠️ Bot interrupted by user
+[10:55:57] 
+[10:55:57] =======================================================
+[10:55:57] ✅ DONE! 0/1 plays of "billie jean"
+[10:55:57] =======================================================
+[11:05:56] =======================================================
+[11:05:56] 🎵 Spotify Bot — Play Specific Song (Improved)
+[11:05:56] 🎤 Song: billie jean
+[11:05:56] 🎤 Artist: Michael Jackson
+[11:05:56] 🔍 Search query: "billie jean Michael Jackson"
+[11:05:56] 🎯 Target plays: 1
+[11:05:56] ⏱️ Per play: 35s
+[11:05:56] =======================================================
+[11:05:56] ✅ ADB device detected
+[11:05:56] Starting in 5 seconds...
+[11:06:01] 
+🔄 ROUND 1 | ✅ 0/1
+
+[11:06:01] 📱 Opening Spotify...
+[11:06:01] 🔓 Waking and unlocking phone...
+[11:06:14] ━━━ STEP 1: Reset to Home ━━━
+[11:06:15]    👆 Tap: Home tab (100,2328)
+[11:06:21] ━━━ STEP 2: Open Search ━━━
+[11:06:25]    👆 Tap: Search tab (attempt 1) (324,2287)
+[11:06:45]    ✅ Search screen
+[11:06:45] ━━━ STEP 3: Search for "billie jean Michael Jackson" ━━━
+[11:06:45]    🔍 Ensuring search field is ready for "billie jean Michael Jackson"
+[11:06:46]    🔍 Focusing search field
+[11:06:46]    Trying known coordinate (350, 124)
+[11:06:46]    👆 Tap: Known search field (350,124)
+[11:06:53]    Found search field via placeholder text at (397,332)
+[11:06:53]    UI detected search field at (397, 332)
+[11:06:53]    👆 Tap: UI-detected search field (397,332)
+[11:06:56]    ✅ Keyboard is visible
+[11:06:56]    🧹 Clearing search field
+[11:06:58]    ⌨️ Typing: "billie jean Michael Jackson"
+[11:07:05]    ✅ Verified text in search field: "billie jean Michael Jackson"
+[11:07:05]    ⌨️ Pressing Enter
+[11:07:10]    ✅ Search results
+[11:07:10] ━━━ STEP 4: Try direct play button approach ━━━
+[11:07:13] ━━━ STEP: Play song "billie jean" ━━━
+[11:07:17]    🎵 Found play button for "billie jean" at (540,2169)
+[11:07:17]    👆 Tap: Play button on song row (540,2169)
+[11:07:20]    ⏳ Waiting for mini-player to appear...
+[11:07:31]    🎮 Clicking bottom player bar at (540,2009)
+[11:07:31]    👆 Tap: Bottom player bar (540,2009)
+[11:07:39]    ⏸️ Playback not started, trying to press play button
+[11:08:17]    ❌ Could not start playback
+[11:08:17] 😴 Break: 35s...
+[11:08:19] 
+⚠️ Bot interrupted by user
+[11:08:19] 
+[11:08:19] =======================================================
+[11:08:19] ✅ DONE! 0/1 plays of "billie jean"
+[11:08:19] =======================================================
+[11:14:08] =======================================================
+[11:14:08] 🎵 Spotify Bot — Play Specific Song (Fixed)
+[11:14:08] 🎤 Song: billie jean
+[11:14:08] 🎤 Artist: Michael Jackson
+[11:14:08] 🔍 Search query: "billie jean Michael Jackson"
+[11:14:08] 🎯 Target plays: 1
+[11:14:08] ⏱️ Per play: 35s
+[11:14:08] =======================================================
+[11:14:08] ✅ ADB device detected
+[11:14:08] Starting in 5 seconds...
+[11:14:13] 
+🔄 ROUND 1 | ✅ 0/1
+
+[11:14:13] 📱 Opening Spotify...
+[11:14:13] 🔓 Waking and unlocking phone...
+[11:14:25] ━━━ STEP 1: Reset to Home ━━━
+[11:14:25]    👆 Tap: Home tab (100,2328)
+[11:14:32] ━━━ STEP 2: Open Search ━━━
+[11:14:37]    👆 Tap: Search tab (attempt 1) (324,2251)
+[11:14:58]    ✅ Search screen
+[11:14:58] ━━━ STEP 3: Search for "billie jean Michael Jackson" ━━━
+[11:14:58]    🔍 Ensuring search field is ready for "billie jean Michael Jackson"
+[11:14:59]    🔍 Focusing search field
+[11:14:59]    Trying known coordinate (350, 124)
+[11:14:59]    👆 Tap: Known search field (350,124)
+[11:15:06]    Found search field via placeholder text at (397,332)
+[11:15:06]    UI detected search field at (397, 332)
+[11:15:06]    👆 Tap: UI-detected search field (397,332)
+[11:15:09]    ✅ Keyboard is visible
+[11:15:09]    🧹 Clearing search field
+[11:15:11]    ⌨️ Typing: "billie jean Michael Jackson"
+[11:15:18]    ✅ Verified text in search field: "billie jean Michael Jackson"
+[11:15:18]    ⌨️ Pressing Enter
+[11:15:23]    ✅ Search results
+[11:15:23] ━━━ STEP: Play song "billie jean" ━━━
+[11:15:26]    🎵 Found song "billie jean" at (540,1153) - clicking row
+[11:15:26]    👆 Tap: Song row: billie jean (540,1153)
+[11:15:27]    ⏳ Waiting for mini-player to appear...
+[11:15:32] 
+⚠️ Bot interrupted by user
+[11:15:32] 
+[11:15:32] =======================================================
+[11:15:32] ✅ DONE! 0/1 plays of "billie jean"
+[11:15:32] =======================================================
+[11:22:25] =======================================================
+[11:22:25] 🎵 Spotify Bot — Play Specific Song (Exact Match)
+[11:22:25] 🎤 Song: billie jean
+[11:22:25] 🎤 Artist: Michael Jackson
+[11:22:25] 🔍 Search query: "billie jean Michael Jackson"
+[11:22:25] 🎯 Target plays: 1
+[11:22:25] ⏱️ Per play: 35s
+[11:22:25] =======================================================
+[11:22:25] ✅ ADB device detected
+[11:22:25] Starting in 5 seconds...
+[11:22:30] 
+🔄 ROUND 1 | ✅ 0/1
+
+[11:22:30] 📱 Opening Spotify...
+[11:22:30] 🔓 Waking and unlocking phone...
+[11:22:43] ━━━ STEP 1: Reset to Home ━━━
+[11:22:43]    👆 Tap: Home tab (100,2328)
+[11:22:49] ━━━ STEP 2: Open Search ━━━
+[11:22:52]    👆 Tap: Search tab (attempt 1) (324,2287)
+[11:23:13]    ✅ Search screen
+[11:23:13] ━━━ STEP 3: Search for "billie jean Michael Jackson" ━━━
+[11:23:13]    🔍 Ensuring search field is ready for "billie jean Michael Jackson"
+[11:23:14]    🔍 Focusing search field
+[11:23:14]    Trying known coordinate (350, 124)
+[11:23:14]    👆 Tap: Known search field (350,124)
+[11:23:21]    Found search field via placeholder text at (397,332)
+[11:23:21]    UI detected search field at (397, 332)
+[11:23:21]    👆 Tap: UI-detected search field (397,332)
+[11:23:24]    ✅ Keyboard is visible
+[11:23:24]    🧹 Clearing search field
+[11:23:26]    ⌨️ Typing: "billie jean Michael Jackson"
+[11:23:32]    ✅ Verified text in search field: "billie jean Michael Jackson"
+[11:23:32]    ⌨️ Pressing Enter
+[11:23:37]    ✅ Search results
+[11:23:37] ━━━ Playing: "billie jean" by "Michael Jackson" ━━━
+[11:23:37]    🎯 Searching for: "billie jean" by "Michael Jackson"
+[11:23:40]    🔍 Looking for song: "billie jean" by "Michael Jackson"
+[11:23:40]    ⚠️ Found "billie jean" but artist "" doesn't match "michael jackson"
+[11:23:40]    ⚠️ Found "billie jean" but artist "" doesn't match "michael jackson"
+[11:23:40]    ⚠️ Found "billie jean" but artist "" doesn't match "michael jackson"
+[11:23:40]    ⚠️ Found "billie jean" but artist "" doesn't match "michael jackson"
+[11:23:40]    ⚠️ Found "billie jean" but artist "" doesn't match "michael jackson"
+[11:23:40]    ⚠️ Found "billie jean" but artist "" doesn't match "michael jackson"
+[11:23:40]    ⚠️ Found "billie jean" but artist "" doesn't match "michael jackson"
+[11:23:40]    ⚠️ Found "billie jean" but artist "" doesn't match "michael jackson"
+[11:23:40]    ⚠️ Found "billie jean" but artist "" doesn't match "michael jackson"
+[11:23:40]    ⚠️ Found "billie jean" but artist "" doesn't match "michael jackson"
+[11:23:40]    ⚠️ Found "billie jean" but artist "" doesn't match "michael jackson"
+[11:23:40]    ⚠️ Found "billie jean" but artist "" doesn't match "michael jackson"
+[11:23:40]    ⚠️ Found "billie jean" but artist "" doesn't match "michael jackson"
+[11:23:40]    ⚠️ Found "billie jean" but artist "" doesn't match "michael jackson"
+[11:23:40]    ⚠️ Found "billie jean" but artist "" doesn't match "michael jackson"
+[11:23:40]    ⚠️ Found "billie jean" but artist "" doesn't match "michael jackson"
+[11:23:40]    ⚠️ Found "billie jean" but artist "" doesn't match "michael jackson"
+[11:23:40]    ⚠️ Found "michel jacson billie jean" but artist "" doesn't match "michael jackson"
+[11:23:40]    ⚠️ Found "michel jacson billie jean" but artist "" doesn't match "michael jackson"
+[11:23:40]    ⚠️ Found "billie jean" but artist "" doesn't match "michael jackson"
+[11:23:40]    ⚠️ Found "billie jean" but artist "" doesn't match "michael jackson"
+[11:23:40]    ⚠️ Found "billie jean" but artist "" doesn't match "michael jackson"
+[11:23:40]    ⚠️ Found "billie jean" but artist "" doesn't match "michael jackson"
+[11:23:40]    ⚠️ Found "billie jean (trap soul version) | slow jam r&b ai cover by ghostchords  michael jackson" but artist "" doesn't match "michael jackson"
+[11:23:40]    ⚠️ Found "billie jean (trap soul version) | slow jam r&b ai cover by ghostchords  michael jackson" but artist "" doesn't match "michael jackson"
+[11:23:40]    ⚠️ Found "billie jean billie jean" but artist "" doesn't match "michael jackson"
+[11:23:40]    ⚠️ Found "billie jean billie jean" but artist "" doesn't match "michael jackson"
+[11:23:40]    ❌ Could not find song matching both title and artist
+[11:23:44]    ✅ Found song by text match at (540,170)
+[11:23:44]    ⚠️ Could not find exact match, trying title-only match...
+[11:23:47]    ❌ No matching song found
+[11:23:47]    ❌ Could not find or click the correct song
+[11:23:47] ❌ Failed to play song in round 1
+[11:23:47] 😴 Break: 34s...
+[11:24:13] 
+⚠️ Bot interrupted by user
+[11:24:13] 
+[11:24:13] =======================================================
+[11:24:13] ✅ DONE! 0/1 plays of "billie jean"
+[11:24:13] =======================================================
+[11:27:24] =======================================================
+[11:27:24] 🎵 Spotify Bot — UI Detection Based Song Selection
+[11:27:24] 🎤 Song: billie jean
+[11:27:24] 🎤 Artist: Michael Jackson
+[11:27:24] 🔍 Search query: "billie jean Michael Jackson"
+[11:27:24] 🎯 Target plays: 1
+[11:27:24] ⏱️ Per play: 35s
+[11:27:24] =======================================================
+[11:27:24] ✅ ADB device detected
+[11:27:24] Starting in 5 seconds...
+[11:27:29] 
+🔄 ROUND 1 | ✅ 0/1
+
+[11:27:29] 📱 Opening Spotify...
+[11:27:29] 🔓 Waking and unlocking phone...
+[11:27:42] ━━━ STEP 1: Reset to Home ━━━
+[11:27:42]    👆 Tap: Home tab (100,2328)
+[11:27:49] ━━━ STEP 2: Open Search ━━━
+[11:27:52]    👆 Tap: Search tab (attempt 1) (324,2287)
+[11:28:12]    ✅ Search screen
+[11:28:12] ━━━ STEP 3: Search for "billie jean Michael Jackson" ━━━
+[11:28:12]    🔍 Ensuring search field is ready for "billie jean Michael Jackson"
+[11:28:12]    🔍 Focusing search field
+[11:28:12]    Trying known coordinate (350, 124)
+[11:28:12]    👆 Tap: Known search field (350,124)
+[11:28:19]    Found search field via placeholder text at (397,332)
+[11:28:19]    UI detected search field at (397, 332)
+[11:28:19]    👆 Tap: UI-detected search field (397,332)
+[11:28:23]    ✅ Keyboard is visible
+[11:28:23]    🧹 Clearing search field
+[11:28:25]    ⌨️ Typing: "billie jean Michael Jackson"
+[11:28:32]    ✅ Verified text in search field: "billie jean Michael Jackson"
+[11:28:32]    ⌨️ Pressing Enter
+[11:28:36]    ✅ Search results
+[11:28:36] ━━━ Playing: "billie jean" by "Michael Jackson" ━━━
+[11:28:37]    🔍 Scanning search results for: "billie jean" by "Michael Jackson"
+[11:28:40]    📋 Found 33 songs in search results:
+[11:28:40]       1. "" - ""
+[11:28:40]       2. "" - ""
+[11:28:40]       3. "" - ""
+[11:28:40]       4. "" - ""
+[11:28:40]       5. "" - ""
+[11:28:40]    ❌ No matching song found for "billie jean" by "Michael Jackson"
+[11:28:40]    📜 Song not visible, trying to scroll...
+[11:28:42]    🔍 Scanning search results for: "billie jean" by "Michael Jackson"
+[11:28:45]    📋 Found 34 songs in search results:
+[11:28:45]       1. "" - ""
+[11:28:45]       2. "" - ""
+[11:28:45]       3. "" - ""
+[11:28:45]       4. "" - ""
+[11:28:45]       5. "" - ""
+[11:28:45]    ❌ No matching song found for "billie jean" by "Michael Jackson"
+[11:28:45]    ❌ Could not find or click the correct song
+[11:28:45] ❌ Failed to play song in round 1
+[11:28:45] 😴 Break: 28s...
+[11:29:02] 
+⚠️ Bot interrupted by user
+[11:29:02] 
+[11:29:02] =======================================================
+[11:29:02] ✅ DONE! 0/1 plays of "billie jean"
+[11:29:02] =======================================================
+[11:35:50] =======================================================
+[11:35:50] 🎵 Spotify Bot — UI Detection Based on Actual Layout
+[11:35:50] 🎤 Song: billie jean
+[11:35:50] 🎤 Artist: Michael Jackson
+[11:35:50] 🔍 Search query: "billie jean Michael Jackson"
+[11:35:50] 🎯 Target plays: 1
+[11:35:50] ⏱️ Per play: 35s
+[11:35:50] =======================================================
+[11:35:50] ✅ ADB device detected
+[11:35:50] Starting in 5 seconds...
+[11:35:55] 
+🔄 ROUND 1 | ✅ 0/1
+
+[11:35:55] 📱 Opening Spotify...
+[11:35:55] 🔓 Waking and unlocking phone...
+[11:36:08] ━━━ STEP 1: Reset to Home ━━━
+[11:36:09]    👆 Tap: Home tab (100,2328)
+[11:36:15] ━━━ STEP 2: Open Search ━━━
+[11:36:18]    👆 Tap: Search tab (attempt 1) (324,2287)
+[11:36:37]    ✅ Search screen
+[11:36:37] ━━━ STEP 3: Search for "billie jean Michael Jackson" ━━━
+[11:36:37]    🔍 Ensuring search field is ready for "billie jean Michael Jackson"
+[11:36:37]    🔍 Focusing search field
+[11:36:37]    Trying known coordinate (350, 124)
+[11:36:37]    👆 Tap: Known search field (350,124)
+[11:36:45]    Found search field via placeholder text at (397,332)
+[11:36:45]    UI detected search field at (397, 332)
+[11:36:45]    👆 Tap: UI-detected search field (397,332)
+[11:36:48]    ✅ Keyboard is visible
+[11:36:48]    🧹 Clearing search field
+[11:36:50]    ⌨️ Typing: "billie jean Michael Jackson"
+[11:36:57]    ✅ Verified text in search field: "billie jean Michael Jackson"
+[11:36:57]    ⌨️ Pressing Enter
+[11:37:01]    ✅ Search results
+[11:37:01] ━━━ Playing: "billie jean" by "Michael Jackson" ━━━
+[11:37:03]    🔍 Scanning search results for: "billie jean" by "Michael Jackson"
+[11:37:06]    ⚠️ No songs found in search results
+[11:37:06]    📜 Song not visible, trying to scroll...
+[11:37:08]    🔍 Scanning search results for: "billie jean" by "Michael Jackson"
+[11:37:11]    ⚠️ No songs found in search results
+[11:37:13]    🔍 Scanning search results for: "billie jean" by "Michael Jackson"
+[11:37:17]    ⚠️ No songs found in search results
+[11:37:19]    🔍 Scanning search results for: "billie jean" by "Michael Jackson"
+[11:37:22]    ⚠️ No songs found in search results
+[11:37:25]    ❌ Could not find or click the correct song
+[11:37:25] ❌ Failed to play song in round 1
+[11:37:25] 😴 Break: 40s...
+[11:38:05] 
+🔄 ROUND 2 | ✅ 0/1
+
+[11:38:05] 📱 Opening Spotify...
+[11:38:05] 🔓 Waking and unlocking phone...
+[11:38:14] 
+⚠️ Bot interrupted by user
+[11:38:14] 
+[11:38:14] =======================================================
+[11:38:14] ✅ DONE! 0/1 plays of "billie jean"
+[11:38:14] =======================================================
+[11:42:45] =======================================================
+[11:42:45] 🎵 Spotify Bot — Enhanced UI Detection with Debugging
+[11:42:45] 🎤 Song: billie jean
+[11:42:45] 🎤 Artist: Michael Jackson
+[11:42:45] 🔍 Search query: "billie jean Michael Jackson"
+[11:42:45] 🎯 Target plays: 1
+[11:42:45] ⏱️ Per play: 35s
+[11:42:45] =======================================================
+[11:42:45] ✅ ADB device detected
+[11:42:45] Starting in 5 seconds...
+[11:42:50] 
+🔄 ROUND 1 | ✅ 0/1
+
+[11:42:50] 📱 Opening Spotify...
+[11:42:50] 🔓 Waking and unlocking phone...
+[11:43:03] ━━━ STEP 1: Reset to Home ━━━
+[11:43:03]    Spotify not foreground (com.miui.home) — reopening
+[11:43:03] 📱 Opening Spotify...
+[11:43:03] 🔓 Waking and unlocking phone...
+[11:43:14]    👆 Tap: Home tab (100,2328)
+[11:43:21] ━━━ STEP 2: Open Search ━━━
+[11:43:24]    👆 Tap: Search tab (attempt 1) (324,2287)
+[11:43:42]    ✅ Search screen
+[11:43:42] ━━━ STEP 3: Search for "billie jean Michael Jackson" ━━━
+[11:43:42]    🔍 Ensuring search field is ready for "billie jean Michael Jackson"
+[11:43:43]    🔍 Focusing search field
+[11:43:43]    Trying known coordinate (350, 124)
+[11:43:43]    👆 Tap: Known search field (350,124)
+[11:43:50]    Found search field via placeholder text at (397,332)
+[11:43:50]    UI detected search field at (397, 332)
+[11:43:50]    👆 Tap: UI-detected search field (397,332)
+[11:43:53]    ✅ Keyboard is visible
+[11:43:53]    🧹 Clearing search field
+[11:43:55]    ⌨️ Typing: "billie jean Michael Jackson"
+[11:44:02]    ✅ Verified text in search field: "billie jean Michael Jackson"
+[11:44:02]    ⌨️ Pressing Enter
+[11:44:07]    ✅ Search results
+[11:44:07] ━━━ Playing: "billie jean" by "Michael Jackson" ━━━
+[11:44:09]    🔍 Scanning search results for: "billie jean" by "Michael Jackson"
+[11:44:15]    🔍 DEBUG: Scanning UI for text nodes...
+[11:44:15]       Node 1: text="", desc="Cancel", clickable=True, pos=(66,170)
+[11:44:15]       Node 2: text="billie jean Michael Jackson", desc="", clickable=True, pos=(540,170)
+[11:44:15]       Node 3: text="", desc="Clear search query", clickable=True, pos=(1014,170)
+[11:44:15]       Node 4: text="", desc="Content filters", clickable=False, pos=(540,406)
+[11:44:15]       Node 5: text="Artists", desc="", clickable=False, pos=(991,406)
+[11:44:15]       Node 6: text="Videos", desc="", clickable=False, pos=(825,406)
+[11:44:15]       Node 7: text="Podcasts", desc="", clickable=False, pos=(645,406)
+[11:44:15]       Node 8: text="Albums", desc="", clickable=False, pos=(460,406)
+[11:44:15]       Node 9: text="Playlists", desc="", clickable=False, pos=(281,406)
+[11:44:15]       Node 10: text="Songs", desc="", clickable=False, pos=(111,406)
+[11:44:15]       Node 11: text="Billie Jean", desc="", clickable=False, pos=(512,537)
+[11:44:15]       Node 12: text="Song • Michael Jackson", desc="", clickable=False, pos=(512,588)
+[11:44:15]       Node 13: text="", desc="More options for song Billie Jean", clickable=True, pos=(882,560)
+[11:44:15]       Node 14: text="", desc="Add Billie Jean to My Library", clickable=True, pos=(1014,560)
+[11:44:15]       Node 15: text="MICHEL JACSON Billie Jean", desc="", clickable=False, pos=(578,716)
+[11:44:15]       Node 16: text="Playlist", desc="", clickable=False, pos=(578,767)
+[11:44:15]       Node 17: text="", desc="Add MICHEL JACSON Billie Jean to My Library", clickable=True, pos=(1014,736)
+[11:44:15]       Node 18: text="Billie Jean", desc="", clickable=False, pos=(512,889)
+[11:44:15]       Node 19: text="Song • Michael Jackson", desc="", clickable=False, pos=(512,940)
+[11:44:15]       Node 20: text="", desc="More options for song Billie Jean", clickable=True, pos=(882,912)
+[11:44:18]    📄 UI dumped to ui_debug_114415.xml
+[11:44:18]       Found potential song: "Cancel" by "" at (540,1153)
+[11:44:18]       Found potential song: "Cancel" by "" at (540,1153)
+[11:44:18]       Found potential song: "Cancel" by "" at (540,1153)
+[11:44:18]       Found potential song: "Cancel" by "" at (540,1153)
+[11:44:18]       Found potential song: "Cancel" by "" at (540,1153)
+[11:44:18]       Found potential song: "Cancel" by "" at (540,1153)
+[11:44:18]       Found potential song: "Cancel" by "" at (540,1153)
+[11:44:18]       Found potential song: "Cancel" by "" at (540,1153)
+[11:44:18]       Found potential song: "Cancel" by "" at (540,1153)
+[11:44:18]       Found potential song: "Cancel" by "" at (540,1153)
+[11:44:18]       Found potential song: "Cancel" by "" at (540,1153)
+[11:44:18]       Found potential song: "Cancel" by "" at (540,1153)
+[11:44:18]       Found potential song: "Content filters" by "" at (540,359)
+[11:44:18]       Found potential song: "Content filters" by "" at (540,359)
+[11:44:18]       Found potential song: "Content filters" by "" at (540,406)
+[11:44:18]       Found potential song: "Videos" by "" at (540,406)
+[11:44:18]       Found potential song: "Billie Jean" by "" at (540,1389)
+[11:44:18]       Found potential song: "Billie Jean" by "" at (540,1389)
+[11:44:18]       Found potential song: "Billie Jean" by "" at (540,1389)
+[11:44:18]       Found potential song: "Billie Jean" by "" at (540,560)
+[11:44:18]       Found potential song: "MICHEL JACSON Billie Jean" by "" at (540,736)
+[11:44:18]       Found potential song: "Billie Jean" by "" at (540,912)
+[11:44:18]       Found potential song: "BEST OF MICHAEL JACKSON" by "" at (540,1088)
+[11:44:18]       Found potential song: "Billie Jean" by "" at (540,1636)
+[11:44:18]       Found potential song: "Billie Jean (Trap soul Version) | Slow Jam R&B AI Cover by GhostChords  Michael Jackson" by "" at (540,1822)
+[11:44:18]       Found potential song: "Now Playing Bar" by "" at (540,2169)
+[11:44:18]       Found potential song: "Now Playing Bar" by "" at (540,2169)
+[11:44:18]       Found potential song: "Now Playing Bar" by "" at (540,2169)
+[11:44:18]       Found potential song: "Now Playing Bar" by "" at (540,2169)
+[11:44:18]       Found potential song: "Now Playing Bar" by "" at (540,2169)
+[11:44:18]       Found potential song: "Now Playing Bar" by "" at (540,2169)
+[11:44:18]       Found potential song: "Currently playing track" by "" at (430,2169)
+[11:44:18]       Found potential song: "I Was Made For Lovin' You" by "" at (430,2169)
+[11:44:18]    📋 Found 33 potential songs in search results
+[11:44:18]       Song 1: "Cancel" by "" at (540,1153)
+[11:44:18]       Song 2: "Cancel" by "" at (540,1153)
+[11:44:18]       Song 3: "Cancel" by "" at (540,1153)
+[11:44:18]       Song 4: "Cancel" by "" at (540,1153)
+[11:44:18]       Song 5: "Cancel" by "" at (540,1153)
+[11:44:18]       Song 6: "Cancel" by "" at (540,1153)
+[11:44:18]       Song 7: "Cancel" by "" at (540,1153)
+[11:44:18]       Song 8: "Cancel" by "" at (540,1153)
+[11:44:18]       Song 9: "Cancel" by "" at (540,1153)
+[11:44:18]       Song 10: "Cancel" by "" at (540,1153)
+[11:44:18]    ⚠️ Found partial match: "Billie Jean (Trap soul Version) | Slow Jam R&B AI Cover by GhostChords  Michael Jackson" by ""
+[11:44:18]    🎵 Clicking song at (540,1822)
+[11:44:18]    👆 Tap: Click: Billie Jean (Trap soul Version) | Slow Jam R&B AI Cover by GhostChords  Michael Jackson (540,1822)
+[11:44:19]    ⏳ Waiting for mini-player to appear...
+[11:44:27]    ⚠️ Mini-player did not appear
+[11:44:27]    ⚠️ Mini-player didn't appear, but continuing...
+[11:44:31]    🎮 Clicking bottom player bar at (540,2169)
+[11:44:31]    👆 Tap: Bottom player bar (540,2169)
+[11:44:33]    🎵 Checking if playback started...
+[11:44:37]    ⏸️ Playback not started, looking for play button...
+[11:44:41]    ❌ Could not start playback
+[11:44:41] ❌ Failed to play song in round 1
+[11:44:41] 😴 Break: 29s...
+[11:44:44] 
+⚠️ Bot interrupted by user
+[11:44:44] 
+[11:44:44] =======================================================
+[11:44:44] ✅ DONE! 0/1 plays of "billie jean"
+[11:44:44] =======================================================
+[11:48:38] =======================================================
+[11:48:38] 🎵 Spotify Bot — Exact Song Matching
+[11:48:38] 🎤 Song: billie jean
+[11:48:38] 🎤 Artist: Michael Jackson
+[11:48:38] 🔍 Search query: "billie jean Michael Jackson"
+[11:48:38] 🎯 Target plays: 1
+[11:48:38] ⏱️ Per play: 35s
+[11:48:38] =======================================================
+[11:48:38] ✅ ADB device detected
+[11:48:38] Starting in 5 seconds...
+[11:48:43] 
+🔄 ROUND 1 | ✅ 0/1
+
+[11:48:43] 📱 Opening Spotify...
+[11:48:43] 🔓 Waking and unlocking phone...
+[11:48:56] ━━━ STEP 1: Reset to Home ━━━
+[11:48:56]    👆 Tap: Home tab (100,2328)
+[11:49:04] ━━━ STEP 2: Open Search ━━━
+[11:49:07]    👆 Tap: Search tab (attempt 1) (324,2287)
+[11:49:28]    ✅ Search screen
+[11:49:28] ━━━ STEP 3: Search for "billie jean Michael Jackson" ━━━
+[11:49:28]    🔍 Ensuring search field is ready for "billie jean Michael Jackson"
+[11:49:29]    🔍 Focusing search field
+[11:49:29]    Trying known coordinate (350, 124)
+[11:49:29]    👆 Tap: Known search field (350,124)
+[11:49:35]    Found search field via placeholder text at (397,332)
+[11:49:35]    UI detected search field at (397, 332)
+[11:49:35]    👆 Tap: UI-detected search field (397,332)
+[11:49:39]    ✅ Keyboard is visible
+[11:49:39]    🧹 Clearing search field
+[11:49:41]    ⌨️ Typing: "billie jean Michael Jackson"
+[11:49:47]    ✅ Verified text in search field: "billie jean Michael Jackson"
+[11:49:47]    ⌨️ Pressing Enter
+[11:49:52]    ✅ Search results
+[11:49:52] ━━━ Playing: "billie jean" by "Michael Jackson" ━━━
+[11:49:52]    🎯 Looking for exact match: "billie jean" by "Michael Jackson"
+[11:49:55]    Found song: "Artists" by "" at (991,406)
+[11:49:55]    Found song: "Songs" by "" at (111,406)
+[11:49:55]    Found song: "Billie Jean" by "Michael Jackson" at (512,537)
+[11:49:55]    Found song: "MICHEL JACSON Billie Jean" by "" at (578,716)
+[11:49:55]    Found song: "Billie Jean" by "Michael Jackson" at (512,889)
+[11:49:55]    Found song: "BEST OF MICHAEL JACKSON" by "" at (578,1068)
+[11:49:55]    Found song: "Top 50 Michael Jackson Songs" by "" at (578,1244)
+[11:49:55]    Found song: "Billie Jean" by "BURUKLYN BOYZ" at (512,1613)
+[11:49:55]    📋 Found 8 songs
+[11:49:55]    ✅ Found EXACT match: "Billie Jean" by "Michael Jackson" at (512,537)
+[11:49:55]    👆 Tap: Click: Billie Jean (512,537)
+[11:49:56]    ⏳ Waiting for mini-player to appear...
+[11:50:35]    ⚠️ Mini-player did not appear
+[11:50:35]    ⚠️ Mini-player didn't appear, but continuing...
+[11:51:11] 
+⚠️ Bot interrupted by user
+[11:51:11] 
+[11:51:11] =======================================================
+[11:51:11] ✅ DONE! 0/1 plays of "billie jean"
+[11:51:11] =======================================================
+[11:56:49] =======================================================
+[11:56:49] 🎵 Spotify Bot — Complete Flow with Mini-Player
+[11:56:49] 🎤 Song: billie jean
+[11:56:49] 🎤 Artist: Michael Jackson
+[11:56:49] 🔍 Search query: "billie jean Michael Jackson"
+[11:56:49] 🎯 Target plays: 1
+[11:56:49] ⏱️ Per play: 35s
+[11:56:49] =======================================================
+[11:56:49] ✅ ADB device detected
+[11:56:49] Starting in 5 seconds...
+[11:56:54] 
+🔄 ROUND 1 | ✅ 0/1
+
+[11:56:54] 📱 Opening Spotify...
+[11:56:54] 🔓 Waking and unlocking phone...
+[11:57:06] ━━━ STEP 1: Reset to Home ━━━
+[11:57:07]    👆 Tap: Home tab (100,2328)
+[11:57:48]    👆 Tap: Home tab (100,2288)
+[11:57:59] 
+⚠️ Bot interrupted by user
+[11:57:59] 
+[11:57:59] =======================================================
+[11:57:59] ✅ DONE! 0/1 plays of "billie jean"
+[11:57:59] =======================================================
+[11:58:01] =======================================================
+[11:58:01] 🎵 Spotify Bot — Complete Flow with Mini-Player
+[11:58:01] 🎤 Song: billie jean
+[11:58:01] 🎤 Artist: Michael Jackson
+[11:58:01] 🔍 Search query: "billie jean Michael Jackson"
+[11:58:01] 🎯 Target plays: 1
+[11:58:01] ⏱️ Per play: 35s
+[11:58:01] =======================================================
+[11:58:01] ✅ ADB device detected
+[11:58:01] Starting in 5 seconds...
+[11:58:06] 
+🔄 ROUND 1 | ✅ 0/1
+
+[11:58:06] 📱 Opening Spotify...
+[11:58:06] 🔓 Waking and unlocking phone...
+[11:58:18] ━━━ STEP 1: Reset to Home ━━━
+[11:58:18]    👆 Tap: Home tab (100,2328)
+[11:58:43] 
+⚠️ Bot interrupted by user
+[11:58:43] 
+[11:58:43] =======================================================
+[11:58:43] ✅ DONE! 0/1 plays of "billie jean"
+[11:58:43] =======================================================
+[11:58:49] =======================================================
+[11:58:49] 🎵 Spotify Bot — Exact Song Matching
+[11:58:49] 🎤 Song: billie jean
+[11:58:49] 🎤 Artist: Michael Jackson
+[11:58:49] 🔍 Search query: "billie jean Michael Jackson"
+[11:58:49] 🎯 Target plays: 1
+[11:58:49] ⏱️ Per play: 35s
+[11:58:49] =======================================================
+[11:58:49] ✅ ADB device detected
+[11:58:49] Starting in 5 seconds...
+[11:58:54] 
+🔄 ROUND 1 | ✅ 0/1
+
+[11:58:54] 📱 Opening Spotify...
+[11:58:54] 🔓 Waking and unlocking phone...
+[11:59:05] ━━━ STEP 1: Reset to Home ━━━
+[11:59:05]    👆 Tap: Home tab (100,2328)
+[11:59:46]    👆 Tap: Home tab (100,2288)
+[12:00:14] 
+⚠️ Bot interrupted by user
+[12:00:14] 
+[12:00:14] =======================================================
+[12:00:14] ✅ DONE! 0/1 plays of "billie jean"
+[12:00:14] =======================================================
+[12:00:48] =======================================================
+[12:00:48] 🎵 Spotify Bot — Exact Song Matching
+[12:00:48] 🎤 Song: billie jean
+[12:00:48] 🎤 Artist: Michael Jackson
+[12:00:48] 🔍 Search query: "billie jean Michael Jackson"
+[12:00:48] 🎯 Target plays: 1
+[12:00:48] ⏱️ Per play: 35s
+[12:00:48] =======================================================
+[12:00:48] ✅ ADB device detected
+[12:00:48] Starting in 5 seconds...
+[12:00:53] 
+🔄 ROUND 1 | ✅ 0/1
+
+[12:00:53] 📱 Opening Spotify...
+[12:00:53] 🔓 Waking and unlocking phone...
+[12:01:05] ━━━ STEP 1: Reset to Home ━━━
+[12:01:05]    👆 Tap: Home tab (100,2328)
+[12:01:45]    👆 Tap: Home tab (100,2288)
+[12:02:26]    👆 Tap: Home tab (140,2288)
+[12:03:07]    👆 Tap: Home tab (120,2235)
+[12:03:33] 
+⚠️ Bot interrupted by user
+[12:03:33] 
+[12:03:33] =======================================================
+[12:03:33] ✅ DONE! 0/1 plays of "billie jean"
+[12:03:33] =======================================================
+[12:05:01] =======================================================
+[12:05:01] 🎵 Spotify Bot — UI Automator Control
+[12:05:01] 🎤 Artist: Wakadinali
+[12:05:01] 🎯 Target: 10 streams
+[12:05:01] ⏱️ Per song: 35s
+[12:05:01] =======================================================
+[12:05:01] ✅ ADB device detected
+[12:05:01] Starting in 5 seconds...
+[12:05:06] 
+🔄 ROUND 1 | ✅ 0/10
+
+[12:05:06] 📱 Opening Spotify...
+[12:05:06] 🔓 Waking and unlocking phone...
+[12:05:18] ━━━ STEP 1: Reset to Home ━━━
+[12:05:18]    👆 Tap: Home tab (100,2328)
+[12:05:25] ━━━ STEP 2: Open Search ━━━
+[12:05:29]    👆 Tap: Search tab (attempt 1) (324,2287)
+[12:05:44]    ✅ Search screen
+[12:05:44] ━━━ STEP 3: Search Wakadinali ━━━
+[12:05:44]    🔍 Ensuring search field is ready
+[12:05:45]    🔍 Focusing search field
+[12:05:45]    Trying known coordinate (350, 124)
+[12:05:45]    👆 Tap: Known search field (350,124)
+[12:05:48]    Known coordinate failed, trying UI detection
+[12:05:52]    Found search field via placeholder text at (397,332)
+[12:05:52]    UI detected search field at (397, 332)
+[12:05:52]    👆 Tap: UI-detected search field (397,332)
+[12:05:55]    ✅ Keyboard is visible
+[12:05:55]    🧹 Clearing search field
+[12:05:57]    ⌨️ Typing: "Wakadinali"
+[12:06:04]    ✅ Verified text in search field: "Wakadinali"
+[12:06:04]    ⌨️ Pressing Enter
+[12:06:09]    ✅ Search results
+[12:06:09] ━━━ STEP 4: Open Artist 'Wakadinali' ━━━
+[12:06:12]    👆 Tap: Artist: Wakadinali (320,560)
+[12:06:20]    ✅ Artist page
+[12:06:20] ━━━ STEP 5: Follow Artist ━━━
+[12:06:24]    👆 Tap: Follow (297,971)
+[12:06:28] ━━━ STEP 6: Stream Songs ━━━
+[12:06:32]    Found 5 songs to stream
+[12:06:32] 
+   🎵 Song 1: Song 1
+[12:06:32]    👆 Tapping song row at (232, 655)
+[12:06:32]    👆 Tap: Song 1 (232,655)
+[12:06:47]    ❌ Timed out waiting for Playback to start
+[12:06:47]    ⚠️ Playback not confirmed, skipping
+[12:06:49] 
+⚠️ Bot interrupted by user
+[12:06:49] 
+[12:06:49] =======================================================
+[12:06:49] ✅ DONE! 0/10 streams for Wakadinali
+[12:06:49] =======================================================
+[12:06:53] =======================================================
+[12:06:53] 🎵 Spotify Bot — Exact Song Matching
+[12:06:53] 🎤 Song: billie jean
+[12:06:53] 🎤 Artist: Michael Jackson
+[12:06:53] 🔍 Search query: "billie jean Michael Jackson"
+[12:06:53] 🎯 Target plays: 1
+[12:06:53] ⏱️ Per play: 35s
+[12:06:53] =======================================================
+[12:06:53] ✅ ADB device detected
+[12:06:53] Starting in 5 seconds...
+[12:06:58] 
+🔄 ROUND 1 | ✅ 0/1
+
+[12:06:58] 📱 Opening Spotify...
+[12:06:58] 🔓 Waking and unlocking phone...
+[12:07:10] ━━━ STEP 1: Reset to Home ━━━
+[12:07:10]    👆 Tap: Home tab (100,2328)
+[12:07:17] ━━━ STEP 2: Open Search ━━━
+[12:07:20]    👆 Tap: Search tab (attempt 1) (324,2287)
+[12:07:40]    ✅ Search screen
+[12:07:40] ━━━ STEP 3: Search for "billie jean Michael Jackson" ━━━
+[12:07:40]    🔍 Ensuring search field is ready for "billie jean Michael Jackson"
+[12:07:41]    🔍 Focusing search field
+[12:07:41]    Trying known coordinate (350, 124)
+[12:07:41]    👆 Tap: Known search field (350,124)
+[12:07:44]    ✅ Keyboard is visible
+[12:07:44]    🧹 Clearing search field
+[12:07:46]    ⌨️ Typing: "billie jean Michael Jackson"
+[12:07:53]    ✅ Verified text in search field: "billie jean Michael Jackson"
+[12:07:53]    ⌨️ Pressing Enter
+[12:07:58]    ✅ Search results
+[12:07:58] ━━━ Playing: "billie jean" by "Michael Jackson" ━━━
+[12:07:58]    🎯 Looking for exact match: "billie jean" by "Michael Jackson"
+[12:08:01]    Found song: "Artists" by "" at (991,406)
+[12:08:01]    Found song: "Songs" by "" at (111,406)
+[12:08:01]    Found song: "Billie Jean" by "Michael Jackson" at (512,537)
+[12:08:01]    Found song: "MICHEL JACSON Billie Jean" by "" at (578,716)
+[12:08:01]    Found song: "Billie Jean" by "Michael Jackson" at (512,889)
+[12:08:01]    Found song: "BEST OF MICHAEL JACKSON" by "" at (578,1068)
+[12:08:01]    Found song: "Top 50 Michael Jackson Songs" by "" at (578,1244)
+[12:08:01]    Found song: "Billie Jean" by "BURUKLYN BOYZ" at (512,1613)
+[12:08:01]    📋 Found 8 songs
+[12:08:01]    ✅ Found EXACT match: "Billie Jean" by "Michael Jackson" at (512,537)
+[12:08:01]    👆 Tap: Click: Billie Jean (512,537)
+[12:08:02]    ⏳ Waiting for mini-player to appear...
+[12:08:41]    ⚠️ Mini-player did not appear
+[12:08:41]    ⚠️ Mini-player didn't appear, but continuing...
+[12:08:57] 
+⚠️ Bot interrupted by user
+[12:08:57] 
+[12:08:57] =======================================================
+[12:08:57] ✅ DONE! 0/1 plays of "billie jean"
+[12:08:57] =======================================================
+[12:09:09] =======================================================
+[12:09:09] 🎵 Spotify Bot — Complete Flow with Mini-Player
+[12:09:09] 🎤 Song: billie jean
+[12:09:09] 🎤 Artist: Michael Jackson
+[12:09:09] 🔍 Search query: "billie jean Michael Jackson"
+[12:09:09] 🎯 Target plays: 1
+[12:09:09] ⏱️ Per play: 35s
+[12:09:09] =======================================================
+[12:09:09] ✅ ADB device detected
+[12:09:09] Starting in 5 seconds...
+[12:09:14] 
+🔄 ROUND 1 | ✅ 0/1
+
+[12:09:14] 📱 Opening Spotify...
+[12:09:14] 🔓 Waking and unlocking phone...
+[12:09:25] ━━━ STEP 1: Reset to Home ━━━
+[12:09:25]    👆 Tap: Home tab (100,2328)
+[12:09:55] 
+⚠️ Bot interrupted by user
+[12:09:55] 
+[12:09:55] =======================================================
+[12:09:55] ✅ DONE! 0/1 plays of "billie jean"
+[12:09:55] =======================================================
+[12:14:30] =======================================================
+[12:14:30] 🎵 Spotify Bot — Exact Song Matching
+[12:14:30] 🎤 Song: billie jean
+[12:14:30] 🎤 Artist: Michael Jackson
+[12:14:30] 🔍 Search query: "billie jean Michael Jackson"
+[12:14:30] 🎯 Target plays: 1
+[12:14:30] ⏱️ Per play: 35s
+[12:14:30] =======================================================
+[12:14:30] ✅ ADB device detected
+[12:14:30] Starting in 5 seconds...
+[12:14:35] 
+🔄 ROUND 1 | ✅ 0/1
+
+[12:14:35] 📱 Opening Spotify...
+[12:14:35] 🔓 Waking and unlocking phone...
+[12:14:48] ━━━ STEP 1: Reset to Home ━━━
+[12:14:48]    👆 Tap: Home tab (100,2328)
+[12:15:29]    👆 Tap: Home tab (100,2288)
+[12:16:10]    👆 Tap: Home tab (140,2288)
+[12:16:50]    👆 Tap: Home tab (120,2235)
+[12:17:31] ⚠️ Could not verify home screen
+[12:17:31] ━━━ STEP 2: Open Search ━━━
+[12:18:09]    👆 Tap: Search tab (attempt 1) (324,2288)
+[12:18:14] 
+⚠️ Bot interrupted by user
+[12:18:14] 
+[12:18:14] =======================================================
+[12:18:14] ✅ DONE! 0/1 plays of "billie jean"
+[12:18:14] =======================================================
+[12:18:27] =======================================================
+[12:18:27] 🎵 Spotify Bot — Exact Song Matching
+[12:18:27] 🎤 Song: billie jean
+[12:18:27] 🎤 Artist: Michael Jackson
+[12:18:27] 🔍 Search query: "billie jean Michael Jackson"
+[12:18:27] 🎯 Target plays: 1
+[12:18:27] ⏱️ Per play: 35s
+[12:18:27] =======================================================
+[12:18:27] ✅ ADB device detected
+[12:18:27] Starting in 5 seconds...
+[12:18:32] 
+🔄 ROUND 1 | ✅ 0/1
+
+[12:18:32] 📱 Opening Spotify...
+[12:18:32] 🔓 Waking and unlocking phone...
+[12:18:44] ━━━ STEP 1: Reset to Home ━━━
+[12:18:44]    👆 Tap: Home tab (100,2328)
+[12:19:15] 
+⚠️ Bot interrupted by user
+[12:19:15] 
+[12:19:15] =======================================================
+[12:19:15] ✅ DONE! 0/1 plays of "billie jean"
+[12:19:15] =======================================================
+[12:19:37] =======================================================
+[12:19:37] 🎵 Spotify Bot — Exact Song Matching
+[12:19:37] 🎤 Song: billie jean
+[12:19:37] 🎤 Artist: Michael Jackson
+[12:19:37] 🔍 Search query: "billie jean Michael Jackson"
+[12:19:37] 🎯 Target plays: 1
+[12:19:37] ⏱️ Per play: 35s
+[12:19:37] =======================================================
+[12:19:37] ✅ ADB device detected
+[12:19:37] Starting in 5 seconds...
+[12:19:42] 
+🔄 ROUND 1 | ✅ 0/1
+
+[12:19:42] 📱 Opening Spotify...
+[12:19:42] 🔓 Waking and unlocking phone...
+[12:19:54] ━━━ STEP 1: Reset to Home ━━━
+[12:19:54]    👆 Tap: Home tab (100,2328)
+[12:20:35]    👆 Tap: Home tab (100,2288)
+[12:20:38] 
+⚠️ Bot interrupted by user
+[12:20:38] 
+[12:20:38] =======================================================
+[12:20:38] ✅ DONE! 0/1 plays of "billie jean"
+[12:20:38] =======================================================
+[12:20:39] =======================================================
+[12:20:39] 🎵 Spotify Bot — Exact Song Matching
+[12:20:39] 🎤 Song: billie jean
+[12:20:39] 🎤 Artist: Michael Jackson
+[12:20:39] 🔍 Search query: "billie jean Michael Jackson"
+[12:20:39] 🎯 Target plays: 1
+[12:20:39] ⏱️ Per play: 35s
+[12:20:39] =======================================================
+[12:20:39] ✅ ADB device detected
+[12:20:39] Starting in 5 seconds...
+[12:20:44] 
+🔄 ROUND 1 | ✅ 0/1
+
+[12:20:44] 📱 Opening Spotify...
+[12:20:44] 🔓 Waking and unlocking phone...
+[12:20:56] ━━━ STEP 1: Reset to Home ━━━
+[12:20:56]    👆 Tap: Home tab (100,2328)
+[12:21:25] 
+⚠️ Bot interrupted by user
+[12:21:25] 
+[12:21:25] =======================================================
+[12:21:25] ✅ DONE! 0/1 plays of "billie jean"
+[12:21:25] =======================================================
+[12:21:28] =======================================================
+[12:21:28] 🎵 Spotify Bot — UI Automator Control
+[12:21:28] 🎤 Artist: Wakadinali
+[12:21:28] 🎯 Target: 10 streams
+[12:21:28] ⏱️ Per song: 35s
+[12:21:28] =======================================================
+[12:21:28] ✅ ADB device detected
+[12:21:28] Starting in 5 seconds...
+[12:21:33] 
+🔄 ROUND 1 | ✅ 0/10
+
+[12:21:33] 📱 Opening Spotify...
+[12:21:33] 🔓 Waking and unlocking phone...
+[12:21:45] ━━━ STEP 1: Reset to Home ━━━
+[12:21:45]    👆 Tap: Home tab (100,2328)
+[12:22:26]    👆 Tap: Home tab (100,2288)
+[12:23:06]    👆 Tap: Home tab (140,2288)
+[12:23:47]    👆 Tap: Home tab (120,2235)
+[12:24:28] ⚠️ Could not verify home screen
+[12:24:28] ━━━ STEP 2: Open Search ━━━
+[12:24:45]    👆 Tap: Search tab (attempt 1) (324,2288)
+[12:25:17] 
+⚠️ Bot interrupted by user
+[12:25:17] 
+[12:25:17] =======================================================
+[12:25:17] ✅ DONE! 0/10 streams for Wakadinali
+[12:25:17] =======================================================
+[12:25:23] =======================================================
+[12:25:23] 🎵 Spotify Bot — Exact Song Matching
+[12:25:23] 🎤 Song: billie jean
+[12:25:23] 🎤 Artist: Michael Jackson
+[12:25:23] 🔍 Search query: "billie jean Michael Jackson"
+[12:25:23] 🎯 Target plays: 1
+[12:25:23] ⏱️ Per play: 35s
+[12:25:23] =======================================================
+[12:25:23] ✅ ADB device detected
+[12:25:23] Starting in 5 seconds...
+[12:25:28] 
+🔄 ROUND 1 | ✅ 0/1
+
+[12:25:28] 📱 Opening Spotify...
+[12:25:28] 🔓 Waking and unlocking phone...
+[12:25:40] ━━━ STEP 1: Reset to Home ━━━
+[12:25:40]    👆 Tap: Home tab (100,2328)
+[12:28:17] =======================================================
+[12:28:17] 🎵 Spotify Bot — Exact Song Matching
+[12:28:17] 🎤 Song: billie jean
+[12:28:17] 🎤 Artist: Michael Jackson
+[12:28:17] 🔍 Search query: "billie jean Michael Jackson"
+[12:28:17] 🎯 Target plays: 1
+[12:28:17] ⏱️ Per play: 35s
+[12:28:17] =======================================================
+[12:28:17] ✅ ADB device detected
+[12:28:17] Starting in 5 seconds...
+[12:28:22] 
+🔄 ROUND 1 | ✅ 0/1
+
+[12:28:22] 📱 Opening Spotify...
+[12:28:22] 🔓 Waking and unlocking phone...
+[12:28:34] ━━━ STEP 1: Reset to Home ━━━
+[12:28:34]    👆 Tap: Home tab (100,2328)
+[12:29:15]    👆 Tap: Home tab (100,2288)
+[12:29:15] 
+⚠️ Bot interrupted by user
+[12:29:15] 
+[12:29:15] =======================================================
+[12:29:15] ✅ DONE! 0/1 plays of "billie jean"
+[12:29:15] =======================================================
+[12:29:23] =======================================================
+[12:29:23] 🎵 Spotify Bot — UI Automator Control
+[12:29:23] 🎤 Artist: Wakadinali
+[12:29:23] 🎯 Target: 10 streams
+[12:29:23] ⏱️ Per song: 35s
+[12:29:23] =======================================================
+[12:29:23] ✅ ADB device detected
+[12:29:23] Starting in 5 seconds...
+[12:29:28] 
+🔄 ROUND 1 | ✅ 0/10
+
+[12:29:28] 📱 Opening Spotify...
+[12:29:28] 🔓 Waking and unlocking phone...
+[12:29:39] ━━━ STEP 1: Reset to Home ━━━
+[12:29:40]    👆 Tap: Home tab (100,2328)
+[12:29:59] ━━━ STEP 2: Open Search ━━━
+[12:30:02]    👆 Tap: Search tab (attempt 1) (324,2287)
+[12:30:17]    ✅ Search screen
+[12:30:17] ━━━ STEP 3: Search Wakadinali ━━━
+[12:30:17]    🔍 Ensuring search field is ready
+[12:30:18]    🔍 Focusing search field
+[12:30:18]    Trying known coordinate (350, 124)
+[12:30:18]    👆 Tap: Known search field (350,124)
+[12:30:21]    Known coordinate failed, trying UI detection
+[12:30:25]    Found search field via placeholder text at (397,332)
+[12:30:25]    UI detected search field at (397, 332)
+[12:30:25]    👆 Tap: UI-detected search field (397,332)
+[12:30:29]    ✅ Keyboard is visible
+[12:30:29]    🧹 Clearing search field
+[12:30:31]    ⌨️ Typing: "Wakadinali"
+[12:30:37]    ✅ Verified text in search field: "Wakadinali"
+[12:30:37]    ⌨️ Pressing Enter
+[12:30:42]    ✅ Search results
+[12:30:42] ━━━ STEP 4: Open Artist 'Wakadinali' ━━━
+[12:30:45]    👆 Tap: Artist: Wakadinali (320,560)
+[12:30:53]    ✅ Artist page
+[12:30:53] ━━━ STEP 5: Follow Artist ━━━
+[12:30:54] 
+⚠️ Bot interrupted by user
+[12:30:54] 
+[12:30:54] =======================================================
+[12:30:54] ✅ DONE! 0/10 streams for Wakadinali
+[12:30:54] =======================================================
+[12:30:57] =======================================================
+[12:30:57] 🎵 Spotify Bot — Exact Song Matching
+[12:30:57] 🎤 Song: billie jean
+[12:30:57] 🎤 Artist: Michael Jackson
+[12:30:57] 🔍 Search query: "billie jean Michael Jackson"
+[12:30:57] 🎯 Target plays: 1
+[12:30:57] ⏱️ Per play: 35s
+[12:30:57] =======================================================
+[12:30:57] ✅ ADB device detected
+[12:30:57] Starting in 5 seconds...
+[12:31:02] 
+🔄 ROUND 1 | ✅ 0/1
+
+[12:31:02] 📱 Opening Spotify...
+[12:31:02] 🔓 Waking and unlocking phone...
+[12:31:13] ━━━ STEP 1: Reset to Home ━━━
+[12:31:13]    👆 Tap: Home tab (100,2328)
+[12:31:20] ━━━ STEP 2: Open Search ━━━
+[12:31:23]    👆 Tap: Search tab (attempt 1) (324,2287)
+[12:31:41]    ✅ Search screen
+[12:31:41] ━━━ STEP 3: Search for "billie jean Michael Jackson" ━━━
+[12:31:41]    🔍 Ensuring search field is ready for "billie jean Michael Jackson"
+[12:31:42]    🔍 Focusing search field
+[12:31:42]    Trying known coordinate (350, 124)
+[12:31:42]    👆 Tap: Known search field (350,124)
+[12:31:49]    Found search field via placeholder text at (397,332)
+[12:31:49]    UI detected search field at (397, 332)
+[12:31:49]    👆 Tap: UI-detected search field (397,332)
+[12:31:52]    ✅ Keyboard is visible
+[12:31:52]    🧹 Clearing search field
+[12:31:54]    ⌨️ Typing: "billie jean Michael Jackson"
+[12:32:01]    ✅ Verified text in search field: "billie jean Michael Jackson"
+[12:32:01]    ⌨️ Pressing Enter
+[12:32:06]    ✅ Search results
+[12:32:06] ━━━ Playing: "billie jean" by "Michael Jackson" ━━━
+[12:32:06]    🎯 Looking for exact match: "billie jean" by "Michael Jackson"
+[12:32:09]    Found song: "Artists" by "" at (991,406)
+[12:32:09]    Found song: "Songs" by "" at (111,406)
+[12:32:09]    Found song: "Billie Jean" by "Michael Jackson" at (512,537)
+[12:32:09]    Found song: "MICHEL JACSON Billie Jean" by "" at (578,716)
+[12:32:09]    Found song: "Billie Jean" by "Michael Jackson" at (512,889)
+[12:32:09]    Found song: "BEST OF MICHAEL JACKSON" by "" at (578,1068)
+[12:32:09]    Found song: "Top 50 Michael Jackson Songs" by "" at (578,1244)
+[12:32:09]    Found song: "Michael Jackson" by "" at (343,1420)
+[12:32:09]    Found song: "Artist" by "" at (528,1465)
+[12:32:09]    Found song: "Follow" by "" at (958,1440)
+[12:32:09]    Found song: "Michael Jackson: Greatest Hits" by "" at (578,1988)
+[12:32:09]    📋 Found 11 songs
+[12:32:09]    ✅ Found EXACT match: "Billie Jean" by "Michael Jackson" at (512,537)
+[12:32:09]    👆 Tap: Click: Billie Jean (512,537)
+[12:32:10]    ⏳ Waiting for mini-player to appear...
+[12:32:49]    ⚠️ Mini-player did not appear
+[12:32:49]    ⚠️ Mini-player didn't appear, but continuing...
+[12:33:16] 
+⚠️ Bot interrupted by user
+[12:33:16] 
+[12:33:16] =======================================================
+[12:33:16] ✅ DONE! 0/1 plays of "billie jean"
+[12:33:16] =======================================================
+[12:33:56] =======================================================
+[12:33:56] 🎵 Spotify Bot — Exact Song Matching
+[12:33:56] 🎤 Song: billie jean
+[12:33:56] 🎤 Artist: Michael Jackson
+[12:33:56] 🔍 Search query: "billie jean Michael Jackson"
+[12:33:56] 🎯 Target plays: 1
+[12:33:56] ⏱️ Per play: 35s
+[12:33:56] =======================================================
+[12:33:56] ✅ ADB device detected
+[12:33:56] Starting in 5 seconds...
+[12:34:01] 
+🔄 ROUND 1 | ✅ 0/1
+
+[12:34:01] 📱 Opening Spotify...
+[12:34:01] 🔓 Waking and unlocking phone...
+[12:34:14] ━━━ STEP 1: Reset to Home ━━━
+[12:34:14]    👆 Tap: Home tab (100,2328)
+[12:34:31] 
+⚠️ Bot interrupted by user
+[12:34:31] 
+[12:34:31] =======================================================
+[12:34:31] ✅ DONE! 0/1 plays of "billie jean"
+[12:34:31] =======================================================
+[12:34:32] =======================================================
+[12:34:32] 🎵 Spotify Bot — Exact Song Matching
+[12:34:32] 🎤 Song: billie jean
+[12:34:32] 🎤 Artist: Michael Jackson
+[12:34:32] 🔍 Search query: "billie jean Michael Jackson"
+[12:34:32] 🎯 Target plays: 1
+[12:34:32] ⏱️ Per play: 35s
+[12:34:32] =======================================================
+[12:34:32] ✅ ADB device detected
+[12:34:32] Starting in 5 seconds...
+[12:34:37] 
+🔄 ROUND 1 | ✅ 0/1
+
+[12:34:37] 📱 Opening Spotify...
+[12:34:37] 🔓 Waking and unlocking phone...
+[12:34:49] ━━━ STEP 1: Reset to Home ━━━
+[12:34:49]    👆 Tap: Home tab (100,2328)
+[12:35:31]    👆 Tap: Home tab (100,2288)
+[12:36:12]    👆 Tap: Home tab (140,2288)
+[12:36:48] 
+⚠️ Bot interrupted by user
+[12:36:48] 
+[12:36:48] =======================================================
+[12:36:48] ✅ DONE! 0/1 plays of "billie jean"
+[12:36:48] =======================================================
+[12:44:54] ✅ Loaded configuration from spotify_config.json
+[12:44:54] =======================================================
+[12:44:54] 🎵 Spotify Bot — Exact Song Matching (Enhanced)
+[12:44:54] 🎤 Song: billie jean
+[12:44:54] 🎤 Artist: Michael Jackson
+[12:44:54] 🔍 Search query: "billie jean Michael Jackson"
+[12:44:54] 🎯 Target plays: 1
+[12:44:54] ⏱️ Per play: 35s
+[12:44:54] =======================================================
+[12:44:54] 🔍 Validating environment...
+[12:44:54]    ✅ ADB found
+[12:44:54]    ✅ Device connected: aece3bbd
+[12:44:54]    ✅ Spotify installed
+[12:44:54] 📱 Device resolution: 1080x2400
+[12:44:54] ✅ All checks passed
+[12:44:54] Starting in 5 seconds...
+[12:44:59] 
+🔄 ROUND 1
+[12:44:59] 📊 Progress [░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 0.0% (0/1)
+[12:44:59] 📱 Opening Spotify...
+[12:44:59] 🔓 Waking and unlocking phone...
+[12:45:13] ━━━ STEP 1: Reset to Home ━━━
+[12:45:52]    ⚠️ Using fallback coordinates for Home tab: (100,2328)
+[12:45:52]    👆 Tap: Home tab (100,2328)
+[12:46:33]    ⚠️ Could not verify home screen, but continuing
+[12:46:33] ⚠️ Could not verify home screen
+[12:46:33] ━━━ STEP 2: Open Search ━━━
+[12:46:57] 
+⚠️ Received shutdown signal, cleaning up...
+[12:47:04] =======================================================
+[12:47:04] 🎵 Spotify Bot — Exact Song Matching
+[12:47:04] 🎤 Song: billie jean
+[12:47:04] 🎤 Artist: Michael Jackson
+[12:47:04] 🔍 Search query: "billie jean Michael Jackson"
+[12:47:04] 🎯 Target plays: 1
+[12:47:04] ⏱️ Per play: 35s
+[12:47:04] =======================================================
+[12:47:04] ✅ ADB device detected
+[12:47:04] Starting in 5 seconds...
+[12:47:09] 
+🔄 ROUND 1 | ✅ 0/1
+
+[12:47:09] 📱 Opening Spotify...
+[12:47:09] 🔓 Waking and unlocking phone...
+[12:47:21] ━━━ STEP 1: Reset to Home ━━━
+[12:47:21]    👆 Tap: Home tab (100,2328)
+[12:47:43] ━━━ STEP 2: Open Search ━━━
+[12:47:47]    👆 Tap: Search tab (attempt 1) (324,2287)
+[12:48:08]    ✅ Search screen
+[12:48:08] ━━━ STEP 3: Search for "billie jean Michael Jackson" ━━━
+[12:48:08]    🔍 Ensuring search field is ready for "billie jean Michael Jackson"
+[12:48:09]    🔍 Focusing search field
+[12:48:09]    Trying known coordinate (350, 124)
+[12:48:09]    👆 Tap: Known search field (350,124)
+[12:48:16]    Found search field via placeholder text at (397,332)
+[12:48:16]    UI detected search field at (397, 332)
+[12:48:16]    👆 Tap: UI-detected search field (397,332)
+[12:48:19]    ✅ Keyboard is visible
+[12:48:19]    🧹 Clearing search field
+[12:48:22]    ⌨️ Typing: "billie jean Michael Jackson"
+[12:48:29]    ✅ Verified text in search field: "billie jean Michael Jackson"
+[12:48:29]    ⌨️ Pressing Enter
+[12:48:34]    ✅ Search results
+[12:48:34] ━━━ Playing: "billie jean" by "Michael Jackson" ━━━
+[12:48:34]    🎯 Looking for exact match: "billie jean" by "Michael Jackson"
+[12:48:38]    Found song: "billie jean michael jackson" by "" at (556,406)
+[12:48:38]    Found song: "billie jean michael jackson live" by "" at (556,670)
+[12:48:38]    Found song: "billie jean michael jackson minor key" by "" at (556,802)
+[12:48:38]    Found song: "billie jean michael jackson entstehung" by "" at (556,934)
+[12:48:38]    Found song: "Billie Jean" by "Michael Jackson" at (512,1087)
+[12:48:38]    Found song: "Billie Jean" by "Michael Jackson" at (512,1263)
+[12:48:38]    Found song: "BEST OF MICHAEL JACKSON" by "" at (578,1442)
+[12:48:38]    Found song: "Top 50 Michael Jackson Songs" by "" at (578,1618)
+[12:48:38]    Found song: "Michael Jackson: Greatest Hits" by "" at (578,1794)
+[12:48:38]    Found song: "MICHEL JACSON Billie Jean" by "" at (578,1970)
+[12:48:38]    📋 Found 10 songs
+[12:48:38]    ✅ Found EXACT match: "Billie Jean" by "Michael Jackson" at (512,1087)
+[12:48:38]    👆 Tap: Click: Billie Jean (512,1087)
+[12:48:40]    ⏳ Waiting for mini-player to appear...
+[12:49:09] 
+⚠️ Bot interrupted by user
+[12:49:09] 
+[12:49:09] =======================================================
+[12:49:09] ✅ DONE! 0/1 plays of "billie jean"
+[12:49:09] =======================================================
+[12:49:13] ✅ Loaded configuration from spotify_config.json
+[12:49:13] =======================================================
+[12:49:13] 🎵 Spotify Bot — Exact Song Matching (Enhanced)
+[12:49:13] 🎤 Song: billie jean
+[12:49:13] 🎤 Artist: Michael Jackson
+[12:49:13] 🔍 Search query: "billie jean Michael Jackson"
+[12:49:13] 🎯 Target plays: 1
+[12:49:13] ⏱️ Per play: 35s
+[12:49:13] =======================================================
+[12:49:13] 🔍 Validating environment...
+[12:49:13]    ✅ ADB found
+[12:49:13]    ✅ Device connected: aece3bbd
+[12:49:13]    ✅ Spotify installed
+[12:49:13] 📱 Device resolution: 1080x2400
+[12:49:13] ✅ All checks passed
+[12:49:13] Starting in 5 seconds...
+[12:49:18] 
+🔄 ROUND 1
+[12:49:18] 📊 Progress [░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 0.0% (0/1)
+[12:49:18] 📱 Opening Spotify...
+[12:49:18] 🔓 Waking and unlocking phone...
+[12:49:30] ━━━ STEP 1: Reset to Home ━━━
+[12:50:09]    ⚠️ Using fallback coordinates for Home tab: (100,2328)
+[12:50:09]    👆 Tap: Home tab (100,2328)
+[12:50:50]    ⚠️ Could not verify home screen, but continuing
+[12:50:50] ⚠️ Could not verify home screen
+[12:50:50] ━━━ STEP 2: Open Search ━━━
+[12:51:29]    ⚠️ Using fallback coordinates for Search tab: (324,2328)
+[12:51:29]    👆 Tap: Search tab (324,2328)
+[12:51:42] 
+⚠️ Received shutdown signal, cleaning up...
+[12:51:55] =======================================================
+[12:51:55] 🎵 Spotify Bot
+[12:51:55] 🎤 Song: billie jean
+[12:51:55] 🎤 Artist: Michael Jackson
+[12:51:55] 🎯 Target: 1 plays
+[12:51:55] ⏱️ Duration: 35s
+[12:51:55] =======================================================
+[12:51:55] 🔍 Validating environment...
+[12:51:55]    ✅ ADB found
+[12:51:55]    ✅ Device connected: aece3bbd
+[12:51:55]    ✅ Spotify installed
+[12:51:55] 📱 Device resolution: 1080x2400
+[12:51:55] ✅ Ready! Starting in 3 seconds...
+[12:51:58] 
+🔄 ROUND 1
+[12:51:58] 📊 Progress [░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 0.0% (0/1)
+[12:51:58] 📱 Opening Spotify...
+[12:51:58] 🔓 Waking and unlocking phone...
+[12:52:07] ━━━ STEP 1: Go to Home ━━━
+[12:52:08]    🔍 Looking for 'home' tab...
+[12:52:18] ⚠️ ADB command timed out: adb shell uiautomator dump /sdcard/window_dump.xml
+[12:52:28] ⚠️ ADB command timed out: adb shell uiautomator dump /sdcard/window_dump.xml
+[12:52:28]    ⚠️ UI dump failed for tab detection
+[12:52:28]    ⚠️ Using fallback coordinates for Home tab: (97,2328)
+[12:52:28]    👆 Tap: Home tab (97,2328)
+[12:52:31] ━━━ STEP 2: Open Search ━━━
+[12:52:31]    🔍 Looking for 'search' tab...
+[12:52:41] ⚠️ ADB command timed out: adb shell uiautomator dump /sdcard/window_dump.xml
+[12:52:51] ⚠️ ADB command timed out: adb shell uiautomator dump /sdcard/window_dump.xml
+[12:52:52]    ⚠️ UI dump failed for tab detection
+[12:52:52]    ⚠️ Using fallback coordinates for Search tab: (324,2328)
+[12:52:52]    👆 Tap: Search tab (324,2328)
+[12:53:02] ⚠️ ADB command timed out: adb shell uiautomator dump /sdcard/window_dump.xml
+[12:53:13] ⚠️ ADB command timed out: adb shell uiautomator dump /sdcard/window_dump.xml
+[12:53:23] ⚠️ ADB command timed out: adb shell uiautomator dump /sdcard/window_dump.xml
+[12:53:33]    ❌ Timed out waiting for Search screen
+[12:53:34] 📸 Screenshot saved: timeout_Search_screen.png
+[12:53:34] ❌ Could not open Search
+[12:53:34] 
+🔄 ROUND 2
+[12:53:34] 📊 Progress [░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 0.0% (0/1)
+[12:53:34] 📱 Opening Spotify...
+[12:53:34] 🔓 Waking and unlocking phone...
+[12:53:43] ━━━ STEP 1: Go to Home ━━━
+[12:53:43]    🔍 Looking for 'home' tab...
+[12:53:47]    Screen height: 2400, looking in bottom area (y > 1680)
+[12:53:47]    ❌ No 'home' tab found via UI detection
+[12:53:47]    ⚠️ Using fallback coordinates for Home tab: (97,2328)
+[12:53:47]    👆 Tap: Home tab (97,2328)
+[12:53:49] ━━━ STEP 2: Open Search ━━━
+[12:53:49]    🔍 Looking for 'search' tab...
+[12:53:53]    Screen height: 2400, looking in bottom area (y > 1680)
+[12:53:53]    ❌ No 'search' tab found via UI detection
+[12:53:53]    ⚠️ Using fallback coordinates for Search tab: (324,2328)
+[12:53:53]    👆 Tap: Search tab (324,2328)
+[12:54:01]    ✅ Search screen
+[12:54:01] ━━━ STEP 3: Search for "billie jean Michael Jackson" ━━━
+[12:54:01]    🔍 Preparing search field for "billie jean Michael Jackson"
+[12:54:01]    🔍 Focusing search field
+[12:54:12]    Using fallback search field: (540,192)
+[12:54:12]    👆 Tap: Search field (540,192)
+[12:54:14]    ⚠️ Keyboard not visible
+[12:54:14] ❌ Search failed
+[12:54:14] 
+🔄 ROUND 3
+[12:54:14] 📊 Progress [░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 0.0% (0/1)
+[12:54:14] 📱 Opening Spotify...
+[12:54:14] 🔓 Waking and unlocking phone...
+[12:54:22] ━━━ STEP 1: Go to Home ━━━
+[12:54:22]    🔍 Looking for 'home' tab...
+[12:54:26]    Screen height: 2400, looking in bottom area (y > 1680)
+[12:54:26]    ❌ No 'home' tab found via UI detection
+[12:54:26]    ⚠️ Using fallback coordinates for Home tab: (97,2328)
+[12:54:26]    👆 Tap: Home tab (97,2328)
+[12:54:29] ━━━ STEP 2: Open Search ━━━
+[12:54:29]    🔍 Looking for 'search' tab...
+[12:54:33]    Screen height: 2400, looking in bottom area (y > 1680)
+[12:54:33]    ❌ No 'search' tab found via UI detection
+[12:54:33]    ⚠️ Using fallback coordinates for Search tab: (324,2328)
+[12:54:33]    👆 Tap: Search tab (324,2328)
+[12:54:41] 
+⚠️ Received shutdown signal, cleaning up...
+[12:54:47] =======================================================
+[12:54:47] 🎵 Spotify Bot
+[12:54:47] 🎤 Song: billie jean
+[12:54:47] 🎤 Artist: Michael Jackson
+[12:54:47] 🎯 Target: 1 plays
+[12:54:47] ⏱️ Duration: 35s
+[12:54:47] =======================================================
+[12:54:47] 🔍 Validating environment...
+[12:54:47]    ✅ ADB found
+[12:54:47]    ✅ Device connected: aece3bbd
+[12:54:48]    ✅ Spotify installed
+[12:54:48] 📱 Device resolution: 1080x2400
+[12:54:48] ✅ Ready! Starting in 3 seconds...
+[12:54:51] 
+🔄 ROUND 1
+[12:54:51] 📊 Progress [░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 0.0% (0/1)
+[12:54:51] 📱 Opening Spotify...
+[12:54:51] 🔓 Waking and unlocking phone...
+[12:54:51] 
+⚠️ Received shutdown signal, cleaning up...
+[12:54:56] =======================================================
+[12:54:56] 🎵 Spotify Bot — Exact Song Matching
+[12:54:56] 🎤 Song: billie jean
+[12:54:56] 🎤 Artist: Michael Jackson
+[12:54:56] 🔍 Search query: "billie jean Michael Jackson"
+[12:54:56] 🎯 Target plays: 1
+[12:54:56] ⏱️ Per play: 35s
+[12:54:56] =======================================================
+[12:54:56] ✅ ADB device detected
+[12:54:56] Starting in 5 seconds...
+[12:55:01] 
+🔄 ROUND 1 | ✅ 0/1
+
+[12:55:01] 📱 Opening Spotify...
+[12:55:01] 🔓 Waking and unlocking phone...
+[12:55:13] ━━━ STEP 1: Reset to Home ━━━
+[12:55:13]    👆 Tap: Home tab (100,2328)
+[12:55:21] ━━━ STEP 2: Open Search ━━━
+[12:55:25]    👆 Tap: Search tab (attempt 1) (324,2287)
+[12:55:45]    ✅ Search screen
+[12:55:45] ━━━ STEP 3: Search for "billie jean Michael Jackson" ━━━
+[12:55:45]    🔍 Ensuring search field is ready for "billie jean Michael Jackson"
+[12:55:45]    🔍 Focusing search field
+[12:55:45]    Trying known coordinate (350, 124)
+[12:55:45]    👆 Tap: Known search field (350,124)
+[12:55:52]    Found search field via placeholder text at (397,332)
+[12:55:52]    UI detected search field at (397, 332)
+[12:55:52]    👆 Tap: UI-detected search field (397,332)
+[12:55:56]    ✅ Keyboard is visible
+[12:55:56]    🧹 Clearing search field
+[12:55:58]    ⌨️ Typing: "billie jean Michael Jackson"
+[12:56:05]    ✅ Verified text in search field: "billie jean Michael Jackson"
+[12:56:05]    ⌨️ Pressing Enter
+[12:56:11]    ✅ Search results
+[12:56:11] ━━━ Playing: "billie jean" by "Michael Jackson" ━━━
+[12:56:11]    🎯 Looking for exact match: "billie jean" by "Michael Jackson"
+[12:56:15]    Found song: "Artists" by "" at (991,406)
+[12:56:15]    Found song: "Songs" by "" at (111,406)
+[12:56:15]    Found song: "Billie Jean" by "Michael Jackson" at (512,537)
+[12:56:15]    Found song: "MICHEL JACSON Billie Jean" by "" at (578,716)
+[12:56:15]    Found song: "Billie Jean" by "Michael Jackson" at (512,889)
+[12:56:15]    Found song: "BEST OF MICHAEL JACKSON" by "" at (578,1068)
+[12:56:15]    Found song: "Top 50 Michael Jackson Songs" by "" at (578,1244)
+[12:56:15]    Found song: "Billie Jean" by "BURUKLYN BOYZ" at (512,1613)
+[12:56:15]    Found song: "Michael Jackson: Greatest Hits" by "" at (578,1988)
+[12:56:15]    Found song: "Join Premium" by "" at (518,1982)
+[12:56:15]    📋 Found 10 songs
+[12:56:15]    ✅ Found EXACT match: "Billie Jean" by "Michael Jackson" at (512,537)
+[12:56:15]    👆 Tap: Click: Billie Jean (512,537)
+[12:56:16]    ⏳ Waiting for mini-player to appear...
+[12:56:55]    ⚠️ Mini-player did not appear
+[12:56:55]    ⚠️ Mini-player didn't appear, but continuing...
+[12:57:05] 
+⚠️ Bot interrupted by user
+[12:57:05] 
+[12:57:05] =======================================================
+[12:57:05] ✅ DONE! 0/1 plays of "billie jean"
+[12:57:05] =======================================================
+[12:57:36] =======================================================
+[12:57:36] 🎵 Spotify Bot — Exact Song Matching
+[12:57:36] 🎤 Song: dumpsite
+[12:57:36] 🎤 Artist: toxic lyrikali
+[12:57:36] 🔍 Search query: "dumpsite toxic lyrikali"
+[12:57:36] 🎯 Target plays: 1
+[12:57:36] ⏱️ Per play: 35s
+[12:57:36] =======================================================
+[12:57:36] ✅ ADB device detected
+[12:57:36] Starting in 5 seconds...
+[12:57:41] 
+🔄 ROUND 1 | ✅ 0/1
+
+[12:57:41] 📱 Opening Spotify...
+[12:57:41] 🔓 Waking and unlocking phone...
+[12:57:53] ━━━ STEP 1: Reset to Home ━━━
+[12:57:53]    👆 Tap: Home tab (100,2328)
+[12:58:35]    👆 Tap: Home tab (100,2288)
+[12:59:16]    👆 Tap: Home tab (140,2288)
+[12:59:32] ━━━ STEP 2: Open Search ━━━
+[12:59:36]    👆 Tap: Search tab (attempt 1) (324,2287)
+[12:59:57]    ✅ Search screen
+[12:59:57] ━━━ STEP 3: Search for "dumpsite toxic lyrikali" ━━━
+[12:59:57]    🔍 Ensuring search field is ready for "dumpsite toxic lyrikali"
+[12:59:58]    🔍 Focusing search field
+[12:59:58]    Trying known coordinate (350, 124)
+[12:59:58]    👆 Tap: Known search field (350,124)
+[13:00:05]    Found search field via placeholder text at (397,332)
+[13:00:05]    UI detected search field at (397, 332)
+[13:00:05]    👆 Tap: UI-detected search field (397,332)
+[13:00:09]    ✅ Keyboard is visible
+[13:00:09]    🧹 Clearing search field
+[13:00:11]    ⌨️ Typing: "dumpsite toxic lyrikali"
+[13:00:18]    ✅ Verified text in search field: "dumpsite toxic lyrikali"
+[13:00:18]    ⌨️ Pressing Enter
+[13:00:24]    ✅ Search results
+[13:00:24] ━━━ Playing: "dumpsite" by "toxic lyrikali" ━━━
+[13:00:24]    🎯 Looking for exact match: "dumpsite" by "toxic lyrikali"
+[13:00:27]    Found song: "Artists" by "" at (455,406)
+[13:00:27]    Found song: "Songs" by "" at (294,406)
+[13:00:27]    Found song: "Dumpsite" by "Toxic Lyrikali" at (512,537)
+[13:00:27]    Found song: "Toxic Lyrikali" by "" at (311,716)
+[13:00:27]    Found song: "Artist" by "" at (528,761)
+[13:00:27]    Found song: "Follow" by "" at (958,736)
+[13:00:27]    Found song: "TOXIC LYRIKALI DISS" by "Wakuu Music" at (512,889)
+[13:00:27]    Found song: "Dumpsite" by "" at (578,1065)
+[13:00:27]    Found song: "Single • Toxic Lyrikali" by "" at (597,1116)
+[13:00:27]    Found song: "Toxic lyrikali all songs" by "" at (578,1440)
+[13:00:27]    Found song: "Toxic Lyrikali" by "" at (311,1616)
+[13:00:27]    Found song: "Artist" by "" at (528,1661)
+[13:00:27]    Found song: "Follow" by "" at (958,1636)
+[13:00:27]    Found song: "Toxic Lyrikali - New Music" by "" at (578,1792)
+[13:00:28]    Found song: "Toxic Lyrikali 😤" by "" at (578,1968)
+[13:00:28]    📋 Found 15 songs
+[13:00:28]    ✅ Found EXACT match: "Dumpsite" by "Toxic Lyrikali" at (512,537)
+[13:00:28]    👆 Tap: Click: Dumpsite (512,537)
+[13:00:29]    ⏳ Waiting for mini-player to appear...
+[13:00:58] 
+⚠️ Bot interrupted by user
+[13:00:58] 
+[13:00:58] =======================================================
+[13:00:58] ✅ DONE! 0/1 plays of "dumpsite"
+[13:00:58] =======================================================
+[13:08:09] 📱 Device resolution: 1080x2400
+[13:08:09] =======================================================
+[13:08:09] 🎵 Spotify Bot — Exact Song Matching (Multi-Resolution)
+[13:08:09] 🎤 Song: dumpsite
+[13:08:09] 🎤 Artist: toxic lyrikali
+[13:08:09] 🔍 Search query: "dumpsite toxic lyrikali"
+[13:08:09] 🎯 Target plays: 1
+[13:08:09] ⏱️ Per play: 35s
+[13:08:09] =======================================================
+[13:08:09] ✅ ADB device detected
+[13:08:09] Starting in 5 seconds...
+[13:08:14] 
+🔄 ROUND 1 | ✅ 0/1
+
+[13:08:14] 📱 Opening Spotify...
+[13:08:14] 🔓 Waking and unlocking phone...
+[13:08:28] ━━━ STEP 1: Reset to Home ━━━
+[13:08:28]    👆 Tap: Home tab (100,2328)
+[13:08:39] ⚠️ ADB command timed out: adb shell uiautomator dump /sdcard/window_dump.xml
+[13:08:39]    UI dump timeout on attempt 1
+[13:08:47] ⚠️ ADB command timed out: adb shell uiautomator dump /sdcard/window_dump.xml
+[13:08:47]    UI dump timeout on attempt 2
+[13:08:55] ⚠️ ADB command timed out: adb shell uiautomator dump /sdcard/window_dump.xml
+[13:08:55]    UI dump timeout on attempt 3
+[13:08:55]    🔄 Restarting UI Automator service...
+[13:08:56]    👆 Tap: Home tab (100,2288)
+[13:09:07] ⚠️ ADB command timed out: adb shell uiautomator dump /sdcard/window_dump.xml
+[13:09:07]    UI dump timeout on attempt 1
+[13:09:15] ⚠️ ADB command timed out: adb shell uiautomator dump /sdcard/window_dump.xml
+[13:09:15]    UI dump timeout on attempt 2
+[13:09:18] 
+⚠️ Bot interrupted by user
+[13:09:18] 
+[13:09:18] =======================================================
+[13:09:18] ✅ DONE! 0/1 plays of "dumpsite"
+[13:09:18] =======================================================
+[13:09:20] =======================================================
+[13:09:20] 🎵 Spotify Bot — Exact Song Matching
+[13:09:20] 🎤 Song: dumpsite
+[13:09:20] 🎤 Artist: toxic lyrikali
+[13:09:20] 🔍 Search query: "dumpsite toxic lyrikali"
+[13:09:20] 🎯 Target plays: 1
+[13:09:20] ⏱️ Per play: 35s
+[13:09:20] =======================================================
+[13:09:20] ✅ ADB device detected
+[13:09:20] Starting in 5 seconds...
+[13:09:25] 
+🔄 ROUND 1 | ✅ 0/1
+
+[13:09:25] 📱 Opening Spotify...
+[13:09:25] 🔓 Waking and unlocking phone...
+[13:09:37] ━━━ STEP 1: Reset to Home ━━━
+[13:09:37]    👆 Tap: Home tab (100,2328)
+[13:09:45] ━━━ STEP 2: Open Search ━━━
+[13:09:48]    👆 Tap: Search tab (attempt 1) (324,2287)
+[13:10:09]    ✅ Search screen
+[13:10:09] ━━━ STEP 3: Search for "dumpsite toxic lyrikali" ━━━
+[13:10:09]    🔍 Ensuring search field is ready for "dumpsite toxic lyrikali"
+[13:10:10]    🔍 Focusing search field
+[13:10:10]    Trying known coordinate (350, 124)
+[13:10:10]    👆 Tap: Known search field (350,124)
+[13:10:18]    Found search field via placeholder text at (397,332)
+[13:10:18]    UI detected search field at (397, 332)
+[13:10:18]    👆 Tap: UI-detected search field (397,332)
+[13:10:21]    ✅ Keyboard is visible
+[13:10:21]    🧹 Clearing search field
+[13:10:24]    ⌨️ Typing: "dumpsite toxic lyrikali"
+[13:10:30]    ✅ Verified text in search field: "dumpsite toxic lyrikali"
+[13:10:30]    ⌨️ Pressing Enter
+[13:10:35]    ✅ Search results
+[13:10:35] ━━━ Playing: "dumpsite" by "toxic lyrikali" ━━━
+[13:10:35]    🎯 Looking for exact match: "dumpsite" by "toxic lyrikali"
+[13:10:39]    Found song: "Artists" by "" at (455,406)
+[13:10:39]    Found song: "Songs" by "" at (294,406)
+[13:10:39]    Found song: "Dumpsite" by "Toxic Lyrikali" at (512,537)
+[13:10:39]    Found song: "Toxic Lyrikali" by "" at (311,716)
+[13:10:39]    Found song: "Artist" by "" at (528,761)
+[13:10:39]    Found song: "Follow" by "" at (958,736)
+[13:10:39]    Found song: "TOXIC LYRIKALI DISS" by "Wakuu Music" at (512,889)
+[13:10:39]    Found song: "Dumpsite" by "" at (578,1065)
+[13:10:39]    Found song: "Single • Toxic Lyrikali" by "" at (597,1116)
+[13:10:39]    Found song: "Toxic lyrikali all songs" by "" at (578,1440)
+[13:10:39]    Found song: "Toxic Lyrikali" by "" at (311,1616)
+[13:10:39]    Found song: "Artist" by "" at (528,1661)
+[13:10:39]    Found song: "Follow" by "" at (958,1636)
+[13:10:39]    Found song: "Toxic Lyrikali - New Music" by "" at (578,1792)
+[13:10:39]    Found song: "Toxic Lyrikali 😤" by "" at (578,1968)
+[13:10:39]    📋 Found 15 songs
+[13:10:39]    ✅ Found EXACT match: "Dumpsite" by "Toxic Lyrikali" at (512,537)
+[13:10:39]    👆 Tap: Click: Dumpsite (512,537)
+[13:10:41]    ⏳ Waiting for mini-player to appear...
+[13:10:51]    ⚠️ Mini-player did not appear
+[13:10:51]    ⚠️ Mini-player didn't appear, but continuing...
+[13:10:56]    ⚠️ Could not click mini-player, checking playback anyway...
+[13:10:56]    🎵 Checking if playback started...
+[13:11:00]    ⏸️ Playback not started, looking for play button...
+[13:11:09]    ❌ Could not start playback
+[13:11:09] ❌ Failed to play song in round 1
+[13:11:09] 😴 Break: 33s...
+[13:11:42] 
+🔄 ROUND 2 | ✅ 0/1
+
+[13:11:42] 📱 Opening Spotify...
+[13:11:42] 🔓 Waking and unlocking phone...
+[13:11:54] ━━━ STEP 1: Reset to Home ━━━
+[13:11:54]    👆 Tap: Home tab (100,2328)
+[13:12:01] 
+⚠️ Bot interrupted by user
+[13:12:01] 
+[13:12:01] =======================================================
+[13:12:01] ✅ DONE! 0/1 plays of "dumpsite"
+[13:12:01] =======================================================
+[13:15:32] 📱 Screen size: 1080x2400
+[13:15:32] =======================================================
+[13:15:32] 🎵 Spotify Bot — Exact Song Matching
+[13:15:32] 🎤 Song: dumpsite
+[13:15:32] 🎤 Artist: toxic lyrikali
+[13:15:32] 🔍 Search query: "dumpsite toxic lyrikali"
+[13:15:32] 🎯 Target plays: 1
+[13:15:32] ⏱️ Per play: 35s
+[13:15:32] =======================================================
+[13:15:32] ✅ ADB device detected
+[13:15:32] Starting in 5 seconds...
+[13:15:37] 
+🔄 ROUND 1 | ✅ 0/1
+
+[13:15:37] 📱 Opening Spotify...
+[13:15:37] 🔓 Waking and unlocking phone...
+[13:15:49] ━━━ STEP 1: Reset to Home ━━━
+[13:15:53]    👆 Tap: Home tab (scaled) (100,2328)
+[13:15:59] ━━━ STEP 2: Open Search ━━━
+[13:16:04]    👆 Tap: Search tab (scaled 324,2328) (324,2328)
+[13:16:22]    ✅ Search screen
+[13:16:22] ━━━ STEP 3: Search for "dumpsite toxic lyrikali" ━━━
+[13:16:22]    🔍 Ensuring search field is ready for "dumpsite toxic lyrikali"
+[13:16:23]    🔍 Focusing search field
+[13:16:34]    👆 Tap: Fallback search field at (540,192) (540,192)
+[13:16:39]    ❌ Timed out waiting for Keyboard visible
+[13:16:39]    👆 Tap: Scaled reference search field at (350,124) (350,124)
+[13:16:43]    ❌ Timed out waiting for Keyboard visible
+[13:16:43]    ❌ Could not prepare search field
+[13:16:43] ❌ Search results did not load. Retrying round.
+[13:16:43] 
+🔄 ROUND 2 | ✅ 0/1
+
+[13:16:43] 📱 Opening Spotify...
+[13:16:43] 🔓 Waking and unlocking phone...
+[13:16:55] ━━━ STEP 1: Reset to Home ━━━
+[13:16:58]    👆 Tap: Home tab (scaled) (100,2328)
+[13:17:05] ━━━ STEP 2: Open Search ━━━
+[13:17:08]    👆 Tap: Search tab (scaled 324,2328) (324,2328)
+[13:17:10] 
+⚠️ Bot interrupted by user
+[13:17:10] 
+[13:17:10] =======================================================
+[13:17:10] ✅ DONE! 0/1 plays of "dumpsite"
+[13:17:10] =======================================================
+[14:22:59] =======================================================
+[14:22:59] 🎵 Spotify Bot — Exact Song Matching
+[14:22:59] 🎤 Song: dumpsite
+[14:22:59] 🎤 Artist: toxic lyrikali
+[14:22:59] 🔍 Search query: "dumpsite toxic lyrikali"
+[14:22:59] 🎯 Target plays: 1
+[14:22:59] ⏱️ Per play: 35s
+[14:22:59] =======================================================
+[14:22:59] ✅ ADB device detected
+[14:22:59] Starting in 5 seconds...
+[14:23:04] 
+🔄 ROUND 1 | ✅ 0/1
+
+[14:23:04] 📱 Opening Spotify...
+[14:23:04] 🔓 Waking and unlocking phone...
+[14:23:16] ━━━ STEP 1: Reset to Home ━━━
+[14:23:16]    👆 Tap: Home tab (100,2328)
+[14:23:23]    👆 Tap: Home tab (100,2288)
+[14:23:29] ━━━ STEP 2: Open Search ━━━
+[14:23:33]    👆 Tap: Search tab (attempt 1) (324,2251)
+[14:24:07]    ✅ Search screen
+[14:24:07] ━━━ STEP 3: Search for "dumpsite toxic lyrikali" ━━━
+[14:24:07]    🔍 Ensuring search field is ready for "dumpsite toxic lyrikali"
+[14:24:08]    🔍 Focusing search field
+[14:24:08]    Trying known coordinate (350, 124)
+[14:24:08]    👆 Tap: Known search field (350,124)
+[14:24:17]    Found search field via placeholder text at (397,332)
+[14:24:17]    UI detected search field at (397, 332)
+[14:24:17]    👆 Tap: UI-detected search field (397,332)
+[14:24:21]    Trying fallback coordinates
+[14:24:21]    👆 Tap: Fallback (540,200) (540,200)
+[14:24:24]    ✅ Keyboard is now visible
+[14:24:24]    🧹 Clearing search field
+[14:24:26]    ⌨️ Typing: "dumpsite toxic lyrikali"
+[14:24:35]    ⚠️ Text verification failed. Found: "dumpste tic lyriali"
+[14:24:35]    🧹 Clearing search field
+[14:24:37]    ⌨️ Typing (char by char): "dumpsite toxic lyrikali"
+[14:24:47]    ✅ Verified text after char-by-char: "dumpste tic lyrialdumpsite toxic lyrikali"
+[14:24:47]    ⌨️ Pressing Enter
+[14:25:05]    ❌ Timed out waiting for Search results
+[14:25:05] ❌ Search results did not load. Retrying round.
+[14:25:05] 
+🔄 ROUND 2 | ✅ 0/1
+
+[14:25:05] 📱 Opening Spotify...
+[14:25:05] 🔓 Waking and unlocking phone...
+[14:25:16] ━━━ STEP 1: Reset to Home ━━━
+[14:25:16]    👆 Tap: Home tab (100,2328)
+[14:25:28]    👆 Tap: Home tab (100,2288)
+[14:25:36]    👆 Tap: Home tab (140,2288)
+[14:25:47] 
+⚠️ Bot interrupted by user
+[14:25:47] 
+[14:25:47] =======================================================
+[14:25:47] ✅ DONE! 0/1 plays of "dumpsite"
+[14:25:47] =======================================================
+[14:38:36] 📐 Detected screen resolution: 1080x2400
+[14:38:36] =======================================================
+[14:38:36] 🎵 Spotify Bot — Resolution Independent
+[14:38:36] 📐 Screen: 1080x2400
+[14:38:36] 🎤 Song: dumpsite
+[14:38:36] 🎤 Artist: toxic lyrikali
+[14:38:36] 🔍 Search query: "dumpsite toxic lyrikali"
+[14:38:36] 🎯 Target plays: 1
+[14:38:36] ⏱️ Per play: 35s
+[14:38:36] =======================================================
+[14:38:36] ✅ ADB device detected
+[14:38:36] Starting in 5 seconds...
+[14:38:41] 
+🔄 ROUND 1 | ✅ 0/1
+
+[14:38:41] 📱 Opening Spotify...
+[14:38:41] 🔓 Waking and unlocking phone...
+[14:38:55] ━━━ STEP 1: Reset to Home ━━━
+[14:38:55]    Spotify not foreground (com.safaricom.mpesa.lifestyle) — reopening
+[14:38:55] 📱 Opening Spotify...
+[14:38:55] 🔓 Waking and unlocking phone...
+[14:39:07]    👆 Tap: Home tab (97,2328)
+[14:39:15] ━━━ STEP 2: Open Search ━━━
+[14:39:20]    👆 Tap: Search tab (attempt 1) (324,2287)
+[14:39:41]    ✅ Search screen
+[14:39:41] ━━━ STEP 3: Search for "dumpsite toxic lyrikali" ━━━
+[14:39:41]    🔍 Ensuring search field is ready for "dumpsite toxic lyrikali"
+[14:39:42]    🔍 Focusing search field
+[14:39:42]    Trying known coordinate (345, 120)
+[14:39:42]    👆 Tap: Known search field (345,120)
+[14:39:49]    Found search field via placeholder text at (397,332)
+[14:39:49]    UI detected search field at (397, 332)
+[14:39:49]    👆 Tap: UI-detected search field (397,332)
+[14:39:53]    ✅ Keyboard is visible
+[14:39:53]    🧹 Clearing search field
+[14:39:55]    ⌨️ Typing: "dumpsite toxic lyrikali"
+[14:40:01]    ✅ Verified text in search field: "dumpsite toxic lyrikali"
+[14:40:01]    ⌨️ Pressing Enter
+[14:40:08]    ✅ Search results
+[14:40:08] ━━━ Playing: "dumpsite" by "toxic lyrikali" ━━━
+[14:40:08]    🎯 Looking for exact match: "dumpsite" by "toxic lyrikali"
+[14:40:12]    Found song: "Artists" by "" at (455,291)
+[14:40:12]    Found song: "Songs" by "" at (294,291)
+[14:40:12]    Found song: "Dumpsite" by "Toxic Lyrikali" at (534,422)
+[14:40:12]    Found song: "Toxic Lyrikali" by "" at (311,601)
+[14:40:12]    Found song: "Artist" by "" at (528,646)
+[14:40:12]    Found song: "Follow" by "" at (958,621)
+[14:40:12]    Found song: "TOXIC LYRIKALI DISS" by "Wakuu Music" at (512,774)
+[14:40:12]    Found song: "Dumpsite" by "" at (578,950)
+[14:40:12]    Found song: "Single • Toxic Lyrikali" by "" at (597,1001)
+[14:40:12]    Found song: "Toxic lyrikali all songs" by "" at (578,1325)
+[14:40:12]    Found song: "Toxic Lyrikali" by "" at (311,1501)
+[14:40:12]    Found song: "Artist" by "" at (528,1546)
+[14:40:12]    Found song: "Follow" by "" at (958,1521)
+[14:40:12]    Found song: "Toxic Lyrikali - New Music" by "" at (578,1677)
+[14:40:12]    Found song: "Toxic Lyrikali 😤" by "" at (578,1853)
+[14:40:12]    Found song: "Dumpsite" by "" at (253,2149)
+[14:40:12]    📋 Found 16 songs
+[14:40:12]    ✅ Found EXACT match: "Dumpsite" by "Toxic Lyrikali" at (534,422)
+[14:40:12]    👆 Tap: Click: Dumpsite (534,422)
+[14:40:13]    ⏳ Waiting for mini-player to appear...
+[14:40:25]    ⚠️ Mini-player did not appear
+[14:40:25]    ⚠️ Mini-player didn't appear, but continuing...
+[14:40:53] 
+⚠️ Bot interrupted by user
+[14:40:53] 
+[14:40:53] =======================================================
+[14:40:53] ✅ DONE! 0/1 plays of "dumpsite"
+[14:40:53] =======================================================
+[14:40:56] 📐 Detected screen resolution: 1080x2400
+[14:40:56] =======================================================
+[14:40:56] 🎵 Spotify Bot — Resolution Independent
+[14:40:56] 📐 Screen: 1080x2400
+[14:40:56] 🎤 Song: dumpsite
+[14:40:56] 🎤 Artist: toxic lyrikali
+[14:40:56] 🔍 Search query: "dumpsite toxic lyrikali"
+[14:40:56] 🎯 Target plays: 1
+[14:40:56] ⏱️ Per play: 35s
+[14:40:56] =======================================================
+[14:40:56] ✅ ADB device detected
+[14:40:56] Starting in 5 seconds...
+[14:41:01] 
+🔄 ROUND 1 | ✅ 0/1
+
+[14:41:01] 📱 Opening Spotify...
+[14:41:01] 🔓 Waking and unlocking phone...
+[14:41:12] ━━━ STEP 1: Reset to Home ━━━
+[14:41:12]    Spotify not foreground (com.safaricom.mpesa.lifestyle) — reopening
+[14:41:12] 📱 Opening Spotify...
+[14:41:12] 🔓 Waking and unlocking phone...
+[14:41:24]    👆 Tap: Home tab (97,2328)
+[14:41:30] ━━━ STEP 2: Open Search ━━━
+[14:41:33]    👆 Tap: Search tab (attempt 1) (324,2287)
+[14:41:50]    ✅ Search screen
+[14:41:50] ━━━ STEP 3: Search for "dumpsite toxic lyrikali" ━━━
+[14:41:50]    🔍 Ensuring search field is ready for "dumpsite toxic lyrikali"
+[14:41:51]    🔍 Focusing search field
+[14:41:51]    Trying known coordinate (345, 120)
+[14:41:51]    👆 Tap: Known search field (345,120)
+[14:41:57]    Found search field via placeholder text at (397,332)
+[14:41:57]    UI detected search field at (397, 332)
+[14:41:57]    👆 Tap: UI-detected search field (397,332)
+[14:42:00]    ✅ Keyboard is visible
+[14:42:00]    🧹 Clearing search field
+[14:42:02]    ⌨️ Typing: "dumpsite toxic lyrikali"
+[14:42:09]    ⚠️ Text verification failed. Found: "dumpste toxic lyrili"
+[14:42:09]    🧹 Clearing search field
+[14:42:11]    ⌨️ Typing (char by char): "dumpsite toxic lyrikali"
+[14:42:20]    ✅ Verified text after char-by-char: "dumpste toxic lyrildumpsite toxic lyrikali"
+[14:42:20]    ⌨️ Pressing Enter
+[14:42:25]    ✅ Search results
+[14:42:25] ━━━ Playing: "dumpsite" by "toxic lyrikali" ━━━
+[14:42:25]    🎯 Looking for exact match: "dumpsite" by "toxic lyrikali"
+[14:42:29]    Found song: "Artists" by "" at (630,291)
+[14:42:29]    Found song: "Songs" by "" at (294,291)
+[14:42:29]    Found song: "Toxic lyrikali all songs" by "" at (578,425)
+[14:42:29]    Found song: "Toxic Lyrikali - New Music" by "" at (578,601)
+[14:42:29]    Found song: "TOXIC LYRIKALI DISS" by "Wakuu Music" at (534,774)
+[14:42:29]    Found song: "Toxic Lyrikali 😤" by "" at (578,953)
+[14:42:29]    Found song: "Toxic Lyrikali" by "" at (311,1129)
+[14:42:29]    Found song: "Artist" by "" at (528,1174)
+[14:42:29]    Found song: "Follow" by "" at (958,1149)
+[14:42:29]    Found song: "Toxic Lyrikali" by "" at (311,1305)
+[14:42:29]    Found song: "Artist" by "" at (528,1350)
+[14:42:29]    Found song: "Follow" by "" at (958,1325)
+[14:42:29]    Found song: "Toxic Lyrikali" by "" at (578,1481)
+[14:42:29]    Found song: "All Songs by Toxic Lyrikali" by "" at (578,1657)
+[14:42:29]    Found song: "Wakadinal vs Toxic  lyrikali🗡️" by "" at (578,1833)
+[14:42:29]    Found song: "Wakadinali, Toxic Lyrikali & Scar Mkadinali" by "" at (578,2009)
+[14:42:29]    Found song: "TOXIC LYRIKALI DISS" by "" at (330,2149)
+[14:42:29]    📋 Found 17 songs
+[14:42:29]    ⚠️ Using fallback: "Artists" by ""
+[14:42:29]    👆 Tap: Click: Artists (630,291)
+[14:42:30]    ⏳ Waiting for mini-player to appear...
+[14:42:41]    ⚠️ Mini-player did not appear
+[14:42:41]    ⚠️ Mini-player didn't appear, but continuing...
+[14:42:46] 
+⚠️ Bot interrupted by user
+[14:42:46] 
+[14:42:46] =======================================================
+[14:42:46] ✅ DONE! 0/1 plays of "dumpsite"
+[14:42:46] =======================================================
+[14:44:12] 📐 Detected screen resolution: 1080x2400
+[14:44:12] =======================================================
+[14:44:12] 🎵 Spotify Bot — Resolution Independent
+[14:44:12] 📐 Screen: 1080x2400
+[14:44:12] 🎤 Song: dumpsite
+[14:44:12] 🎤 Artist: toxic lyrikali
+[14:44:12] 🔍 Search query: "dumpsite toxic lyrikali"
+[14:44:12] 🎯 Target plays: 1
+[14:44:12] ⏱️ Per play: 35s
+[14:44:12] =======================================================
+[14:44:12] ✅ ADB device detected
+[14:44:12] Starting in 5 seconds...
+[14:44:17] 
+🔄 ROUND 1 | ✅ 0/1
+
+[14:44:17] 📱 Opening Spotify...
+[14:44:17] 🔓 Waking and unlocking phone...
+[14:44:28] ━━━ STEP 1: Reset to Home ━━━
+[14:44:28]    Spotify not foreground (com.safaricom.mpesa.lifestyle) — reopening
+[14:44:28] 📱 Opening Spotify...
+[14:44:28] 🔓 Waking and unlocking phone...
+[14:44:40]    👆 Tap: Home tab (97,2328)
+[14:44:47] ━━━ STEP 2: Open Search ━━━
+[14:44:51]    👆 Tap: Search tab (attempt 1) (324,2287)
+[14:45:11]    ✅ Search screen
+[14:45:11] ━━━ STEP 3: Search for "dumpsite toxic lyrikali" ━━━
+[14:45:11]    🔍 Ensuring search field is ready for "dumpsite toxic lyrikali"
+[14:45:12]    🔍 Focusing search field
+[14:45:12]    Trying known coordinate (345, 120)
+[14:45:12]    👆 Tap: Known search field (345,120)
+[14:45:19]    Found search field via placeholder text at (397,332)
+[14:45:19]    UI detected search field at (397, 332)
+[14:45:19]    👆 Tap: UI-detected search field (397,332)
+[14:45:23]    ✅ Keyboard is visible
+[14:45:23]    🧹 Clearing search field
+[14:45:25]    ⌨️ Typing: "dumpsite toxic lyrikali"
+[14:45:32]    ⚠️ Text verification failed. Found: "dumpsit toxic lyrikali"
+[14:45:32]    🧹 Clearing search field
+[14:45:34]    ⌨️ Typing (char by char): "dumpsite toxic lyrikali"
+[14:45:46]    ✅ Verified text after char-by-char: "dumpsit toxic lyrikaldumpsite toxic lyrikali"
+[14:45:46]    ⌨️ Pressing Enter
+[14:45:49] 
+⚠️ Bot interrupted by user
+[14:45:49] 
+[14:45:49] =======================================================
+[14:45:49] ✅ DONE! 0/1 plays of "dumpsite"
+[14:45:49] =======================================================
+[14:52:33] 📐 Detected screen resolution: 1080x2400
+[14:52:33] =======================================================
+[14:52:33] 🎵 Spotify Bot — Resolution Independent (Fixed)
+[14:52:33] 📐 Screen: 1080x2400
+[14:52:33] 🎤 Song: dumpsite
+[14:52:33] 🎤 Artist: toxic lyrikali
+[14:52:33] 🔍 Search query: "dumpsite toxic lyrikali"
+[14:52:33] 🎯 Target plays: 1
+[14:52:33] ⏱️ Per play: 35s
+[14:52:33] =======================================================
+[14:52:33] ✅ ADB device detected
+[14:52:33] Starting in 5 seconds...
+[14:52:38] 
+🔄 ROUND 1 | ✅ 0/1
+
+[14:52:38] 📱 Opening Spotify...
+[14:52:38] 🔓 Waking and unlocking phone...
+[14:52:51] ━━━ STEP 1: Reset to Home ━━━
+[14:52:51]    Spotify not foreground (com.safaricom.mpesa.lifestyle) — reopening
+[14:52:51] 📱 Opening Spotify...
+[14:52:51] 🔓 Waking and unlocking phone...
+[14:53:03]    👆 Tap: Home tab (97,2328)
+[14:53:11] ━━━ STEP 2: Open Search ━━━
+[14:53:16]    👆 Tap: Search tab (attempt 1) (324,2287)
+[14:53:36]    ✅ Search screen
+[14:53:36] ━━━ STEP 3: Search for "dumpsite toxic lyrikali" ━━━
+[14:53:36]    🔍 Ensuring search field is ready for "dumpsite toxic lyrikali"
+[14:53:37]    🔍 Focusing search field
+[14:53:37]    Trying known coordinate (345, 120)
+[14:53:37]    👆 Tap: Known search field (345,120)
+[14:53:48]    Found search field via placeholder text at (397,332)
+[14:53:48]    UI detected search field at (397, 332)
+[14:53:48]    👆 Tap: UI-detected search field (397,332)
+[14:53:52]    ✅ Keyboard is visible
+[14:53:52]    🧹 Clearing search field
+[14:54:15]    ⌨️ Typing: "dumpsite toxic lyrikali"
+[14:54:23]    ⚠️ Text mismatch. Expected: "dumpsite toxic lyrikali", Got: "dumpsite toxiclyrikali"
+[14:54:24]    ⌨️ Typing (char by char): "dumpsite toxic lyrikali"
+[14:54:35]    ❌ Final verification failed. Got: "dumpsite toxiclyrikdumpsite toxic lyrikali"
+[14:54:35]    ❌ Could not prepare search field
+[14:54:35] ❌ Search results did not load. Retrying round.
+[14:54:35] 
+🔄 ROUND 2 | ✅ 0/1
+
+[14:54:35] 📱 Opening Spotify...
+[14:54:35] 🔓 Waking and unlocking phone...
+[14:54:43] 
+⚠️ Bot interrupted by user
+[14:54:43] 
+[14:54:43] =======================================================
+[14:54:43] ✅ DONE! 0/1 plays of "dumpsite"
+[14:54:43] =======================================================
+[14:54:51] 📐 Detected screen resolution: 1080x2400
+[14:54:51] =======================================================
+[14:54:51] 🎵 Spotify Bot — Resolution Independent (Fixed)
+[14:54:51] 📐 Screen: 1080x2400
+[14:54:51] 🎤 Song: dumpsite
+[14:54:51] 🎤 Artist: toxic lyrikali
+[14:54:51] 🔍 Search query: "dumpsite toxic lyrikali"
+[14:54:51] 🎯 Target plays: 1
+[14:54:51] ⏱️ Per play: 35s
+[14:54:51] =======================================================
+[14:54:51] ✅ ADB device detected
+[14:54:51] Starting in 5 seconds...
+[14:54:56] 
+🔄 ROUND 1 | ✅ 0/1
+
+[14:54:56] 📱 Opening Spotify...
+[14:54:56] 🔓 Waking and unlocking phone...
+[14:55:08] ━━━ STEP 1: Reset to Home ━━━
+[14:55:08]    Spotify not foreground (com.safaricom.mpesa.lifestyle) — reopening
+[14:55:08] 📱 Opening Spotify...
+[14:55:08] 🔓 Waking and unlocking phone...
+[14:55:19]    👆 Tap: Home tab (97,2328)
+[14:55:27] ━━━ STEP 2: Open Search ━━━
+[14:55:31]    👆 Tap: Search tab (attempt 1) (324,2287)
+[14:55:51]    ✅ Search screen
+[14:55:51] ━━━ STEP 3: Search for "dumpsite toxic lyrikali" ━━━
+[14:55:51]    🔍 Ensuring search field is ready for "dumpsite toxic lyrikali"
+[14:55:52]    🔍 Focusing search field
+[14:55:52]    Trying known coordinate (345, 120)
+[14:55:52]    👆 Tap: Known search field (345,120)
+[14:55:59]    Found search field via placeholder text at (397,332)
+[14:55:59]    UI detected search field at (397, 332)
+[14:55:59]    👆 Tap: UI-detected search field (397,332)
+[14:56:03]    Trying fallback coordinates
+[14:56:03]    👆 Tap: Fallback (540,192) (540,192)
+[14:56:06]    ✅ Keyboard is now visible
+[14:56:06]    🧹 Clearing search field
+[14:56:25]    ⌨️ Typing: "dumpsite toxic lyrikali"
+[14:56:32]    ⚠️ Text mismatch. Expected: "dumpsite toxic lyrikali", Got: "dupsittoxic lyali"
+[14:56:34]    ⌨️ Typing (char by char): "dumpsite toxic lyrikali"
+[14:56:42] 
+⚠️ Bot interrupted by user
+[14:56:42] 
+[14:56:42] =======================================================
+[14:56:42] ✅ DONE! 0/1 plays of "dumpsite"
+[14:56:42] =======================================================
+[15:02:18] 📐 Detected screen resolution: 1080x2400
+[15:02:18] =======================================================
+[15:02:18] 🎵 Spotify Bot — Resolution Independent (v3)
+[15:02:18] 📐 Screen: 1080x2400
+[15:02:18] 🎤 Song: dumpsite
+[15:02:18] 🎤 Artist: toxic lyrikali
+[15:02:18] 🔍 Search query: "dumpsite toxic lyrikali"
+[15:02:18] 🎯 Target plays: 1
+[15:02:18] ⏱️ Per play: 35s
+[15:02:18] =======================================================
+[15:02:18] ✅ ADB device detected
+[15:02:18] Starting in 5 seconds...
+[15:02:23] 
+🔄 ROUND 1 | ✅ 0/1
+
+[15:02:23] 📱 Launching Spotify...
+[15:02:26] 🔓 Waking and unlocking phone...
+[15:02:34] ━━━ STEP 1: Reset to Home ━━━
+[15:02:34]    📱 Bringing Spotify to foreground (was: com.safaricom.mpesa.lifestyle)
+[15:02:37]    👆 Tap: Home tab (97,2328)
+[15:02:44] ━━━ STEP 2: Open Search ━━━
+[15:02:47]    👆 Tap: Search tab (attempt 1) (324,2287)
+[15:03:07]    ✅ Search screen
+[15:03:07] ━━━ STEP 3: Search for "dumpsite toxic lyrikali" ━━━
+[15:03:07]    🔍 Ensuring search field is ready for "dumpsite toxic lyrikali"
+[15:03:08]    🔍 Focusing search field
+[15:03:08]    Trying known coordinate (345, 120)
+[15:03:08]    👆 Tap: Known search field (345,120)
+[15:03:15]    Found search field via placeholder text at (397,332)
+[15:03:15]    UI detected search field at (397, 332)
+[15:03:15]    👆 Tap: UI-detected search field (397,332)
+[15:03:19]    ✅ Keyboard is visible
+[15:03:19]    🧹 Clearing search field
+[15:03:31]    ⌨️ Typing (char by char): "dumpsite toxic lyrikali"
+[15:03:41]    ✅ Verified exact text: "dumpsite toxic lyrikali"
+[15:03:41]    ⌨️ Pressing Enter
+[15:03:46]    ✅ Search results
+[15:03:46] ━━━ Playing: "dumpsite" by "toxic lyrikali" ━━━
+[15:03:46]    🎯 Looking for: "dumpsite" by "toxic lyrikali"
+[15:03:49]    📋 Found 10 valid song candidates
+[15:03:49]    ✅ Found EXACT match: "Dumpsite" by "Toxic Lyrikali" at (512,422)
+[15:03:49]    👆 Tap: Click: Dumpsite (512,422)
+[15:03:50]    ⏳ Waiting for player to appear...
+[15:04:29]    ⚠️ Player did not appear
+[15:04:29]    ⚠️ Player didn't appear, but checking playback anyway...
+[15:04:31]    🎵 Checking if playback started...
+[15:04:38]    ⏸️ Playback not started, looking for play button...
+[15:05:01] 
+⚠️ Bot interrupted by user
+[15:05:01] 
+[15:05:01] =======================================================
+[15:05:01] ✅ DONE! 0/1 plays of "dumpsite"
+[15:05:01] =======================================================
+[15:35:20] 📐 Detected screen resolution: 1080x2400
+[15:35:20] =======================================================
+[15:35:20] 🎵 Spotify Bot — v4 (Fixed Mini-Player)
+[15:35:20] 📐 Screen: 1080x2400
+[15:35:20] 🎤 Song: dumpsite
+[15:35:20] 🎤 Artist: toxic lyrikali
+[15:35:20] 🔍 Search query: "dumpsite toxic lyrikali"
+[15:35:20] 🎯 Target plays: 1
+[15:35:20] ⏱️ Per play: 35s
+[15:35:20] =======================================================
+[15:35:20] ✅ ADB device detected
+[15:35:20] Starting in 5 seconds...
+[15:35:25] 
+🔄 ROUND 1 | ✅ 0/1
+
+[15:35:25] 📱 Launching Spotify...
+[15:35:28] 🔓 Waking and unlocking phone...
+[15:35:36] ━━━ STEP 1: Reset to Home ━━━
+[15:35:36]    📱 Bringing Spotify to foreground (was: com.safaricom.mpesa.lifestyle)
+[15:35:38]    👆 Tap: Home tab (97,2328)
+[15:35:45] ━━━ STEP 2: Open Search ━━━
+[15:35:48]    👆 Tap: Search tab (attempt 1) (324,2287)
+[15:36:08]    ✅ Search screen
+[15:36:08] ━━━ STEP 3: Search for "dumpsite toxic lyrikali" ━━━
+[15:36:08]    🔍 Ensuring search field is ready for "dumpsite toxic lyrikali"
+[15:36:08]    🔍 Focusing search field
+[15:36:08]    Trying known coordinate (345, 120)
+[15:36:08]    👆 Tap: Known search field (345,120)
+[15:36:16]    Found search field via placeholder text at (397,332)
+[15:36:16]    UI detected search field at (397, 332)
+[15:36:16]    👆 Tap: UI-detected search field (397,332)
+[15:36:19]    ✅ Keyboard is visible
+[15:36:19]    🧹 Clearing search field
+[15:36:32]    ⌨️ Typing (char by char): "dumpsite toxic lyrikali"
+[15:36:41]    ✅ Verified exact text: "dumpsite toxic lyrikali"
+[15:36:41]    ⌨️ Pressing Enter
+[15:36:46]    ✅ Search results
+[15:36:46] ━━━ Playing: "dumpsite" by "toxic lyrikali" ━━━
+[15:36:46]    🎯 Looking for: "dumpsite" by "toxic lyrikali"
+[15:36:49]    📋 Found 10 valid song candidates
+[15:36:49]    ✅ Found EXACT match: "Dumpsite" by "Toxic Lyrikali" at (512,422)
+[15:36:49]    👆 Tap: Click: Dumpsite (512,422)
+[15:36:50]    ⏳ Waiting for player to appear...
+[15:38:06]    ⚠️ Player did not appear
+[15:38:06]    ⚠️ Mini-player not detected, but continuing...
+[15:38:08]    🎵 Checking if playback started...
+[15:38:15]    ⏸️ Playback not started, looking for play button...
+[15:38:26] 
+⚠️ Bot interrupted by user
+[15:38:26] 
+[15:38:26] =======================================================
+[15:38:26] ✅ DONE! 0/1 plays of "dumpsite"
+[15:38:26] =======================================================
+[15:41:35] 📐 Detected screen resolution: 1080x2400
+[15:41:35] =======================================================
+[15:41:35] 🎵 Spotify Bot — v5 (Direct Mini-Player Click)
+[15:41:35] 📐 Screen: 1080x2400
+[15:41:35] 🎤 Song: dumpsite
+[15:41:35] 🎤 Artist: toxic lyrikali
+[15:41:35] 🔍 Search query: "dumpsite toxic lyrikali"
+[15:41:35] 🎯 Target plays: 1
+[15:41:35] ⏱️ Per play: 35s
+[15:41:35] =======================================================
+[15:41:35] ✅ ADB device detected
+[15:41:35] Starting in 5 seconds...
+[15:41:40] 
+🔄 ROUND 1 | ✅ 0/1
+
+[15:41:40] 📱 Launching Spotify...
+[15:41:43] 🔓 Waking and unlocking phone...
+[15:41:51] ━━━ STEP 1: Reset to Home ━━━
+[15:41:51]    📱 Bringing Spotify to foreground (was: com.safaricom.mpesa.lifestyle)
+[15:41:53]    👆 Tap: Home tab (97,2328)
+[15:42:00] ━━━ STEP 2: Open Search ━━━
+[15:42:04]    👆 Tap: Search tab (attempt 1) (324,2287)
+[15:42:24]    ✅ Search screen
+[15:42:24] ━━━ STEP 3: Search for "dumpsite toxic lyrikali" ━━━
+[15:42:24]    🔍 Ensuring search field is ready for "dumpsite toxic lyrikali"
+[15:42:25]    🔍 Focusing search field
+[15:42:25]    Trying known coordinate (345, 120)
+[15:42:25]    👆 Tap: Known search field (345,120)
+[15:42:32]    Found search field via placeholder text at (397,332)
+[15:42:32]    UI detected search field at (397, 332)
+[15:42:32]    👆 Tap: UI-detected search field (397,332)
+[15:42:35]    ✅ Keyboard is visible
+[15:42:35]    🧹 Clearing search field
+[15:42:48]    ⌨️ Typing (char by char): "dumpsite toxic lyrikali"
+[15:42:58]    ✅ Verified exact text: "dumpsite toxic lyrikali"
+[15:42:58]    ⌨️ Pressing Enter
+[15:43:02]    ✅ Search results
+[15:43:02] ━━━ Playing: "dumpsite" by "toxic lyrikali" ━━━
+[15:43:02]    🎯 Looking for: "dumpsite" by "toxic lyrikali"
+[15:43:06]    📋 Found 10 valid song candidates
+[15:43:06]    ✅ Found EXACT match: "Dumpsite" by "Toxic Lyrikali" at (512,422)
+[15:43:06]    👆 Tap: Click: Dumpsite (512,422)
+[15:43:07]    🎮 Clicking mini-player...
+[15:43:08]    👆 Tap: Mini-player (540,2304)
+[15:43:11]    🎵 Checking if playback started...
+[15:43:14] 
+⚠️ Bot interrupted by user
+[15:43:14] 
+[15:43:14] =======================================================
+[15:43:14] ✅ DONE! 0/1 plays of "dumpsite"
+[15:43:14] =======================================================
+[15:47:15] 📐 Detected screen resolution: 1080x2400
+[15:47:15] =======================================================
+[15:47:15] 🎵 Spotify Bot — v6 (Fixed Mini-Player Position)
+[15:47:15] 📐 Screen: 1080x2400
+[15:47:15] 🎤 Song: dumpsite
+[15:47:15] 🎤 Artist: toxic lyrikali
+[15:47:15] 🔍 Search query: "dumpsite toxic lyrikali"
+[15:47:15] 🎯 Target plays: 1
+[15:47:15] ⏱️ Per play: 35s
+[15:47:15] =======================================================
+[15:47:16] ✅ ADB device detected
+[15:47:16] Starting in 5 seconds...
+[15:47:21] 
+🔄 ROUND 1 | ✅ 0/1
+
+[15:47:21] 📱 Launching Spotify...
+[15:47:24] 🔓 Waking and unlocking phone...
+[15:47:32] ━━━ STEP 1: Reset to Home ━━━
+[15:47:32]    📱 Bringing Spotify to foreground (was: com.safaricom.mpesa.lifestyle)
+[15:47:34]    👆 Tap: Home tab (97,2328)
+[15:47:41] ━━━ STEP 2: Open Search ━━━
+[15:47:45]    👆 Tap: Search tab (attempt 1) (324,2287)
+[15:48:05]    ✅ Search screen
+[15:48:05] ━━━ STEP 3: Search for "dumpsite toxic lyrikali" ━━━
+[15:48:05]    🔍 Ensuring search field is ready for "dumpsite toxic lyrikali"
+[15:48:05]    🔍 Focusing search field
+[15:48:05]    Trying known coordinate (345, 120)
+[15:48:05]    👆 Tap: Known search field (345,120)
+[15:48:13]    Found search field via placeholder text at (397,332)
+[15:48:13]    UI detected search field at (397, 332)
+[15:48:13]    👆 Tap: UI-detected search field (397,332)
+[15:48:16]    ✅ Keyboard is visible
+[15:48:16]    🧹 Clearing search field
+[15:48:29]    ⌨️ Typing (char by char): "dumpsite toxic lyrikali"
+[15:48:39]    ✅ Verified exact text: "dumpsite toxic lyrikali"
+[15:48:39]    ⌨️ Pressing Enter
+[15:48:45]    ✅ Search results
+[15:48:45] ━━━ Playing: "dumpsite" by "toxic lyrikali" ━━━
+[15:48:45]    🎯 Looking for: "dumpsite" by "toxic lyrikali"
+[15:48:49]    📋 Found 10 valid song candidates
+[15:48:49]    ✅ Found EXACT match: "Dumpsite" by "Toxic Lyrikali" at (534,422)
+[15:48:49]    👆 Tap: Click: Dumpsite (534,422)
+[15:48:50]    🎮 Clicking mini-player...
+[15:49:29]    ⚠️ UI detection failed, trying fallback coordinates...
+[15:49:29]    👆 Tap: Mini-player fallback (540,2208)
+[15:49:29]    👆 Tap: Mini-player fallback (540,2208)
+[15:50:09]    👆 Tap: Mini-player fallback (540,2232)
+[15:50:09]    👆 Tap: Mini-player fallback (540,2232)
+[15:50:16] 
+⚠️ Bot interrupted by user
+[15:50:16] 
+[15:50:16] =======================================================
+[15:50:16] ✅ DONE! 0/1 plays of "dumpsite"
+[15:50:16] =======================================================
+[15:55:18] 📐 Detected screen resolution: 1080x2400
+[15:55:18] =======================================================
+[15:55:18] 🎵 Spotify Bot — v7 (Fixed Mini-Player Flow)
+[15:55:18] 📐 Screen: 1080x2400
+[15:55:18] 🎤 Song: dumpsite
+[15:55:18] 🎤 Artist: toxic lyrikali
+[15:55:18] 🔍 Search query: "dumpsite toxic lyrikali"
+[15:55:18] 🎯 Target plays: 1
+[15:55:18] ⏱️ Per play: 35s
+[15:55:18] =======================================================
+[15:55:18] ✅ ADB device detected
+[15:55:18] Starting in 5 seconds...
+[15:55:23] 
+🔄 ROUND 1 | ✅ 0/1
+
+[15:55:23] 📱 Launching Spotify...
+[15:55:26] 🔓 Waking and unlocking phone...
+[15:55:34] ━━━ STEP 1: Reset to Home ━━━
+[15:55:34]    📱 Bringing Spotify to foreground (was: com.safaricom.mpesa.lifestyle)
+[15:55:36]    👆 Tap: Home tab (97,2328)
+[15:55:43] ━━━ STEP 2: Open Search ━━━
+[15:55:46]    👆 Tap: Search tab (attempt 1) (324,2287)
+[15:56:06]    ✅ Search screen
+[15:56:06] ━━━ STEP 3: Search for "dumpsite toxic lyrikali" ━━━
+[15:56:06]    🔍 Ensuring search field is ready for "dumpsite toxic lyrikali"
+[15:56:07]    🔍 Focusing search field
+[15:56:07]    Trying known coordinate (345, 120)
+[15:56:07]    👆 Tap: Known search field (345,120)
+[15:56:14]    Found search field via placeholder text at (397,332)
+[15:56:14]    UI detected search field at (397, 332)
+[15:56:14]    👆 Tap: UI-detected search field (397,332)
+[15:56:17]    ✅ Keyboard is visible
+[15:56:17]    🧹 Clearing search field
+[15:56:30]    ⌨️ Typing (char by char): "dumpsite toxic lyrikali"
+[15:56:40]    ✅ Verified exact text: "dumpsite toxic lyrikali"
+[15:56:40]    ⌨️ Pressing Enter
+[15:56:46]    ✅ Search results
+[15:56:46] ━━━ Playing: "dumpsite" by "toxic lyrikali" ━━━
+[15:56:46]    🎯 Looking for: "dumpsite" by "toxic lyrikali"
+[15:56:50]    📋 Found 10 valid song candidates
+[15:56:50]    ✅ Found EXACT match: "Dumpsite" by "Toxic Lyrikali" at (512,422)
+[15:56:50]    👆 Tap: Click: Dumpsite (512,422)
+[15:56:51]    🎮 Clicking mini-player...
+[15:56:53]    👆 Tap: Mini-player main (540,2208)
+[15:56:53]    👆 Tap: Mini-player (540,2208)
+[15:57:34]    ⚠️ Trying one fallback position...
+[15:57:34]    👆 Tap: Mini-player fallback (540,2232)
+[15:57:34]    👆 Tap: Mini-player fallback (540,2232)
+[15:57:38]    ⏭️ Proceeding to playback check...
+[15:57:38]    🎵 Checking if playback started...
+[15:57:45]    ⏸️ Playback not started, looking for play button...
+[15:57:58] 
+⚠️ Bot interrupted by user
+[15:57:58] 
+[15:57:58] =======================================================
+[15:57:58] ✅ DONE! 0/1 plays of "dumpsite"
+[15:57:58] =======================================================
+[16:08:56] 📐 Detected screen resolution: 1080x2400
+[16:08:56] =======================================================
+[16:08:56] 🎵 Spotify Bot — v8 (Auto-Play Detection)
+[16:08:56] 📐 Screen: 1080x2400
+[16:08:56] 🎤 Song: dumpsite
+[16:08:56] 🎤 Artist: toxic lyrikali
+[16:08:56] 🔍 Search query: "dumpsite toxic lyrikali"
+[16:08:56] 🎯 Target plays: 1
+[16:08:56] ⏱️ Per play: 35s
+[16:08:56] =======================================================
+[16:08:56] ✅ ADB device detected
+[16:08:56] Starting in 5 seconds...
+[16:09:01] 
+🔄 ROUND 1 | ✅ 0/1
+
+[16:09:01] 📱 Launching Spotify...
+[16:09:04] 🔓 Waking and unlocking phone...
+[16:09:12] ━━━ STEP 1: Reset to Home ━━━
+[16:09:12]    📱 Bringing Spotify to foreground (was: com.safaricom.mpesa.lifestyle)
+[16:09:14]    👆 Tap: Home tab (97,2328)
+[16:09:21] ━━━ STEP 2: Open Search ━━━
+[16:09:24]    👆 Tap: Search tab (attempt 1) (324,2287)
+[16:09:43]    ✅ Search screen
+[16:09:43] ━━━ STEP 3: Search for "dumpsite toxic lyrikali" ━━━
+[16:09:43]    🔍 Ensuring search field is ready for "dumpsite toxic lyrikali"
+[16:09:44]    🔍 Focusing search field
+[16:09:44]    Trying known coordinate (345, 120)
+[16:09:44]    👆 Tap: Known search field (345,120)
+[16:09:51]    Found search field via placeholder text at (397,332)
+[16:09:51]    UI detected search field at (397, 332)
+[16:09:51]    👆 Tap: UI-detected search field (397,332)
+[16:09:54]    ✅ Keyboard is visible
+[16:09:54]    🧹 Clearing search field
+[16:10:07]    ⌨️ Typing (char by char): "dumpsite toxic lyrikali"
+[16:10:17]    ⚠️ Text mismatch. Expected: "dumpsite toxic lyrikali", Got: "dumpsite toxic lyrikli"
+[16:10:18]    ⌨️ Typing (char by char): "dumpsite toxic lyrikali"
+[16:10:29]    ❌ Final verification failed. Got: "dumpsite toxic lyridumpsite toic lyrikali"
+[16:10:29]    ❌ Could not prepare search field
+[16:10:29] ❌ Search results did not load. Retrying round.
+[16:10:29] 
+🔄 ROUND 2 | ✅ 0/1
+
+[16:10:29] 📱 Launching Spotify...
+[16:10:32] 🔓 Waking and unlocking phone...
+[16:10:40] ━━━ STEP 1: Reset to Home ━━━
+[16:10:40]    📱 Bringing Spotify to foreground (was: com.safaricom.mpesa.lifestyle)
+[16:10:42]    👆 Tap: Home tab (97,2328)
+[16:10:49]    👆 Tap: Home tab (97,2280)
+[16:10:55] ━━━ STEP 2: Open Search ━━━
+[16:10:59]    👆 Tap: Search tab (attempt 1) (324,2287)
+[16:11:17]    ✅ Search screen
+[16:11:17] ━━━ STEP 3: Search for "dumpsite toxic lyrikali" ━━━
+[16:11:17]    🔍 Ensuring search field is ready for "dumpsite toxic lyrikali"
+[16:11:18]    🔍 Focusing search field
+[16:11:18]    Trying known coordinate (345, 120)
+[16:11:18]    👆 Tap: Known search field (345,120)
+[16:11:25]    Found search field via placeholder text at (397,332)
+[16:11:25]    UI detected search field at (397, 332)
+[16:11:25]    👆 Tap: UI-detected search field (397,332)
+[16:11:28]    ✅ Keyboard is visible
+[16:11:28]    🧹 Clearing search field
+[16:11:41]    ⌨️ Typing (char by char): "dumpsite toxic lyrikali"
+[16:11:51]    ✅ Verified exact text: "dumpsite toxic lyrikali"
+[16:11:51]    ⌨️ Pressing Enter
+[16:11:56]    ✅ Search results
+[16:11:56] ━━━ Playing: "dumpsite" by "toxic lyrikali" ━━━
+[16:11:56]    🎯 Looking for: "dumpsite" by "toxic lyrikali"
+[16:11:59]    📋 Found 10 valid song candidates
+[16:11:59]    ✅ Found EXACT match: "Dumpsite" by "Toxic Lyrikali" at (512,422)
+[16:11:59]    👆 Tap: Click: Dumpsite (512,422)
+[16:12:00]    🎮 Checking if mini-player click is needed...
+[16:12:00]    🎵 Checking if song started playing automatically...
+[16:12:02]    📊 Playback state: Playing=True, Position=1221
+[16:12:02]    ✅ Song is already playing!
+[16:12:02]    ⏭️ Skipping mini-player click - already playing!
+[16:12:02]    🎵 Starting playback stream...
+[16:12:02]    📊 First check - Playing: True, Position: 1221
+[16:12:05]    📊 Second check - Playing: True, Position: 1221
+[16:12:05]    ⚠️ Position did not advance, but playback state is active
+[16:12:05]    ▶️ Playback confirmed! Streaming for 35s...
+[16:12:43] 
+📊 Round 2: +1 play | Total: 1/1
+[16:12:43] 
+[16:12:43] =======================================================
+[16:12:43] ✅ DONE! 1/1 plays of "dumpsite"
+[16:12:43] =======================================================
+[16:13:39] 📐 Detected screen resolution: 1080x2400
+[16:13:39] =======================================================
+[16:13:39] 🎵 Spotify Bot — v8 (Auto-Play Detection)
+[16:13:39] 📐 Screen: 1080x2400
+[16:13:39] 🎤 Song: bamchikicha
+[16:13:39] 🎤 Artist: kanye
+[16:13:39] 🔍 Search query: "bamchikicha kanye"
+[16:13:39] 🎯 Target plays: 1
+[16:13:39] ⏱️ Per play: 35s
+[16:13:39] =======================================================
+[16:13:39] ✅ ADB device detected
+[16:13:39] Starting in 5 seconds...
+[16:13:44] 
+🔄 ROUND 1 | ✅ 0/1
+
+[16:13:44] 📱 Launching Spotify...
+[16:13:47] 🔓 Waking and unlocking phone...
+[16:13:55] ━━━ STEP 1: Reset to Home ━━━
+[16:13:55]    📱 Bringing Spotify to foreground (was: com.safaricom.mpesa.lifestyle)
+[16:13:57]    👆 Tap: Home tab (97,2328)
+[16:14:32] 
+⚠️ Bot interrupted by user
+[16:14:32] 
+[16:14:32] =======================================================
+[16:14:32] ✅ DONE! 0/1 plays of "bamchikicha"
+[16:14:32] =======================================================
+[16:14:44] 📐 Detected screen resolution: 1080x2400
+[16:14:44] =======================================================
+[16:14:44] 🎵 Spotify Bot — v8 (Auto-Play Detection)
+[16:14:44] 📐 Screen: 1080x2400
+[16:14:44] 🎤 Song: bamchikicha
+[16:14:44] 🎤 Artist: lifah
+[16:14:44] 🔍 Search query: "bamchikicha lifah"
+[16:14:44] 🎯 Target plays: 1
+[16:14:44] ⏱️ Per play: 35s
+[16:14:44] =======================================================
+[16:14:44] ✅ ADB device detected
+[16:14:44] Starting in 5 seconds...
+[16:14:49] 
+🔄 ROUND 1 | ✅ 0/1
+
+[16:14:49] 📱 Launching Spotify...
+[16:14:52] 🔓 Waking and unlocking phone...
+[16:14:59] ━━━ STEP 1: Reset to Home ━━━
+[16:15:00]    📱 Bringing Spotify to foreground (was: com.safaricom.mpesa.lifestyle)
+[16:15:02]    👆 Tap: Home tab (97,2328)
+[16:15:09] ━━━ STEP 2: Open Search ━━━
+[16:15:12]    👆 Tap: Search tab (attempt 1) (324,2287)
+[16:17:19]    ❌ Timed out waiting for Search screen
+[16:17:19]    👆 Tap: Search tab (attempt 2) (324,2328)
+[16:17:45] 
+⚠️ Bot interrupted by user
+[16:17:45] 
+[16:17:45] =======================================================
+[16:17:45] ✅ DONE! 0/1 plays of "bamchikicha"
+[16:17:45] =======================================================
+[16:17:56] 📐 Detected screen resolution: 1080x2400
+[16:17:56] =======================================================
+[16:17:56] 🎵 Spotify Bot — v8 (Auto-Play Detection)
+[16:17:56] 📐 Screen: 1080x2400
+[16:17:56] 🎤 Song: bamchikicha
+[16:17:56] 🎤 Artist: lifah
+[16:17:56] 🔍 Search query: "bamchikicha lifah"
+[16:17:56] 🎯 Target plays: 1
+[16:17:56] ⏱️ Per play: 35s
+[16:17:56] =======================================================
+[16:17:56] ✅ ADB device detected
+[16:17:56] Starting in 5 seconds...
+[16:18:01] 
+🔄 ROUND 1 | ✅ 0/1
+
+[16:18:01] 📱 Launching Spotify...
+[16:18:04] 🔓 Waking and unlocking phone...
+[16:18:12] ━━━ STEP 1: Reset to Home ━━━
+[16:18:12]    📱 Bringing Spotify to foreground (was: com.safaricom.mpesa.lifestyle)
+[16:18:14]    👆 Tap: Home tab (97,2328)
+[16:18:21] ━━━ STEP 2: Open Search ━━━
+[16:18:25]    👆 Tap: Search tab (attempt 1) (324,2287)
+[16:18:44]    ✅ Search screen
+[16:18:44] ━━━ STEP 3: Search for "bamchikicha lifah" ━━━
+[16:18:44]    🔍 Ensuring search field is ready for "bamchikicha lifah"
+[16:18:45]    🔍 Focusing search field
+[16:18:45]    Trying known coordinate (345, 120)
+[16:18:45]    👆 Tap: Known search field (345,120)
+[16:18:52]    Found search field via placeholder text at (397,332)
+[16:18:52]    UI detected search field at (397, 332)
+[16:18:52]    👆 Tap: UI-detected search field (397,332)
+[16:18:55]    ✅ Keyboard is visible
+[16:18:55]    🧹 Clearing search field
+[16:19:08]    ⌨️ Typing (char by char): "bamchikicha lifah"
+[16:19:18]    ⚠️ Text mismatch. Expected: "bamchikicha lifah", Got: "bamchikicha liah"
+[16:19:19]    ⌨️ Typing (char by char): "bamchikicha lifah"
+[16:19:28]    ❌ Final verification failed. Got: "bamchikicha lbamchikicha lifah"
+[16:19:28]    ❌ Could not prepare search field
+[16:19:28] ❌ Search results did not load. Retrying round.
+[16:19:28] 
+🔄 ROUND 2 | ✅ 0/1
+
+[16:19:28] 📱 Launching Spotify...
+[16:19:31] 🔓 Waking and unlocking phone...
+[16:19:38] ━━━ STEP 1: Reset to Home ━━━
+[16:19:38]    📱 Bringing Spotify to foreground (was: com.safaricom.mpesa.lifestyle)
+[16:19:40]    👆 Tap: Home tab (97,2328)
+[16:19:48]    👆 Tap: Home tab (97,2280)
+[16:19:54]    👆 Tap: Home tab (140,2280)
+[16:20:00]    👆 Tap: Home tab (118,2232)
+[16:20:08] ⚠️ Could not verify home screen
+[16:20:08] ━━━ STEP 2: Open Search ━━━
+[16:20:12]    👆 Tap: Search tab (attempt 1) (324,2287)
+[16:20:17]    ✅ Search screen
+[16:20:17] ━━━ STEP 3: Search for "bamchikicha lifah" ━━━
+[16:20:17]    🔍 Ensuring search field is ready for "bamchikicha lifah"
+[16:20:17]    Keyboard already visible
+[16:20:17]    🧹 Clearing search field
+[16:20:33]    ⌨️ Typing (char by char): "bamchikicha lifah"
+[16:20:41]    ✅ Verified exact text: "bamchikicha lifah"
+[16:20:41]    ⌨️ Pressing Enter
+[16:20:46]    ✅ Search results
+[16:20:46] ━━━ Playing: "bamchikicha" by "lifah" ━━━
+[16:20:46]    🎯 Looking for: "bamchikicha" by "lifah"
+[16:20:49]    📋 Found 12 valid song candidates
+[16:20:49]    ✅ Found EXACT match: "Bamchikicha" by "Lifah" at (512,422)
+[16:20:49]    👆 Tap: Click: Bamchikicha (512,422)
+[16:20:50]    🎮 Checking if mini-player click is needed...
+[16:20:50]    🎵 Checking if song started playing automatically...
+[16:20:52]    📊 Playback state: Playing=True, Position=1045
+[16:20:52]    ✅ Song is already playing!
+[16:20:52]    ⏭️ Skipping mini-player click - already playing!
+[16:20:52]    🎵 Starting playback stream...
+[16:20:52]    📊 First check - Playing: True, Position: 1045
+[16:20:55]    📊 Second check - Playing: True, Position: 1045
+[16:20:55]    ⚠️ Position did not advance, but playback state is active
+[16:20:55]    ▶️ Playback confirmed! Streaming for 35s...
+[16:21:32] 
+📊 Round 2: +1 play | Total: 1/1
+[16:21:32] 
+[16:21:32] =======================================================
+[16:21:32] ✅ DONE! 1/1 plays of "bamchikicha"
+[16:21:32] =======================================================

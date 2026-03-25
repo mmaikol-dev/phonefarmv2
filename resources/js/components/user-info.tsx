@@ -20,7 +20,18 @@ export function UserInfo({
                 </AvatarFallback>
             </Avatar>
             <div className="grid flex-1 text-left text-sm leading-tight">
-                <span className="truncate font-medium">{user.name}</span>
+                <div className="flex items-center gap-2">
+                    <span className="truncate font-medium">{user.name}</span>
+                    <span
+                        className={`inline-flex shrink-0 items-center rounded-full border px-2 py-0.5 text-[10px] font-semibold uppercase tracking-wide ${
+                            user.role === 'admin'
+                                ? 'border-primary/30 bg-primary/10 text-primary'
+                                : 'border-border bg-muted text-muted-foreground'
+                        }`}
+                    >
+                        {user.role}
+                    </span>
+                </div>
                 {showEmail && (
                     <span className="truncate text-xs text-muted-foreground">
                         {user.email}

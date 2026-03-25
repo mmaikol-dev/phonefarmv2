@@ -1,0 +1,488 @@
+[17:08:44] =======================================================
+[17:08:44] 🎵 Spotify Bot — UI Automator Control
+[17:08:44] 🎤 Artist: Wakadinali
+[17:08:44] 🎯 Target: 10 streams
+[17:08:44] ⏱️ Per song: 35s
+[17:08:44] =======================================================
+[17:08:44] ✅ ADB device detected
+[17:08:44] Starting in 5 seconds...
+[17:08:49] 
+🔄 ROUND 1 | ✅ 0/10
+
+[17:08:49] 📱 Opening Spotify...
+[17:08:49] 🔓 Waking and unlocking phone...
+[17:08:50] =======================================================
+[17:08:50] 🎵 Spotify Bot — UI Automator Control
+[17:08:50] 🎤 Artist: Wakadinali
+[17:08:50] 🎯 Target: 10 streams
+[17:08:50] ⏱️ Per song: 35s
+[17:08:50] =======================================================
+[17:08:50] ✅ ADB device detected
+[17:08:50] Starting in 5 seconds...
+[17:08:53] =======================================================
+[17:08:53] 🎵 Spotify Bot — UI Automator Control
+[17:08:53] 🎤 Artist: Wakadinali
+[17:08:53] 🎯 Target: 10 streams
+[17:08:53] ⏱️ Per song: 35s
+[17:08:53] =======================================================
+[17:08:53] ✅ ADB device detected
+[17:08:53] Starting in 5 seconds...
+[17:08:58] 
+🔄 ROUND 1 | ✅ 0/10
+
+[17:08:58] 📱 Opening Spotify...
+[17:08:58] 🔓 Waking and unlocking phone...
+[17:09:10] ━━━ STEP 1: Reset to Home ━━━
+[17:09:10]    👆 Tap: Home tab (100,2328)
+[17:09:53]    👆 Tap: Home tab (100,2288)
+[17:10:33]    👆 Tap: Home tab (140,2288)
+[17:11:01]    👆 Tap: Home tab (120,2235)
+[17:11:09] ⚠️ Could not verify home screen
+[17:11:09] ━━━ STEP 2: Open Search ━━━
+[17:11:12]    👆 Tap: Search tab (attempt 1) (324,2288)
+[17:11:29]    ❌ Timed out waiting for Search screen
+[17:11:29]    👆 Tap: Search tab (attempt 2) (324,2328)
+[17:11:52]    ❌ Timed out waiting for Search screen
+[17:11:52]    👆 Tap: Search tab (attempt 3) (300,2288)
+[17:12:11]    ❌ Timed out waiting for Search screen
+[17:12:11]    👆 Tap: Search tab (attempt 4) (360,2288)
+[17:13:38]    ❌ Timed out waiting for Search screen
+[17:13:38]    👆 Tap: Search tab (attempt 5) (324,2235)
+[17:14:11] =======================================================
+[17:14:11] 🎵 Spotify Bot — UI Automator Control
+[17:14:11] 🎤 Artist: Wakadinali
+[17:14:11] 🎯 Target: 10 streams
+[17:14:11] ⏱️ Per song: 35s
+[17:14:11] =======================================================
+[17:14:11] ✅ ADB device detected
+[17:14:11] Starting in 5 seconds...
+[17:14:14] =======================================================
+[17:14:14] 🎵 Spotify Bot — UI Automator Control
+[17:14:14] 🎤 Artist: Wakadinali
+[17:14:14] 🎯 Target: 10 streams
+[17:14:14] ⏱️ Per song: 35s
+[17:14:14] =======================================================
+[17:14:14] ✅ ADB device detected
+[17:14:14] Starting in 5 seconds...
+[17:14:19] 
+🔄 ROUND 1 | ✅ 0/10
+
+[17:14:19] 📱 Opening Spotify...
+[17:14:19] 🔓 Waking and unlocking phone...
+[17:14:32] ━━━ STEP 1: Reset to Home ━━━
+[17:14:32]    👆 Tap: Home tab (100,2328)
+[17:15:13]    👆 Tap: Home tab (100,2288)
+[17:15:54]    👆 Tap: Home tab (140,2288)
+[17:16:27] =======================================================
+[17:16:27] 🎵 Spotify Bot — UI Automator Control
+[17:16:27] 🎤 Artist: Wakadinali
+[17:16:27] 🎯 Target: 10 streams
+[17:16:27] ⏱️ Per song: 35s
+[17:16:27] =======================================================
+[17:16:27] ✅ ADB device detected
+[17:16:27] Starting in 5 seconds...
+[17:16:32] 
+🔄 ROUND 1 | ✅ 0/10
+
+[17:16:32] 📱 Opening Spotify...
+[17:16:32] 🔓 Waking and unlocking phone...
+[17:16:44] ━━━ STEP 1: Reset to Home ━━━
+[17:16:44]    👆 Tap: Home tab (100,2328)
+[17:17:36] =======================================================
+[17:17:36] 🎵 Spotify Bot — UI Automator Control
+[17:17:36] 🎤 Artist: Wakadinali
+[17:17:36] 🎯 Target: 10 streams
+[17:17:36] ⏱️ Per song: 35s
+[17:17:36] =======================================================
+[17:17:36] ✅ ADB device detected
+[17:17:36] Starting in 5 seconds...
+[17:17:41] 
+🔄 ROUND 1 | ✅ 0/10
+
+[17:17:41] 📱 Opening Spotify...
+[17:17:41] 🔓 Waking and unlocking phone...
+[17:17:53] ━━━ STEP 1: Reset to Home ━━━
+[17:17:53]    👆 Tap: Home tab (100,2328)
+[17:18:01] =======================================================
+[17:18:01] 🎵 Spotify Bot — UI Automator Control
+[17:18:01] 🎤 Artist: Wakadinali
+[17:18:01] 🎯 Target: 10 streams
+[17:18:01] ⏱️ Per song: 35s
+[17:18:01] =======================================================
+[17:18:01] ✅ ADB device detected
+[17:18:01] Starting in 5 seconds...
+[17:18:06] 
+🔄 ROUND 1 | ✅ 0/10
+
+[17:18:06] 📱 Opening Spotify...
+[17:18:06] 🔓 Waking and unlocking phone...
+[17:18:17] ━━━ STEP 1: Reset to Home ━━━
+[17:18:17]    👆 Tap: Home tab (100,2328)
+[17:18:59]    👆 Tap: Home tab (100,2288)
+[17:21:11] =======================================================
+[17:21:11] 🎵 Spotify Bot — UI Automator Control
+[17:21:11] 🎤 Artist: Wakadinali
+[17:21:11] 🎯 Target: 10 streams
+[17:21:11] ⏱️ Per song: 35s
+[17:21:11] =======================================================
+[17:21:11] ✅ ADB device detected
+[17:21:11] Starting in 5 seconds...
+[17:21:14] =======================================================
+[17:21:14] 🎵 Spotify Bot — UI Automator Control
+[17:21:14] 🎤 Artist: Wakadinali
+[17:21:14] 🎯 Target: 10 streams
+[17:21:14] ⏱️ Per song: 35s
+[17:21:14] =======================================================
+[17:21:14] ✅ ADB device detected
+[17:21:14] Starting in 5 seconds...
+[17:21:19] 
+🔄 ROUND 1 | ✅ 0/10
+
+[17:21:19] 📱 Opening Spotify...
+[17:21:19] 🔓 Waking and unlocking phone...
+[17:21:31] ━━━ STEP 1: Reset to Home ━━━
+[17:21:31]    👆 Tap: Home tab (100,2328)
+[17:22:13]    👆 Tap: Home tab (100,2288)
+[17:22:24] =======================================================
+[17:22:24] 🎵 Spotify Bot — UI Automator Control
+[17:22:24] 🎤 Artist: Wakadinali
+[17:22:24] 🎯 Target: 10 streams
+[17:22:24] ⏱️ Per song: 35s
+[17:22:24] =======================================================
+[17:22:24] ✅ ADB device detected
+[17:22:24] Starting in 5 seconds...
+[17:22:29] 
+🔄 ROUND 1 | ✅ 0/10
+
+[17:22:29] 📱 Opening Spotify...
+[17:22:29] 🔓 Waking and unlocking phone...
+[17:22:32] =======================================================
+[17:22:32] 🎵 Spotify Bot — UI Automator Control
+[17:22:32] 🎤 Artist: Wakadinali
+[17:22:32] 🎯 Target: 10 streams
+[17:22:32] ⏱️ Per song: 35s
+[17:22:32] =======================================================
+[17:22:32] ✅ ADB device detected
+[17:22:32] Starting in 5 seconds...
+[17:22:37] 
+🔄 ROUND 1 | ✅ 0/10
+
+[17:22:37] 📱 Opening Spotify...
+[17:22:37] 🔓 Waking and unlocking phone...
+[17:22:48] ━━━ STEP 1: Reset to Home ━━━
+[17:22:48]    👆 Tap: Home tab (100,2328)
+[17:22:55]    👆 Tap: Home tab (100,2288)
+[17:23:35]    👆 Tap: Home tab (140,2288)
+[17:24:17]    👆 Tap: Home tab (120,2235)
+[17:24:51] ⚠️ Could not verify home screen
+[17:24:51] ━━━ STEP 2: Open Search ━━━
+[17:24:55]    👆 Tap: Search tab (attempt 1) (324,2288)
+[17:27:32]    ❌ Timed out waiting for Search screen
+[17:27:32]    👆 Tap: Search tab (attempt 2) (324,2328)
+[17:28:25]    ❌ Timed out waiting for Search screen
+[17:28:25]    👆 Tap: Search tab (attempt 3) (300,2288)
+[17:29:25]    ❌ Timed out waiting for Search screen
+[17:29:25]    👆 Tap: Search tab (attempt 4) (360,2288)
+[17:29:59]    ✅ Search screen
+[17:29:59] ━━━ STEP 3: Search Wakadinali ━━━
+[17:29:59]    🔍 Ensuring search field is ready
+[17:30:00]    🔍 Focusing search field
+[17:30:00]    Trying known coordinate (350, 124)
+[17:30:00]    👆 Tap: Known search field (350,124)
+[17:30:04]    Known coordinate failed, trying UI detection
+[17:30:07]    Found search field via placeholder text at (397,332)
+[17:30:07]    UI detected search field at (397, 332)
+[17:30:07]    👆 Tap: UI-detected search field (397,332)
+[17:30:11]    ✅ Keyboard is visible
+[17:30:11]    🧹 Clearing search field
+[17:30:13]    ⌨️ Typing: "Wakadinali"
+[17:30:17]    ✅ Verified text in search field: "WakadinaliWakadinali"
+[17:30:17]    ⌨️ Pressing Enter
+[17:30:38]    ✅ Search results
+[17:30:38] ━━━ STEP 4: Open Artist 'Wakadinali' ━━━
+[17:30:41]    👆 Tap: Artist: Wakadinali (228,263)
+[17:30:56]    ✅ Artist page
+[17:30:56] ━━━ STEP 5: Follow Artist ━━━
+[17:31:03]    👆 Tap: Follow (884,261)
+[17:31:07] ━━━ STEP 6: Stream Songs ━━━
+[17:31:07]    📜 Scrolling to songs...
+[17:31:13]    ⚠️ No song rows found dynamically, using fallback
+[17:31:13]    Found 5 songs to stream
+[17:31:13] 
+   🎵 Song 1: Song 1
+[17:31:13]    👆 Tapping song row at (232, 655)
+[17:31:13]    👆 Tap: Song 1 (232,655)
+[17:31:29]    ❌ Timed out waiting for Playback to start
+[17:31:29]    ⚠️ Playback not confirmed, skipping
+[17:31:32] 
+   🎵 Song 2: Song 2
+[17:31:32]    👆 Tapping song row at (229, 807)
+[17:31:32]    👆 Tap: Song 2 (229,807)
+[17:31:47]    ❌ Timed out waiting for Playback to start
+[17:31:47]    ⚠️ Playback not confirmed, skipping
+[17:31:50] 
+   🎵 Song 3: Song 3
+[17:31:50]    👆 Tapping song row at (227, 951)
+[17:31:50]    👆 Tap: Song 3 (227,951)
+[17:32:06]    ❌ Timed out waiting for Playback to start
+[17:32:06]    ⚠️ Playback not confirmed, skipping
+[17:32:09] 
+   🎵 Song 4: Song 4
+[17:32:09]    👆 Tapping song row at (226, 1101)
+[17:32:09]    👆 Tap: Song 4 (226,1101)
+[17:32:24]    ❌ Timed out waiting for Playback to start
+[17:32:24]    ⚠️ Playback not confirmed, skipping
+[17:32:27] 
+   🎵 Song 5: Song 5
+[17:32:27]    👆 Tapping song row at (226, 1254)
+[17:32:27]    👆 Tap: Song 5 (226,1254)
+[17:32:42]    ❌ Timed out waiting for Playback to start
+[17:32:42]    ⚠️ Playback not confirmed, skipping
+[17:32:45] 
+📊 Round 1: +0 streams | Total: 0/10
+[17:32:45] 😴 Break: 32s...
+[17:33:17] 
+🔄 ROUND 2 | ✅ 0/10
+
+[17:33:17] 📱 Opening Spotify...
+[17:33:17] 🔓 Waking and unlocking phone...
+[17:33:29] ━━━ STEP 1: Reset to Home ━━━
+[17:33:29]    👆 Tap: Home tab (100,2328)
+[17:33:40]    👆 Tap: Home tab (100,2288)
+[17:33:47] ━━━ STEP 2: Open Search ━━━
+[17:33:51]    👆 Tap: Search tab (attempt 1) (324,2288)
+[17:34:16]    ❌ Timed out waiting for Search screen
+[17:34:16]    👆 Tap: Search tab (attempt 2) (324,2328)
+[17:34:41]    ❌ Timed out waiting for Search screen
+[17:34:41]    👆 Tap: Search tab (attempt 3) (300,2288)
+[17:35:11]    ❌ Timed out waiting for Search screen
+[17:35:11]    👆 Tap: Search tab (attempt 4) (360,2288)
+[17:35:17]    ✅ Search screen
+[17:35:17] ━━━ STEP 3: Search Wakadinali ━━━
+[17:35:17]    🔍 Ensuring search field is ready
+[17:35:17]    Keyboard already visible
+[17:35:17]    🧹 Clearing search field
+[17:35:20]    ⌨️ Typing: "Wakadinali"
+[17:35:24]    ✅ Verified text in search field: "WakadinaliWakadinali"
+[17:35:24]    ⌨️ Pressing Enter
+[17:35:29]    ✅ Search results
+[17:35:29] ━━━ STEP 4: Open Artist 'Wakadinali' ━━━
+[17:35:32]    👆 Tap: Artist: Wakadinali (228,263)
+[17:35:45]    ❌ Timed out waiting for Artist page
+[17:35:45] ❌ Artist page did not open. Retrying round.
+[17:35:45] 
+🔄 ROUND 3 | ✅ 0/10
+
+[17:35:45] 📱 Opening Spotify...
+[17:35:45] 🔓 Waking and unlocking phone...
+[17:35:56] ━━━ STEP 1: Reset to Home ━━━
+[17:35:56]    👆 Tap: Home tab (100,2328)
+[17:36:02]    👆 Tap: Home tab (100,2288)
+[17:36:19]    👆 Tap: Home tab (140,2288)
+[17:36:27]    👆 Tap: Home tab (120,2235)
+[17:36:33] ⚠️ Could not verify home screen
+[17:36:33] ━━━ STEP 2: Open Search ━━━
+[17:36:37]    👆 Tap: Search tab (attempt 1) (324,2288)
+[17:36:54]    ❌ Timed out waiting for Search screen
+[17:36:54]    👆 Tap: Search tab (attempt 2) (324,2328)
+[17:37:16]    ❌ Timed out waiting for Search screen
+[17:37:16]    👆 Tap: Search tab (attempt 3) (300,2288)
+[17:37:19]    ✅ Search screen
+[17:37:19] ━━━ STEP 3: Search Wakadinali ━━━
+[17:37:19]    🔍 Ensuring search field is ready
+[17:37:19]    Keyboard already visible
+[17:37:19]    🧹 Clearing search field
+[17:37:22]    ⌨️ Typing: "Wakadinali"
+[17:37:31]    ✅ Verified text in search field: "WakadinaliWakadinali"
+[17:37:31]    ⌨️ Pressing Enter
+[17:37:36]    ✅ Search results
+[17:37:36] ━━━ STEP 4: Open Artist 'Wakadinali' ━━━
+[17:37:39]    👆 Tap: Artist: Wakadinali (228,263)
+[17:37:50]    ❌ Timed out waiting for Artist page
+[17:37:50] ❌ Artist page did not open. Retrying round.
+[17:37:50] 
+🔄 ROUND 4 | ✅ 0/10
+
+[17:37:50] 📱 Opening Spotify...
+[17:37:50] 🔓 Waking and unlocking phone...
+[17:38:02] ━━━ STEP 1: Reset to Home ━━━
+[17:38:02]    👆 Tap: Home tab (100,2328)
+[17:38:06] ━━━ STEP 2: Open Search ━━━
+[17:38:15]    👆 Tap: Search tab (attempt 1) (324,2287)
+[17:38:32]    ❌ Timed out waiting for Search screen
+[17:38:32]    👆 Tap: Search tab (attempt 2) (324,2328)
+[17:38:37]    ✅ Search screen
+[17:38:37] ━━━ STEP 3: Search Wakadinali ━━━
+[17:38:37]    🔍 Ensuring search field is ready
+[17:38:38]    🔍 Focusing search field
+[17:38:38]    Trying known coordinate (350, 124)
+[17:38:38]    👆 Tap: Known search field (350,124)
+[17:38:41]    Known coordinate failed, trying UI detection
+[17:38:44]    Found search field via placeholder text at (540,170)
+[17:38:44]    UI detected search field at (540, 170)
+[17:38:44]    👆 Tap: UI-detected search field (540,170)
+[17:38:48]    ✅ Keyboard is visible
+[17:38:48]    🧹 Clearing search field
+[17:38:50]    ⌨️ Typing: "Wakadinali"
+[17:38:56]    ✅ Verified text in search field: "Wakadinali"
+[17:38:56]    ⌨️ Pressing Enter
+[17:39:00]    ✅ Search results
+[17:39:00] ━━━ STEP 4: Open Artist 'Wakadinali' ━━━
+[17:39:03]    👆 Tap: Artist: Wakadinali (320,560)
+[17:39:11]    ✅ Artist page
+[17:39:11] ━━━ STEP 6: Stream Songs ━━━
+[17:39:11]    📜 Scrolling to songs...
+[17:39:17]    ⚠️ No song rows found dynamically, using fallback
+[17:39:17]    Found 5 songs to stream
+[17:39:17] 
+   🎵 Song 1: Song 1
+[17:39:17]    👆 Tapping song row at (232, 655)
+[17:39:17]    👆 Tap: Song 1 (232,655)
+[17:39:31]    ❌ Timed out waiting for Playback to start
+[17:39:31]    ⚠️ Playback not confirmed, skipping
+[17:39:34] 
+   🎵 Song 2: Song 2
+[17:39:34]    👆 Tapping song row at (229, 807)
+[17:39:34]    👆 Tap: Song 2 (229,807)
+[17:39:48]    ❌ Timed out waiting for Playback to start
+[17:39:48]    ⚠️ Playback not confirmed, skipping
+[17:39:51] 
+   🎵 Song 3: Song 3
+[17:39:51]    👆 Tapping song row at (227, 951)
+[17:39:51]    👆 Tap: Song 3 (227,951)
+[17:40:06]    ❌ Timed out waiting for Playback to start
+[17:40:06]    ⚠️ Playback not confirmed, skipping
+[17:40:09] 
+   🎵 Song 4: Song 4
+[17:40:09]    👆 Tapping song row at (226, 1101)
+[17:40:09]    👆 Tap: Song 4 (226,1101)
+[17:40:23]    ❌ Timed out waiting for Playback to start
+[17:40:23]    ⚠️ Playback not confirmed, skipping
+[17:40:26] 
+   🎵 Song 5: Song 5
+[17:40:26]    👆 Tapping song row at (226, 1254)
+[17:40:26]    👆 Tap: Song 5 (226,1254)
+[17:40:41]    ❌ Timed out waiting for Playback to start
+[17:40:41]    ⚠️ Playback not confirmed, skipping
+[17:40:44] 
+📊 Round 4: +0 streams | Total: 0/10
+[17:40:44] 😴 Break: 36s...
+[17:41:20] 
+🔄 ROUND 5 | ✅ 0/10
+
+[17:41:20] 📱 Opening Spotify...
+[17:41:20] 🔓 Waking and unlocking phone...
+[17:41:31] ━━━ STEP 1: Reset to Home ━━━
+[17:41:31]    👆 Tap: Home tab (100,2328)
+[17:42:12]    👆 Tap: Home tab (100,2288)
+[17:42:53]    👆 Tap: Home tab (140,2288)
+[17:43:34]    👆 Tap: Home tab (120,2235)
+[17:44:15] ⚠️ Could not verify home screen
+[17:44:15] ━━━ STEP 2: Open Search ━━━
+[17:44:26]    👆 Tap: Search tab (attempt 1) (324,2288)
+[17:44:45]    ❌ Timed out waiting for Search screen
+[17:44:45]    👆 Tap: Search tab (attempt 2) (324,2328)
+[17:45:02]    ❌ Timed out waiting for Search screen
+[17:45:02]    👆 Tap: Search tab (attempt 3) (300,2288)
+[17:45:20]    ❌ Timed out waiting for Search screen
+[17:45:20]    👆 Tap: Search tab (attempt 4) (360,2288)
+[17:45:37]    ❌ Timed out waiting for Search screen
+[17:45:37]    👆 Tap: Search tab (attempt 5) (324,2235)
+[17:45:55]    ❌ Timed out waiting for Search screen
+[17:45:55] ❌ Could not open Search. Retrying round.
+[17:45:55] 
+🔄 ROUND 6 | ✅ 0/10
+
+[17:45:55] 📱 Opening Spotify...
+[17:45:55] 🔓 Waking and unlocking phone...
+[17:46:05] ━━━ STEP 1: Reset to Home ━━━
+[17:46:05]    Spotify not foreground (unknown) — reopening
+[17:46:05] 📱 Opening Spotify...
+[17:46:05] 🔓 Waking and unlocking phone...
+[17:46:15]    👆 Tap: Home tab (100,2328)
+[17:46:22]    👆 Tap: Home tab (100,2288)
+[17:46:29]    👆 Tap: Home tab (140,2288)
+[17:46:36]    👆 Tap: Home tab (120,2235)
+[17:46:43] ⚠️ Could not verify home screen
+[17:46:43] ━━━ STEP 2: Open Search ━━━
+[17:46:47]    👆 Tap: Search tab (attempt 1) (324,2288)
+[17:47:05]    ❌ Timed out waiting for Search screen
+[17:47:05]    👆 Tap: Search tab (attempt 2) (324,2328)
+[17:47:22]    ❌ Timed out waiting for Search screen
+[17:47:22]    👆 Tap: Search tab (attempt 3) (300,2288)
+[17:47:40]    ❌ Timed out waiting for Search screen
+[17:47:40]    👆 Tap: Search tab (attempt 4) (360,2288)
+[17:47:58]    ❌ Timed out waiting for Search screen
+[17:47:58]    👆 Tap: Search tab (attempt 5) (324,2235)
+[17:48:15]    ❌ Timed out waiting for Search screen
+[17:48:15] ❌ Could not open Search. Retrying round.
+[17:48:15] 
+🔄 ROUND 7 | ✅ 0/10
+
+[17:48:15] 📱 Opening Spotify...
+[17:48:15] 🔓 Waking and unlocking phone...
+[17:48:25] ━━━ STEP 1: Reset to Home ━━━
+[17:48:25]    Spotify not foreground (unknown) — reopening
+[17:48:25] 📱 Opening Spotify...
+[17:48:25] 🔓 Waking and unlocking phone...
+[17:48:35]    👆 Tap: Home tab (100,2328)
+[17:48:42]    👆 Tap: Home tab (100,2288)
+[17:48:48]    👆 Tap: Home tab (140,2288)
+[17:48:56]    👆 Tap: Home tab (120,2235)
+[17:49:03] ⚠️ Could not verify home screen
+[17:49:03] ━━━ STEP 2: Open Search ━━━
+[17:49:06]    👆 Tap: Search tab (attempt 1) (324,2288)
+[17:49:24]    ❌ Timed out waiting for Search screen
+[17:49:24]    👆 Tap: Search tab (attempt 2) (324,2328)
+[17:50:05]    ❌ Timed out waiting for Search screen
+[17:50:05]    👆 Tap: Search tab (attempt 3) (300,2288)
+[17:50:20]    ❌ Timed out waiting for Search screen
+[17:50:20]    👆 Tap: Search tab (attempt 4) (360,2288)
+[17:50:49]    ❌ Timed out waiting for Search screen
+[17:50:49]    👆 Tap: Search tab (attempt 5) (324,2235)
+[17:51:55]    ❌ Timed out waiting for Search screen
+[17:51:55] ❌ Could not open Search. Retrying round.
+[17:51:55] 
+🔄 ROUND 8 | ✅ 0/10
+
+[17:51:55] 📱 Opening Spotify...
+[17:51:55] 🔓 Waking and unlocking phone...
+[17:52:07] ━━━ STEP 1: Reset to Home ━━━
+[17:52:07]    👆 Tap: Home tab (100,2328)
+[17:52:15]    👆 Tap: Home tab (100,2288)
+[17:52:55]    👆 Tap: Home tab (140,2288)
+[17:53:36]    👆 Tap: Home tab (120,2235)
+[17:53:51] ⚠️ Could not verify home screen
+[17:53:51] ━━━ STEP 2: Open Search ━━━
+[17:53:58]    👆 Tap: Search tab (attempt 1) (324,2288)
+[17:54:33]    ❌ Timed out waiting for Search screen
+[17:54:33]    👆 Tap: Search tab (attempt 2) (324,2328)
+[17:54:53]    ❌ Timed out waiting for Search screen
+[17:54:53]    👆 Tap: Search tab (attempt 3) (300,2288)
+[17:55:09]    ❌ Timed out waiting for Search screen
+[17:55:09]    👆 Tap: Search tab (attempt 4) (360,2288)
+[17:55:25]    ❌ Timed out waiting for Search screen
+[17:55:25]    👆 Tap: Search tab (attempt 5) (324,2235)
+[17:55:50]    ❌ Timed out waiting for Search screen
+[17:55:50] ❌ Could not open Search. Retrying round.
+[17:55:50] 
+🔄 ROUND 9 | ✅ 0/10
+
+[17:55:50] 📱 Opening Spotify...
+[17:55:50] 🔓 Waking and unlocking phone...
+[17:56:03] ━━━ STEP 1: Reset to Home ━━━
+[17:56:03]    👆 Tap: Home tab (100,2328)
+[17:56:44]    👆 Tap: Home tab (100,2288)
+[17:57:05]    👆 Tap: Home tab (140,2288)
+[17:57:13]    👆 Tap: Home tab (120,2235)
+[17:57:38] ⚠️ Could not verify home screen
+[17:57:38] ━━━ STEP 2: Open Search ━━━
+[17:57:42]    👆 Tap: Search tab (attempt 1) (324,2288)
+[17:58:18]    ❌ Timed out waiting for Search screen
+[17:58:18]    👆 Tap: Search tab (attempt 2) (324,2328)
+[17:58:43]    ❌ Timed out waiting for Search screen
+[17:58:43]    👆 Tap: Search tab (attempt 3) (300,2288)
+[17:59:02]    ❌ Timed out waiting for Search screen
+[17:59:02]    👆 Tap: Search tab (attempt 4) (360,2288)
+[17:59:18]    ❌ Timed out waiting for Search screen
+[17:59:18]    👆 Tap: Search tab (attempt 5) (324,2235)
