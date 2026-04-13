@@ -11,17 +11,21 @@ class STFService
 {
     private string $baseUrl;
 
+    private string $publicBaseUrl;
+
     private string $token;
 
     public function __construct()
     {
         $this->baseUrl = rtrim((string) config('services.stf.base_url', ''), '/');
+        $publicUrl = rtrim((string) config('services.stf.public_base_url', ''), '/');
+        $this->publicBaseUrl = $publicUrl !== '' ? $publicUrl : $this->baseUrl;
         $this->token = (string) config('services.stf.token', '');
     }
 
     public function getBaseUrl(): string
     {
-        return $this->baseUrl;
+        return $this->publicBaseUrl;
     }
 
     public function getControlSocketUrl(): string
@@ -67,6 +71,7 @@ class STFService
 
         $secret = (string) config('services.stf.auth_secret', 'kute kittykat');
         $name = (string) ($user['name'] ?? 'PhoneFarm');
+        // STF's jwtutil reads exp from the header (non-standard but STF-specific)
         $header = [
             'alg' => 'HS256',
             'exp' => (int) round(microtime(true) * 1000) + 86_400_000,
@@ -81,7 +86,7 @@ class STFService
         $signature = hash_hmac('sha256', "{$encodedHeader}.{$encodedPayload}", $secret, true);
         $encodedSignature = $this->base64UrlEncode($signature);
 
-        return "{$this->baseUrl}/?jwt={$encodedHeader}.{$encodedPayload}.{$encodedSignature}";
+        return "{$this->publicBaseUrl}/?jwt={$encodedHeader}.{$encodedPayload}.{$encodedSignature}";
     }
 
     public function isConfigured(): bool
@@ -217,7 +222,7 @@ class STFService
 
     public function getStreamUrl(string $serial): string
     {
-        return "{$this->baseUrl}/#!/c/{$serial}?standalone";
+        return "{$this->publicBaseUrl}/#!/c/{$serial}?standalone";
     }
 
     /**

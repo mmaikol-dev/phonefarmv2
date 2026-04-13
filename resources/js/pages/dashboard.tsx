@@ -1,4 +1,5 @@
 import { Head, Link } from '@inertiajs/react';
+import { useEffect, useRef, useState } from 'react';
 import {
     ExternalLink,
     RefreshCcw,
@@ -73,6 +74,21 @@ export default function Dashboard({
     stfSessionUrl,
     streamUrl,
 }: Props) {
+    const [sessionReady, setSessionReady] = useState(!stfSessionUrl);
+    const sessionTimerRef = useRef<ReturnType<typeof setTimeout> | null>(null);
+
+    useEffect(() => {
+        setSessionReady(!stfSessionUrl);
+        if (sessionTimerRef.current) clearTimeout(sessionTimerRef.current);
+        // Fallback: show stream after 5s even if bootstrap iframe never fires onLoad
+        if (stfSessionUrl) {
+            sessionTimerRef.current = setTimeout(() => setSessionReady(true), 5000);
+        }
+        return () => {
+            if (sessionTimerRef.current) clearTimeout(sessionTimerRef.current);
+        };
+    }, [stfSessionUrl]);
+
     const fallbackDeviceName = [device?.manufacturer, device?.model]
         .filter(Boolean)
         .join(' ');
@@ -160,22 +176,30 @@ export default function Dashboard({
                                     <div className="relative aspect-[9/19.5] overflow-hidden rounded-[1.4rem] border border-white/10 bg-slate-900">
                                         {streamUrl ? (
                                             <>
-                                                {stfSessionUrl ? (
+                                                {stfSessionUrl && !sessionReady ? (
                                                     <iframe
                                                         title="STF session bootstrap"
                                                         src={stfSessionUrl}
                                                         className="hidden"
                                                         tabIndex={-1}
                                                         aria-hidden="true"
+                                                        onLoad={() => setSessionReady(true)}
                                                     />
                                                 ) : null}
-                                                <iframe
-                                                    key={streamUrl}
-                                                    title={`STF device ${device?.serial ?? 'viewer'}`}
-                                                    src={streamUrl}
-                                                    className="size-full border-0 bg-black"
-                                                    allow="clipboard-read; clipboard-write"
-                                                />
+                                                {sessionReady ? (
+                                                    <iframe
+                                                        key={streamUrl}
+                                                        title={`STF device ${device?.serial ?? 'viewer'}`}
+                                                        src={streamUrl}
+                                                        className="size-full border-0 bg-black"
+                                                        allow="clipboard-read; clipboard-write"
+                                                    />
+                                                ) : (
+                                                    <div className="flex size-full flex-col items-center justify-center gap-3 text-slate-400">
+                                                        <Wifi className="size-6 animate-pulse" />
+                                                        <p className="text-xs">Authenticating with STF…</p>
+                                                    </div>
+                                                )}
                                             </>
                                         ) : (
                                             <div className="flex size-full flex-col items-center justify-center gap-4 px-6 text-center text-slate-200">
