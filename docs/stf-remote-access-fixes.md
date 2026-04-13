@@ -237,12 +237,73 @@ The browser now connects socket.io to the ngrok URL → poorxy → port 7110 (we
 
 **Root cause (discovered by protocol inspection):** The STF screen WebSocket at port 7400 uses a custom protocol. The client must send the string `"on"` after connecting to start receiving frames. The frame producer only runs while at least one client is subscribed. When all clients disconnect, the producer stops and minicap's socket buffer fills up. When the next client connects and sends "on", the producer tries to restart but minicap is stuck in `sock_alloc_send_pskb` (blocked waiting to write to a full buffer). No frames flow.
 
-**Fix:** Restart the STF container to reset the minicap connection cleanly:
+**Temporary fix:** Restart the STF container to reset the minicap connection cleanly:
 ```bash
 docker restart phonefarm-stf
 ```
 
-**Permanent fix:** This will recur whenever all browser sessions disconnect and the buffer fills. The real fix is a watchdog, but for now a restart clears it.
+**Permanent fix:** See Problem 11 — a keepalive process that always holds a consumer connection to port 7400, preventing the buffer from ever filling.
+
+---
+
+## Problem 10 — Slow Screen Responsiveness (Large JPEG Frames over ngrok)
+
+**Symptom:** Touch actions registered on the phone immediately but the screen in the dashboard lagged several seconds behind. Network inspection showed each JPEG frame was ~190 KB.
+
+**Root cause:** STF's default JPEG quality is 80 and frame rate is uncapped. At Q80, full-resolution frames over a shared ngrok tunnel cause significant latency — each frame takes ~1–2 seconds to transmit, creating a visible backlog.
+
+**Fix:** Added `--screen-jpeg-quality` and `--screen-frame-rate` flags to the provider fork in `/app/lib/cli/local/index.js` inside the container:
+
+```js
+.concat(['--screen-jpeg-quality', '40'])
+.concat(['--screen-frame-rate', '15'])
+```
+
+Result: when the STF standalone view auto-sends a `size WxH` projection command (based on the iframe dimensions), frames drop from ~190 KB to ~22 KB — an 8.6× reduction — making the screen update near-real-time over ngrok.
+
+After editing: `docker commit phonefarm-stf phonefarm-stf-local` and `docker restart phonefarm-stf`.
+
+---
+
+## Problem 11 — Recurring Grey Screen After Disconnects (Permanent Keepalive Fix)
+
+**Symptom:** The grey screen from Problem 9 recurred every time all browser sessions disconnected and a new user connected. A container restart fixed it temporarily, but it would deadlock again.
+
+**Root cause:** The deadlock cycle — STF's frame producer stops when all consumers disconnect → minicap buffer fills → next consumer's restart attempt blocks — is triggered by any test connection or brief browser session that connects and then disconnects.
+
+**Fix:** A permanent keepalive process (`/app/screen-keepalive.js`) that always holds one WebSocket connection open to port 7400, draining frames silently so the buffer never fills and the producer never stops.
+
+**`/app/screen-keepalive.js`** (created inside the container):
+```js
+const WebSocket = require('ws');
+const PORT = process.env.SCREEN_PORT || 7400;
+const RECONNECT_MS = 3000;
+
+function connect() {
+    const ws = new WebSocket(`ws://127.0.0.1:${PORT}`);
+    ws.on('open', () => { console.log('[keepalive] connected to screen WS'); ws.send('on'); });
+    ws.on('message', () => { /* drain frames silently */ });
+    ws.on('close', (code) => { console.log(`[keepalive] disconnected (${code}), reconnecting in ${RECONNECT_MS}ms`); setTimeout(connect, RECONNECT_MS); });
+    ws.on('error', (e) => { console.log('[keepalive] error:', e.message); });
+}
+connect();
+```
+
+Forked automatically from poorxy at startup (in `/app/lib/units/poorxy/index.js`):
+```js
+server.listen(options.port)
+log.info('Listening on port %d', options.port)
+
+// Permanent keepalive to prevent minicap buffer deadlock
+setTimeout(function() {
+    var cp = require('child_process')
+    cp.fork('/app/screen-keepalive.js', [], { silent: false })
+}, 5000)
+```
+
+The 5-second delay gives the screen WebSocket server (port 7400) time to start before the keepalive tries to connect.
+
+After adding both files: `docker commit phonefarm-stf phonefarm-stf-local`.
 
 ---
 
@@ -286,6 +347,9 @@ Browser
         ├─ GET /?jwt=TOKEN        ──► app server (7105): sets session cookie
         ├─ GET /api/*             ──► api server (7106)
         ├─ GET /auth/*            ──► auth-mock (7120)
-        ├─ WS  /screen-ws         ──► screen WS server (7400): minicap JPEG frames
+        ├─ WS  /screen-ws         ──► screen WS server (7400): minicap JPEG frames (Q40, 15fps)
         └─ WS  /socket.io/        ──► websocket unit (7110): touch/control events
+
+Internal (container only)
+  └─ screen-keepalive.js   ──► ws://127.0.0.1:7400  (always-on drain, prevents minicap deadlock)
 ```
