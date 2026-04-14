@@ -46,6 +46,7 @@ type Props = {
         serial: string | null;
         source: string | null;
     };
+    audioUrl: string | null;
     canOpenStf: boolean;
     device: Device | null;
     devices: Device[];
@@ -65,6 +66,7 @@ const breadcrumbs: BreadcrumbItem[] = [
 
 export default function Dashboard({
     audioStatus,
+    audioUrl,
     canOpenStf,
     device,
     devices,
@@ -170,6 +172,18 @@ export default function Dashboard({
                         </CardHeader>
 
                         <CardContent className="bg-[radial-gradient(circle_at_top,#1f2937,transparent_45%),linear-gradient(180deg,#0f172a,#020617)] p-6">
+                            {audioUrl ? (
+                                <div className="mb-4 flex items-center gap-3 rounded-xl border border-white/10 bg-white/5 px-4 py-2">
+                                    <span className="text-xs text-slate-400 shrink-0">Audio</span>
+                                    <audio
+                                        key={audioUrl}
+                                        src={audioUrl}
+                                        autoPlay
+                                        controls
+                                        className="h-8 w-full min-w-0"
+                                    />
+                                </div>
+                            ) : null}
                             <div className="mx-auto flex w-full max-w-[17rem] justify-center sm:max-w-[18rem] xl:max-w-[19rem]">
                                 <div className="w-full rounded-[1.9rem] border border-white/10 bg-slate-950 p-3 shadow-[0_18px_56px_rgba(2,6,23,0.58)]">
                                     <div className="mx-auto mb-3 h-1.5 w-16 rounded-full bg-white/15" />

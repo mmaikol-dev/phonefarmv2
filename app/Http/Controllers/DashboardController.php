@@ -63,8 +63,13 @@ class DashboardController extends Controller
             }
         }
 
+        $stfPublicBase = rtrim((string) config('services.stf.public_base_url'), '/');
+
         return Inertia::render('dashboard', [
             'audioStatus' => $audioStatus,
+            'audioUrl' => $audioStatus['active'] && $stfPublicBase !== ''
+                ? $stfPublicBase . '/audio'
+                : null,
             'canOpenStf' => $actor?->isAdmin() === true,
             'controlSocketUrl' => $this->stf->getControlSocketUrl(),
             'device' => $device,
